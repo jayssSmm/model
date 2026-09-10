@@ -1,0 +1,3716 @@
+Date,Parameter,Value,Unit of measure
+Mar-93,Fuel usage,60008.0,litres
+Apr-93,Fuel usage,66361.0,litres
+May-93,Fuel usage,73614.0,litres
+Jun-93,Fuel usage,68455.0,litres
+Jul-93,Fuel usage,70883.0,litres
+Aug-93,Fuel usage,69062.0,litres
+Sep-93,Fuel usage,68592.0,litres
+Oct-93,Fuel usage,62229.0,litres
+Nov-93,Fuel usage,50975.0,litres
+Dec-93,Fuel usage,57053.0,litres
+May-94,Fuel usage,78484.0,litres
+Jun-94,Fuel usage,68931.0,litres
+Jul-94,Fuel usage,73453.0,litres
+Aug-94,Fuel usage,75598.0,litres
+Sep-94,Fuel usage,69716.0,litres
+Oct-94,Fuel usage,65339.0,litres
+Nov-94,Fuel usage,59819.0,litres
+Dec-94,Fuel usage,53094.0,litres
+Jan-95,Fuel usage,53587.0,litres
+Feb-95,Fuel usage,54743.0,litres
+Mar-95,Fuel usage,61617.0,litres
+May-95,Fuel usage,65657.0,litres
+Jun-95,Fuel usage,64673.0,litres
+Jul-95,Fuel usage,59942.0,litres
+Aug-95,Fuel usage,69094.0,litres
+Sep-95,Fuel usage,63870.0,litres
+Oct-95,Fuel usage,62003.0,litres
+Nov-95,Fuel usage,54392.0,litres
+Dec-95,Fuel usage,53070.0,litres
+Jan-96,Fuel usage,48309.0,litres
+Feb-96,Fuel usage,52263.0,litres
+Mar-96,Fuel usage,57795.0,litres
+May-96,Fuel usage,68915.0,litres
+Jun-96,Fuel usage,60460.0,litres
+Jul-96,Fuel usage,65854.0,litres
+Aug-96,Fuel usage,65699.0,litres
+Sep-96,Fuel usage,61383.0,litres
+Oct-96,Fuel usage,61849.0,litres
+Nov-96,Fuel usage,53479.0,litres
+Dec-96,Fuel usage,52755.0,litres
+Jan-97,Fuel usage,49877.0,litres
+Jan-97,Fuel usage,51054.0,litres
+Feb-97,Fuel usage,47039.0,litres
+Feb-97,Fuel usage,49176.0,litres
+Mar-97,Fuel usage,55874.0,litres
+Mar-97,Fuel usage,55497.0,litres
+May-97,Fuel usage,71595.0,litres
+May-97,Fuel usage,62587.0,litres
+Jun-97,Fuel usage,65415.0,litres
+Jun-97,Fuel usage,56898.0,litres
+Jul-97,Fuel usage,74792.0,litres
+Jul-97,Fuel usage,60825.0,litres
+Aug-97,Fuel usage,70679.0,litres
+Aug-97,Fuel usage,62583.0,litres
+Sep-97,Fuel usage,63957.0,litres
+Sep-97,Fuel usage,55646.0,litres
+Oct-97,Fuel usage,63711.0,litres
+Oct-97,Fuel usage,54967.0,litres
+Nov-97,Fuel usage,52666.0,litres
+Nov-97,Fuel usage,48073.0,litres
+Dec-97,Fuel usage,50265.0,litres
+Dec-97,Fuel usage,49836.0,litres
+Jan-98,Fuel usage,44981.0,litres
+Jan-98,Fuel usage,47983.0,litres
+Jan-98,Fuel usage,39798.0,litres
+Feb-98,Fuel usage,47092.0,litres
+Feb-98,Fuel usage,42118.0,litres
+Feb-98,Fuel usage,37325.0,litres
+Apr-98,Fuel usage,59613.0,litres
+Apr-98,Fuel usage,58602.0,litres
+Apr-98,Fuel usage,52213.0,litres
+May-98,Fuel usage,68362.0,litres
+May-98,Fuel usage,52949.0,litres
+May-98,Fuel usage,50651.0,litres
+Jun-98,Fuel usage,56935.0,litres
+Jun-98,Fuel usage,53183.0,litres
+Jun-98,Fuel usage,51849.0,litres
+Jul-98,Fuel usage,65080.0,litres
+Jul-98,Fuel usage,57342.0,litres
+Jul-98,Fuel usage,54132.0,litres
+Aug-98,Fuel usage,60948.0,litres
+Aug-98,Fuel usage,53520.0,litres
+Aug-98,Fuel usage,50191.0,litres
+Sep-98,Fuel usage,59421.0,litres
+Sep-98,Fuel usage,52118.0,litres
+Sep-98,Fuel usage,49837.0,litres
+Oct-98,Fuel usage,58667.0,litres
+Oct-98,Fuel usage,53002.0,litres
+Oct-98,Fuel usage,47533.0,litres
+Nov-98,Fuel usage,48478.0,litres
+Nov-98,Fuel usage,47142.0,litres
+Nov-98,Fuel usage,42721.0,litres
+Dec-98,Fuel usage,44645.0,litres
+Dec-98,Fuel usage,44269.0,litres
+Dec-98,Fuel usage,44841.0,litres
+Mar-99,Fuel usage,51693.0,litres
+Mar-99,Fuel usage,52242.0,litres
+Mar-99,Fuel usage,49264.0,litres
+Apr-99,Fuel usage,57425.0,litres
+Apr-99,Fuel usage,54268.0,litres
+Apr-99,Fuel usage,53098.0,litres
+May-99,Fuel usage,64140.0,litres
+May-99,Fuel usage,58602.0,litres
+May-99,Fuel usage,50462.0,litres
+Jun-99,Fuel usage,59237.0,litres
+Jun-99,Fuel usage,55011.0,litres
+Jun-99,Fuel usage,46395.0,litres
+Jul-99,Fuel usage,63856.0,litres
+Jul-99,Fuel usage,56995.0,litres
+Jul-99,Fuel usage,51296.0,litres
+Aug-99,Fuel usage,64204.0,litres
+Aug-99,Fuel usage,52146.0,litres
+Aug-99,Fuel usage,48947.0,litres
+Sep-99,Fuel usage,60470.0,litres
+Sep-99,Fuel usage,52698.0,litres
+Sep-99,Fuel usage,45971.0,litres
+Oct-99,Fuel usage,57913.0,litres
+Oct-99,Fuel usage,45872.0,litres
+Oct-99,Fuel usage,43303.0,litres
+Nov-99,Fuel usage,47062.0,litres
+Nov-99,Fuel usage,41725.0,litres
+Nov-99,Fuel usage,40528.0,litres
+Dec-99,Fuel usage,44914.0,litres
+Dec-99,Fuel usage,42007.0,litres
+Dec-99,Fuel usage,47154.0,litres
+Jan-00,Fuel usage,41865.0,litres
+Jan-00,Fuel usage,44723.0,litres
+Jan-00,Fuel usage,46908.0,litres
+Jan-00,Fuel usage,19572.0,litres
+Feb-00,Fuel usage,42825.0,litres
+Feb-00,Fuel usage,41603.0,litres
+Feb-00,Fuel usage,45048.0,litres
+Feb-00,Fuel usage,14485.0,litres
+Mar-00,Fuel usage,52185.0,litres
+Mar-00,Fuel usage,50558.0,litres
+Mar-00,Fuel usage,49391.0,litres
+Mar-00,Fuel usage,18181.0,litres
+Apr-00,Fuel usage,52929.0,litres
+Apr-00,Fuel usage,51010.0,litres
+Apr-00,Fuel usage,51099.0,litres
+Apr-00,Fuel usage,16901.0,litres
+May-00,Fuel usage,61298.0,litres
+May-00,Fuel usage,55852.0,litres
+May-00,Fuel usage,54707.0,litres
+May-00,Fuel usage,18687.0,litres
+Jun-00,Fuel usage,55861.0,litres
+Jun-00,Fuel usage,54771.0,litres
+Jun-00,Fuel usage,53267.0,litres
+Jun-00,Fuel usage,17836.0,litres
+Jul-00,Fuel usage,60676.0,litres
+Jul-00,Fuel usage,56241.0,litres
+Jul-00,Fuel usage,56521.0,litres
+Jul-00,Fuel usage,18196.0,litres
+Aug-00,Fuel usage,57875.0,litres
+Aug-00,Fuel usage,55953.0,litres
+Aug-00,Fuel usage,54219.0,litres
+Aug-00,Fuel usage,19000.0,litres
+Sep-00,Fuel usage,54752.0,litres
+Sep-00,Fuel usage,52834.0,litres
+Sep-00,Fuel usage,47712.0,litres
+Sep-00,Fuel usage,16742.0,litres
+Oct-00,Fuel usage,55574.0,litres
+Oct-00,Fuel usage,55165.0,litres
+Oct-00,Fuel usage,50721.0,litres
+Oct-00,Fuel usage,17038.0,litres
+Nov-00,Fuel usage,45786.0,litres
+Nov-00,Fuel usage,44475.0,litres
+Nov-00,Fuel usage,44470.0,litres
+Nov-00,Fuel usage,16855.0,litres
+Dec-00,Fuel usage,39528.0,litres
+Dec-00,Fuel usage,43226.0,litres
+Dec-00,Fuel usage,43956.0,litres
+Dec-00,Fuel usage,16534.0,litres
+Jan-01,Fuel usage,36831.0,litres
+Jan-01,Fuel usage,43567.0,litres
+Jan-01,Fuel usage,43911.0,litres
+Jan-01,Fuel usage,16244.0,litres
+Feb-01,Fuel usage,39571.0,litres
+Feb-01,Fuel usage,42737.0,litres
+Feb-01,Fuel usage,41548.0,litres
+Feb-01,Fuel usage,15259.0,litres
+Mar-01,Fuel usage,45127.0,litres
+Mar-01,Fuel usage,49131.0,litres
+Mar-01,Fuel usage,48104.0,litres
+Mar-01,Fuel usage,16403.0,litres
+Apr-01,Fuel usage,52466.0,litres
+Apr-01,Fuel usage,56161.0,litres
+Apr-01,Fuel usage,49498.0,litres
+Apr-01,Fuel usage,16343.0,litres
+May-01,Fuel usage,53685.0,litres
+May-01,Fuel usage,58519.0,litres
+May-01,Fuel usage,50215.0,litres
+May-01,Fuel usage,17675.0,litres
+Jun-01,Fuel usage,53264.0,litres
+Jun-01,Fuel usage,58213.0,litres
+Jun-01,Fuel usage,50867.0,litres
+Jun-01,Fuel usage,17826.0,litres
+Jul-01,Fuel usage,56715.0,litres
+Jul-01,Fuel usage,55581.0,litres
+Jul-01,Fuel usage,51560.0,litres
+Jul-01,Fuel usage,19102.0,litres
+Aug-01,Fuel usage,59503.0,litres
+Aug-01,Fuel usage,58376.0,litres
+Aug-01,Fuel usage,52516.0,litres
+Aug-01,Fuel usage,19672.0,litres
+Sep-01,Fuel usage,54855.0,litres
+Sep-01,Fuel usage,49214.0,litres
+Sep-01,Fuel usage,49496.0,litres
+Sep-01,Fuel usage,16944.0,litres
+Oct-01,Fuel usage,50538.0,litres
+Oct-01,Fuel usage,46430.0,litres
+Oct-01,Fuel usage,50344.0,litres
+Oct-01,Fuel usage,18799.0,litres
+Nov-01,Fuel usage,42353.0,litres
+Nov-01,Fuel usage,41412.0,litres
+Nov-01,Fuel usage,46611.0,litres
+Nov-01,Fuel usage,18120.0,litres
+Dec-01,Fuel usage,40945.0,litres
+Dec-01,Fuel usage,45885.0,litres
+Dec-01,Fuel usage,46590.0,litres
+Dec-01,Fuel usage,18724.0,litres
+Jan-02,Fuel usage,37370.0,litres
+Jan-02,Fuel usage,43589.0,litres
+Jan-02,Fuel usage,36995.0,litres
+Jan-02,Fuel usage,16945.0,litres
+Feb-02,Fuel usage,37502.0,litres
+Feb-02,Fuel usage,42613.0,litres
+Feb-02,Fuel usage,34684.0,litres
+Feb-02,Fuel usage,14032.0,litres
+Mar-02,Fuel usage,47340.0,litres
+Mar-02,Fuel usage,44609.0,litres
+Mar-02,Fuel usage,44817.0,litres
+Mar-02,Fuel usage,16465.0,litres
+Apr-02,Fuel usage,50658.0,litres
+Apr-02,Fuel usage,47112.0,litres
+Apr-02,Fuel usage,48255.0,litres
+Apr-02,Fuel usage,15919.0,litres
+May-02,Fuel usage,54016.0,litres
+May-02,Fuel usage,47725.0,litres
+May-02,Fuel usage,52538.0,litres
+May-02,Fuel usage,17594.0,litres
+Jun-02,Fuel usage,56689.0,litres
+Jun-02,Fuel usage,49091.0,litres
+Jun-02,Fuel usage,44296.0,litres
+Jun-02,Fuel usage,17391.0,litres
+Jul-02,Fuel usage,56077.0,litres
+Jul-02,Fuel usage,51434.0,litres
+Jul-02,Fuel usage,48053.0,litres
+Jul-02,Fuel usage,17272.0,litres
+Aug-02,Fuel usage,55538.0,litres
+Aug-02,Fuel usage,53892.0,litres
+Aug-02,Fuel usage,49282.0,litres
+Aug-02,Fuel usage,17708.0,litres
+Sep-02,Fuel usage,50089.0,litres
+Sep-02,Fuel usage,50101.0,litres
+Sep-02,Fuel usage,47137.0,litres
+Sep-02,Fuel usage,17087.0,litres
+Oct-02,Fuel usage,52785.0,litres
+Oct-02,Fuel usage,54437.0,litres
+Oct-02,Fuel usage,46110.0,litres
+Oct-02,Fuel usage,15523.0,litres
+Nov-02,Fuel usage,45700.0,litres
+Nov-02,Fuel usage,47043.0,litres
+Nov-02,Fuel usage,44427.0,litres
+Nov-02,Fuel usage,14589.0,litres
+Dec-02,Fuel usage,40148.0,litres
+Dec-02,Fuel usage,47023.0,litres
+Dec-02,Fuel usage,39135.0,litres
+Dec-02,Fuel usage,14883.0,litres
+Jan-03,Fuel usage,35652.0,litres
+Jan-03,Fuel usage,47015.0,litres
+Jan-03,Fuel usage,38506.0,litres
+Jan-03,Fuel usage,14744.0,litres
+Feb-03,Fuel usage,29850.0,litres
+Feb-03,Fuel usage,42885.0,litres
+Feb-03,Fuel usage,31943.0,litres
+Feb-03,Fuel usage,13913.0,litres
+May-04,Fuel usage,36841.0,litres
+May-04,Fuel usage,49806.0,litres
+May-04,Fuel usage,47574.0,litres
+May-04,Fuel usage,17126.0,litres
+Jun-04,Fuel usage,48628.0,litres
+Jun-04,Fuel usage,52924.0,litres
+Jun-04,Fuel usage,46767.0,litres
+Jun-04,Fuel usage,16863.0,litres
+Jul-04,Fuel usage,45693.0,litres
+Jul-04,Fuel usage,56290.0,litres
+Jul-04,Fuel usage,53436.0,litres
+Jul-04,Fuel usage,17800.0,litres
+Aug-04,Fuel usage,34251.0,litres
+Aug-04,Fuel usage,51725.0,litres
+Aug-04,Fuel usage,48797.0,litres
+Sep-04,Fuel usage,34683.0,litres
+Sep-04,Fuel usage,51364.0,litres
+Sep-04,Fuel usage,46556.0,litres
+Oct-04,Fuel usage,32596.0,litres
+Oct-04,Fuel usage,49304.0,litres
+Oct-04,Fuel usage,44084.0,litres
+Oct-04,Fuel usage,16868.0,litres
+Nov-04,Fuel usage,28652.0,litres
+Nov-04,Fuel usage,44422.0,litres
+Nov-04,Fuel usage,43086.0,litres
+Nov-04,Fuel usage,14727.0,litres
+Dec-04,Fuel usage,25344.0,litres
+Dec-04,Fuel usage,43484.0,litres
+Dec-04,Fuel usage,36530.0,litres
+Dec-04,Fuel usage,14699.0,litres
+Jan-05,Fuel usage,30882.0,litres
+Jan-05,Fuel usage,38636.0,litres
+Jan-05,Fuel usage,37615.0,litres
+Jan-05,Fuel usage,14148.0,litres
+Feb-05,Fuel usage,28616.0,litres
+Feb-05,Fuel usage,45692.0,litres
+Feb-05,Fuel usage,32726.0,litres
+Feb-05,Fuel usage,11533.0,litres
+Mar-05,Fuel usage,30238.0,litres
+Mar-05,Fuel usage,53465.0,litres
+Mar-05,Fuel usage,42088.0,litres
+Mar-05,Fuel usage,14953.0,litres
+Apr-05,Fuel usage,38349.0,litres
+Apr-05,Fuel usage,57044.0,litres
+Apr-05,Fuel usage,41673.0,litres
+Apr-05,Fuel usage,16680.0,litres
+May-05,Fuel usage,51229.0,litres
+May-05,Fuel usage,50525.0,litres
+May-05,Fuel usage,46955.0,litres
+May-05,Fuel usage,17501.0,litres
+Jun-05,Fuel usage,33661.0,litres
+Jun-05,Fuel usage,48361.0,litres
+Jun-05,Fuel usage,44305.0,litres
+Jun-05,Fuel usage,16037.0,litres
+Jul-05,Fuel usage,50726.0,litres
+Jul-05,Fuel usage,54495.0,litres
+Jul-05,Fuel usage,49852.0,litres
+Jul-05,Fuel usage,16197.0,litres
+Aug-05,Fuel usage,44143.0,litres
+Aug-05,Fuel usage,61123.0,litres
+Aug-05,Fuel usage,47918.0,litres
+Aug-05,Fuel usage,15778.0,litres
+Sep-05,Fuel usage,38300.0,litres
+Sep-05,Fuel usage,57610.0,litres
+Sep-05,Fuel usage,43386.0,litres
+Sep-05,Fuel usage,15750.0,litres
+Oct-05,Fuel usage,35050.0,litres
+Oct-05,Fuel usage,54171.0,litres
+Oct-05,Fuel usage,42404.0,litres
+Oct-05,Fuel usage,14415.0,litres
+Nov-05,Fuel usage,24680.0,litres
+Nov-05,Fuel usage,49759.0,litres
+Nov-05,Fuel usage,39653.0,litres
+Nov-05,Fuel usage,12849.0,litres
+Dec-05,Fuel usage,28472.0,litres
+Dec-05,Fuel usage,43324.0,litres
+Dec-05,Fuel usage,36159.0,litres
+Dec-05,Fuel usage,12122.0,litres
+Jan-06,Fuel usage,34356.0,litres
+Jan-06,Fuel usage,43143.0,litres
+Jan-06,Fuel usage,37655.0,litres
+Jan-06,Fuel usage,12867.0,litres
+Feb-06,Fuel usage,24641.0,litres
+Feb-06,Fuel usage,46741.0,litres
+Feb-06,Fuel usage,41992.0,litres
+Feb-06,Fuel usage,12696.0,litres
+Mar-06,Fuel usage,30904.0,litres
+Mar-06,Fuel usage,50535.0,litres
+Mar-06,Fuel usage,44101.0,litres
+Mar-06,Fuel usage,14644.0,litres
+Apr-06,Fuel usage,21235.0,litres
+Apr-06,Fuel usage,45702.0,litres
+Apr-06,Fuel usage,12797.0,litres
+May-06,Fuel usage,45658.0,litres
+May-06,Fuel usage,60030.0,litres
+May-06,Fuel usage,51270.0,litres
+May-06,Fuel usage,15341.0,litres
+Jun-06,Fuel usage,31052.0,litres
+Jun-06,Fuel usage,54939.0,litres
+Jun-06,Fuel usage,47652.0,litres
+Jun-06,Fuel usage,16919.0,litres
+Jul-06,Fuel usage,43473.0,litres
+Jul-06,Fuel usage,59077.0,litres
+Jul-06,Fuel usage,46935.0,litres
+Jul-06,Fuel usage,17414.0,litres
+Aug-06,Fuel usage,40448.0,litres
+Aug-06,Fuel usage,53560.0,litres
+Aug-06,Fuel usage,47869.0,litres
+Aug-06,Fuel usage,16444.0,litres
+Sep-06,Fuel usage,36661.0,litres
+Sep-06,Fuel usage,51468.0,litres
+Sep-06,Fuel usage,47651.0,litres
+Sep-06,Fuel usage,15920.0,litres
+Oct-06,Fuel usage,30967.0,litres
+Oct-06,Fuel usage,49427.0,litres
+Oct-06,Fuel usage,47724.0,litres
+Oct-06,Fuel usage,16483.0,litres
+Nov-06,Fuel usage,23496.0,litres
+Nov-06,Fuel usage,43130.0,litres
+Nov-06,Fuel usage,42297.0,litres
+Nov-06,Fuel usage,15625.0,litres
+Dec-06,Fuel usage,24284.0,litres
+Dec-06,Fuel usage,47248.0,litres
+Dec-06,Fuel usage,36801.0,litres
+Dec-06,Fuel usage,15480.0,litres
+Jan-07,Fuel usage,32332.0,litres
+Jan-07,Fuel usage,40785.0,litres
+Jan-07,Fuel usage,35093.0,litres
+Jan-07,Fuel usage,13783.0,litres
+Feb-07,Fuel usage,24330.0,litres
+Feb-07,Fuel usage,48070.0,litres
+Feb-07,Fuel usage,37350.0,litres
+Feb-07,Fuel usage,13743.0,litres
+Mar-07,Fuel usage,29201.0,litres
+Mar-07,Fuel usage,51081.0,litres
+Mar-07,Fuel usage,44144.0,litres
+Mar-07,Fuel usage,14274.0,litres
+Apr-07,Fuel usage,35533.0,litres
+Apr-07,Fuel usage,45342.0,litres
+Apr-07,Fuel usage,42711.0,litres
+Apr-07,Fuel usage,15004.0,litres
+May-07,Fuel usage,29720.0,litres
+May-07,Fuel usage,48596.0,litres
+May-07,Fuel usage,47745.0,litres
+May-07,Fuel usage,13577.0,litres
+Jun-07,Fuel usage,30077.0,litres
+Jun-07,Fuel usage,50490.0,litres
+Jun-07,Fuel usage,47793.0,litres
+Jun-07,Fuel usage,14067.0,litres
+Jul-07,Fuel usage,29449.0,litres
+Jul-07,Fuel usage,49276.0,litres
+Jul-07,Fuel usage,48180.0,litres
+Jul-07,Fuel usage,13948.0,litres
+Aug-07,Fuel usage,36777.0,litres
+Aug-07,Fuel usage,51841.0,litres
+Aug-07,Fuel usage,51140.0,litres
+Aug-07,Fuel usage,13238.0,litres
+Sep-07,Fuel usage,35755.0,litres
+Sep-07,Fuel usage,51018.0,litres
+Sep-07,Fuel usage,49413.0,litres
+Sep-07,Fuel usage,12588.0,litres
+Oct-07,Fuel usage,31896.0,litres
+Oct-07,Fuel usage,48901.0,litres
+Oct-07,Fuel usage,46656.0,litres
+Oct-07,Fuel usage,12772.0,litres
+Nov-07,Fuel usage,25224.0,litres
+Nov-07,Fuel usage,39619.0,litres
+Nov-07,Fuel usage,39421.0,litres
+Nov-07,Fuel usage,11921.0,litres
+Dec-07,Fuel usage,37601.0,litres
+Dec-07,Fuel usage,43605.0,litres
+Dec-07,Fuel usage,38331.0,litres
+Dec-07,Fuel usage,12003.0,litres
+Jan-08,Fuel usage,27326.0,litres
+Jan-08,Fuel usage,38636.0,litres
+Jan-08,Fuel usage,37086.0,litres
+Jan-08,Fuel usage,12897.0,litres
+Feb-08,Fuel usage,21574.0,litres
+Feb-08,Fuel usage,45692.0,litres
+Feb-08,Fuel usage,37429.0,litres
+Feb-08,Fuel usage,11523.0,litres
+Mar-08,Fuel usage,26214.0,litres
+Mar-08,Fuel usage,53465.0,litres
+Mar-08,Fuel usage,44317.0,litres
+Mar-08,Fuel usage,13650.0,litres
+Apr-08,Fuel usage,32745.0,litres
+Apr-08,Fuel usage,57044.0,litres
+Apr-08,Fuel usage,44344.0,litres
+Apr-08,Fuel usage,12852.0,litres
+May-08,Fuel usage,25445.0,litres
+May-08,Fuel usage,59398.0,litres
+May-08,Fuel usage,46601.0,litres
+Jun-08,Fuel usage,32107.0,litres
+Jun-08,Fuel usage,54435.0,litres
+Jun-08,Fuel usage,48225.0,litres
+Jun-08,Fuel usage,15338.0,litres
+Jul-08,Fuel usage,39812.0,litres
+Jul-08,Fuel usage,57661.0,litres
+Jul-08,Fuel usage,45824.0,litres
+Jul-08,Fuel usage,14526.0,litres
+Aug-08,Fuel usage,38285.0,litres
+Aug-08,Fuel usage,64397.0,litres
+Aug-08,Fuel usage,49043.0,litres
+Aug-08,Fuel usage,15330.0,litres
+Sep-08,Fuel usage,36741.0,litres
+Sep-08,Fuel usage,58780.0,litres
+Sep-08,Fuel usage,47145.0,litres
+Sep-08,Fuel usage,14771.0,litres
+Oct-08,Fuel usage,31446.0,litres
+Oct-08,Fuel usage,51666.0,litres
+Oct-08,Fuel usage,47220.0,litres
+Oct-08,Fuel usage,15043.0,litres
+Nov-08,Fuel usage,25243.0,litres
+Nov-08,Fuel usage,43329.0,litres
+Nov-08,Fuel usage,38475.0,litres
+Nov-08,Fuel usage,15141.0,litres
+Dec-08,Fuel usage,33015.0,litres
+Dec-08,Fuel usage,40125.0,litres
+Dec-08,Fuel usage,40843.0,litres
+Dec-08,Fuel usage,14095.0,litres
+Jan-09,Fuel usage,29292.0,litres
+Jan-09,Fuel usage,42453.0,litres
+Jan-09,Fuel usage,42649.0,litres
+Jan-09,Fuel usage,14663.0,litres
+Feb-09,Fuel usage,22152.0,litres
+Feb-09,Fuel usage,46503.0,litres
+Feb-09,Fuel usage,36219.0,litres
+Feb-09,Fuel usage,14304.0,litres
+Mar-09,Fuel usage,20817.0,litres
+Mar-09,Fuel usage,47638.0,litres
+Mar-09,Fuel usage,40266.0,litres
+Mar-09,Fuel usage,15493.0,litres
+Apr-09,Fuel usage,28998.0,litres
+Apr-09,Fuel usage,49946.0,litres
+Apr-09,Fuel usage,45644.0,litres
+Apr-09,Fuel usage,13439.0,litres
+May-09,Fuel usage,33356.0,litres
+May-09,Fuel usage,53683.0,litres
+May-09,Fuel usage,46370.0,litres
+May-09,Fuel usage,14109.0,litres
+Jun-09,Fuel usage,34514.0,litres
+Jun-09,Fuel usage,52028.0,litres
+Jun-09,Fuel usage,46442.0,litres
+Jun-09,Fuel usage,15079.0,litres
+Jul-09,Fuel usage,32417.0,litres
+Jul-09,Fuel usage,54749.0,litres
+Jul-09,Fuel usage,46183.0,litres
+Jul-09,Fuel usage,14839.0,litres
+Aug-09,Fuel usage,37963.0,litres
+Aug-09,Fuel usage,59598.0,litres
+Aug-09,Fuel usage,48409.0,litres
+Aug-09,Fuel usage,14234.0,litres
+Sep-09,Fuel usage,30912.0,litres
+Sep-09,Fuel usage,50241.0,litres
+Sep-09,Fuel usage,43584.0,litres
+Sep-09,Fuel usage,13464.0,litres
+Oct-09,Fuel usage,29516.0,litres
+Oct-09,Fuel usage,50129.0,litres
+Oct-09,Fuel usage,42839.0,litres
+Oct-09,Fuel usage,15096.0,litres
+Nov-09,Fuel usage,24547.0,litres
+Nov-09,Fuel usage,41772.0,litres
+Nov-09,Fuel usage,40038.0,litres
+Nov-09,Fuel usage,14459.0,litres
+Dec-09,Fuel usage,56042.0,litres
+Dec-09,Fuel usage,42400.0,litres
+Dec-09,Fuel usage,37847.0,litres
+Dec-09,Fuel usage,13727.0,litres
+Jan-10,Fuel usage,28132.0,litres
+Jan-10,Fuel usage,49271.0,litres
+Jan-10,Fuel usage,39469.0,litres
+Jan-10,Fuel usage,13419.0,litres
+Feb-10,Fuel usage,21105.0,litres
+Feb-10,Fuel usage,43648.0,litres
+Feb-10,Fuel usage,43921.0,litres
+Feb-10,Fuel usage,11949.0,litres
+Mar-10,Fuel usage,20834.0,litres
+Mar-10,Fuel usage,52651.0,litres
+Mar-10,Fuel usage,42075.0,litres
+Mar-10,Fuel usage,13918.0,litres
+Apr-10,Fuel usage,27516.0,litres
+Apr-10,Fuel usage,57853.0,litres
+Apr-10,Fuel usage,45962.0,litres
+Apr-10,Fuel usage,14088.0,litres
+May-10,Fuel usage,26591.0,litres
+May-10,Fuel usage,58854.0,litres
+May-10,Fuel usage,50355.0,litres
+May-10,Fuel usage,14072.0,litres
+Jun-10,Fuel usage,30479.0,litres
+Jun-10,Fuel usage,64238.0,litres
+Jun-10,Fuel usage,51142.0,litres
+Jun-10,Fuel usage,14926.0,litres
+Jul-10,Fuel usage,36020.0,litres
+Jul-10,Fuel usage,65191.0,litres
+Jul-10,Fuel usage,54869.0,litres
+Jul-10,Fuel usage,16737.0,litres
+Aug-10,Fuel usage,35144.0,litres
+Aug-10,Fuel usage,64386.0,litres
+Aug-10,Fuel usage,56982.0,litres
+Aug-10,Fuel usage,15830.0,litres
+Sep-10,Fuel usage,32352.0,litres
+Sep-10,Fuel usage,53823.0,litres
+Sep-10,Fuel usage,56095.0,litres
+Sep-10,Fuel usage,15094.0,litres
+Oct-10,Fuel usage,30210.0,litres
+Oct-10,Fuel usage,56912.0,litres
+Oct-10,Fuel usage,55545.0,litres
+Oct-10,Fuel usage,15226.0,litres
+Nov-10,Fuel usage,31100.0,litres
+Nov-10,Fuel usage,55000.0,litres
+Nov-10,Fuel usage,46333.0,litres
+Nov-10,Fuel usage,15183.0,litres
+Dec-10,Fuel usage,22550.0,litres
+Dec-10,Fuel usage,46270.0,litres
+Dec-10,Fuel usage,42649.0,litres
+Dec-10,Fuel usage,15459.0,litres
+Jan-11,Fuel usage,22539.0,litres
+Jan-11,Fuel usage,60670.0,litres
+Jan-11,Fuel usage,40463.0,litres
+Jan-11,Fuel usage,15197.0,litres
+Feb-11,Fuel usage,22294.0,litres
+Feb-11,Fuel usage,57348.0,litres
+Feb-11,Fuel usage,38424.0,litres
+Feb-11,Fuel usage,14118.0,litres
+Mar-11,Fuel usage,24345.0,litres
+Mar-11,Fuel usage,62658.0,litres
+Mar-11,Fuel usage,46016.0,litres
+Mar-11,Fuel usage,16639.0,litres
+Apr-11,Fuel usage,36200.0,litres
+Apr-11,Fuel usage,65424.0,litres
+Apr-11,Fuel usage,44259.0,litres
+Apr-11,Fuel usage,17648.0,litres
+May-11,Fuel usage,39400.0,litres
+May-11,Fuel usage,66575.0,litres
+May-11,Fuel usage,51428.0,litres
+May-11,Fuel usage,17064.0,litres
+Jun-11,Fuel usage,32236.0,litres
+Jun-11,Fuel usage,71548.0,litres
+Jun-11,Fuel usage,52261.0,litres
+Jun-11,Fuel usage,17306.0,litres
+Jul-11,Fuel usage,38027.0,litres
+Jul-11,Fuel usage,62344.0,litres
+Jul-11,Fuel usage,54146.0,litres
+Jul-11,Fuel usage,17331.0,litres
+Aug-11,Fuel usage,27433.0,litres
+Aug-11,Fuel usage,64447.0,litres
+Aug-11,Fuel usage,12362.0,litres
+Aug-11,Fuel usage,18956.0,litres
+Sep-11,Fuel usage,34588.0,litres
+Sep-11,Fuel usage,63582.0,litres
+Sep-11,Fuel usage,49625.0,litres
+Sep-11,Fuel usage,17406.0,litres
+Oct-11,Fuel usage,40321.0,litres
+Oct-11,Fuel usage,63582.0,litres
+Oct-11,Fuel usage,48829.0,litres
+Oct-11,Fuel usage,17312.0,litres
+Nov-11,Fuel usage,27234.0,litres
+Nov-11,Fuel usage,50759.0,litres
+Nov-11,Fuel usage,42996.0,litres
+Nov-11,Fuel usage,16226.0,litres
+Dec-11,Fuel usage,32178.0,litres
+Dec-11,Fuel usage,51301.0,litres
+Dec-11,Fuel usage,40330.0,litres
+Dec-11,Fuel usage,16997.0,litres
+Jan-12,Fuel usage,24564.0,litres
+Jan-12,Fuel usage,49807.0,litres
+Jan-12,Fuel usage,36406.0,litres
+Jan-12,Fuel usage,16866.0,litres
+Feb-12,Fuel usage,20500.0,litres
+Feb-12,Fuel usage,48072.0,litres
+Feb-12,Fuel usage,42100.0,litres
+Feb-12,Fuel usage,15996.0,litres
+Mar-12,Fuel usage,26511.0,litres
+Mar-12,Fuel usage,55880.0,litres
+Mar-12,Fuel usage,54486.0,litres
+Mar-12,Fuel usage,17649.0,litres
+Apr-12,Fuel usage,36085.0,litres
+Apr-12,Fuel usage,55182.0,litres
+Apr-12,Fuel usage,49576.0,litres
+Apr-12,Fuel usage,16570.0,litres
+May-12,Fuel usage,41728.0,litres
+May-12,Fuel usage,62969.0,litres
+May-12,Fuel usage,57359.0,litres
+May-12,Fuel usage,18526.0,litres
+Jun-12,Fuel usage,46463.0,litres
+Jun-12,Fuel usage,58339.0,litres
+Jun-12,Fuel usage,57858.0,litres
+Jun-12,Fuel usage,19821.0,litres
+Jul-12,Fuel usage,44269.0,litres
+Jul-12,Fuel usage,64509.0,litres
+Jul-12,Fuel usage,61063.0,litres
+Jul-12,Fuel usage,18750.0,litres
+Aug-12,Fuel usage,37428.0,litres
+Aug-12,Fuel usage,63372.0,litres
+Aug-12,Fuel usage,59587.0,litres
+Aug-12,Fuel usage,19495.0,litres
+Sep-12,Fuel usage,38394.0,litres
+Sep-12,Fuel usage,57787.0,litres
+Sep-12,Fuel usage,55876.0,litres
+Sep-12,Fuel usage,18395.0,litres
+Oct-12,Fuel usage,37149.0,litres
+Oct-12,Fuel usage,55515.0,litres
+Oct-12,Fuel usage,52541.0,litres
+Oct-12,Fuel usage,19741.0,litres
+Nov-12,Fuel usage,23350.0,litres
+Nov-12,Fuel usage,44541.0,litres
+Nov-12,Fuel usage,61394.0,litres
+Nov-12,Fuel usage,17747.0,litres
+Mar-13,Fuel usage,30991.0,litres
+Mar-13,Fuel usage,45695.0,litres
+Mar-13,Fuel usage,42318.0,litres
+Mar-13,Fuel usage,16854.0,litres
+Apr-13,Fuel usage,32814.0,litres
+Apr-13,Fuel usage,49196.0,litres
+Apr-13,Fuel usage,54011.0,litres
+Apr-13,Fuel usage,16679.0,litres
+May-13,Fuel usage,37963.0,litres
+May-13,Fuel usage,53494.0,litres
+May-13,Fuel usage,60138.0,litres
+May-13,Fuel usage,18889.0,litres
+Jun-13,Fuel usage,36199.0,litres
+Jun-13,Fuel usage,51150.0,litres
+Jun-13,Fuel usage,59914.0,litres
+Jun-13,Fuel usage,19012.0,litres
+Jul-13,Fuel usage,36121.0,litres
+Jul-13,Fuel usage,54446.0,litres
+Jul-13,Fuel usage,67097.0,litres
+Jul-13,Fuel usage,19364.0,litres
+Aug-13,Fuel usage,32268.0,litres
+Aug-13,Fuel usage,54470.0,litres
+Aug-13,Fuel usage,65324.0,litres
+Aug-13,Fuel usage,18137.0,litres
+Sep-13,Fuel usage,27422.0,litres
+Sep-13,Fuel usage,47777.0,litres
+Sep-13,Fuel usage,55036.0,litres
+Sep-13,Fuel usage,17461.0,litres
+Oct-13,Fuel usage,26105.0,litres
+Oct-13,Fuel usage,49344.0,litres
+Oct-13,Fuel usage,56668.0,litres
+Oct-13,Fuel usage,17542.0,litres
+Nov-13,Fuel usage,35812.0,litres
+Nov-13,Fuel usage,45202.0,litres
+Nov-13,Fuel usage,67269.0,litres
+Nov-13,Fuel usage,17088.0,litres
+Dec-13,Fuel usage,31588.0,litres
+Dec-13,Fuel usage,45205.0,litres
+Dec-13,Fuel usage,62640.0,litres
+Dec-13,Fuel usage,16873.0,litres
+Jan-14,Fuel usage,28641.0,litres
+Jan-14,Fuel usage,47638.0,litres
+Jan-14,Fuel usage,45309.0,litres
+Jan-14,Fuel usage,16424.0,litres
+Feb-14,Fuel usage,18530.0,litres
+Feb-14,Fuel usage,43020.0,litres
+Feb-14,Fuel usage,52203.0,litres
+Feb-14,Fuel usage,13485.0,litres
+Mar-14,Fuel usage,23643.0,litres
+Mar-14,Fuel usage,56812.0,litres
+Mar-14,Fuel usage,48998.0,litres
+Mar-14,Fuel usage,16200.0,litres
+Apr-14,Fuel usage,18399.0,litres
+Apr-14,Fuel usage,55990.0,litres
+Apr-14,Fuel usage,45436.0,litres
+Apr-14,Fuel usage,18115.0,litres
+May-14,Fuel usage,23181.0,litres
+May-14,Fuel usage,52515.0,litres
+May-14,Fuel usage,50881.0,litres
+May-14,Fuel usage,16609.0,litres
+Jun-14,Fuel usage,31975.0,litres
+Jun-14,Fuel usage,58438.0,litres
+Jun-14,Fuel usage,51572.0,litres
+Jun-14,Fuel usage,16017.0,litres
+Jul-14,Fuel usage,29300.0,litres
+Jul-14,Fuel usage,64599.0,litres
+Jul-14,Fuel usage,51230.0,litres
+Jul-14,Fuel usage,15656.0,litres
+Aug-14,Fuel usage,21689.0,litres
+Aug-14,Fuel usage,62435.0,litres
+Aug-14,Fuel usage,55572.0,litres
+Aug-14,Fuel usage,17191.0,litres
+Jun-15,Fuel usage,31682.0,litres
+Jun-15,Fuel usage,56783.0,litres
+Jun-15,Fuel usage,47696.0,litres
+Jun-15,Fuel usage,15617.0,litres
+Jul-15,Fuel usage,44776.0,litres
+Jul-15,Fuel usage,65406.0,litres
+Jul-15,Fuel usage,55129.0,litres
+Jul-15,Fuel usage,15565.0,litres
+Aug-15,Fuel usage,36469.0,litres
+Aug-15,Fuel usage,59085.0,litres
+Aug-15,Fuel usage,58044.0,litres
+Aug-15,Fuel usage,14999.0,litres
+Sep-15,Fuel usage,29212.0,litres
+Sep-15,Fuel usage,55938.0,litres
+Sep-15,Fuel usage,68596.0,litres
+Sep-15,Fuel usage,14470.0,litres
+Oct-15,Fuel usage,23384.0,litres
+Oct-15,Fuel usage,55254.0,litres
+Oct-15,Fuel usage,77262.0,litres
+Oct-15,Fuel usage,15118.0,litres
+Nov-15,Fuel usage,22961.0,litres
+Nov-15,Fuel usage,46656.0,litres
+Nov-15,Fuel usage,58266.0,litres
+Nov-15,Fuel usage,14039.0,litres
+Dec-15,Fuel usage,3148.0,litres
+Dec-15,Fuel usage,43391.0,litres
+Dec-15,Fuel usage,57529.0,litres
+Dec-15,Fuel usage,13981.0,litres
+Jan-16,Fuel usage,27815.0,litres
+Jan-16,Fuel usage,49009.0,litres
+Jan-16,Fuel usage,53186.0,litres
+Jan-16,Fuel usage,13864.0,litres
+Feb-16,Fuel usage,19142.0,litres
+Feb-16,Fuel usage,47414.0,litres
+Feb-16,Fuel usage,56845.0,litres
+Feb-16,Fuel usage,13533.0,litres
+Jan-95,Fuel usage,2300.0,litres
+Feb-95,Fuel usage,2550.0,litres
+Mar-95,Fuel usage,1220.0,litres
+May-95,Fuel usage,900.0,litres
+Jun-95,Fuel usage,500.0,litres
+Jul-95,Fuel usage,280.0,litres
+Aug-95,Fuel usage,1020.0,litres
+Sep-95,Fuel usage,1970.0,litres
+Oct-95,Fuel usage,1100.0,litres
+Nov-95,Fuel usage,1200.0,litres
+Dec-95,Fuel usage,2000.0,litres
+Jan-96,Fuel usage,1000.0,litres
+Feb-96,Fuel usage,1100.0,litres
+Mar-96,Fuel usage,1700.0,litres
+May-96,Fuel usage,2500.0,litres
+Jun-96,Fuel usage,1500.0,litres
+Jul-96,Fuel usage,900.0,litres
+Aug-96,Fuel usage,700.0,litres
+Sep-96,Fuel usage,1100.0,litres
+Oct-96,Fuel usage,1200.0,litres
+Nov-96,Fuel usage,3050.0,litres
+Dec-96,Fuel usage,2000.0,litres
+Jan-97,Fuel usage,850.0,litres
+Jan-97,Fuel usage,1500.0,litres
+Jan-97,Fuel usage,3100.0,litres
+Jan-97,Fuel usage,800.0,litres
+Feb-97,Fuel usage,550.0,litres
+Feb-97,Fuel usage,1800.0,litres
+Feb-97,Fuel usage,3650.0,litres
+Feb-97,Fuel usage,1150.0,litres
+Mar-97,Fuel usage,2300.0,litres
+Mar-97,Fuel usage,1650.0,litres
+Mar-97,Fuel usage,2200.0,litres
+Mar-97,Fuel usage,,litres
+May-97,Fuel usage,200.0,litres
+May-97,Fuel usage,1100.0,litres
+May-97,Fuel usage,1400.0,litres
+May-97,Fuel usage,1045.0,litres
+Jun-97,Fuel usage,200.0,litres
+Jun-97,Fuel usage,1100.0,litres
+Jun-97,Fuel usage,1400.0,litres
+Jun-97,Fuel usage,1000.0,litres
+Jul-97,Fuel usage,400.0,litres
+Jul-97,Fuel usage,2100.0,litres
+Jul-97,Fuel usage,2200.0,litres
+Jul-97,Fuel usage,610.0,litres
+Aug-97,Fuel usage,200.0,litres
+Aug-97,Fuel usage,900.0,litres
+Aug-97,Fuel usage,1400.0,litres
+Aug-97,Fuel usage,560.0,litres
+Sep-97,Fuel usage,300.0,litres
+Sep-97,Fuel usage,900.0,litres
+Sep-97,Fuel usage,,litres
+Sep-97,Fuel usage,633.0,litres
+Oct-97,Fuel usage,500.0,litres
+Oct-97,Fuel usage,1100.0,litres
+Oct-97,Fuel usage,1300.0,litres
+Oct-97,Fuel usage,790.0,litres
+Nov-97,Fuel usage,350.0,litres
+Nov-97,Fuel usage,2000.0,litres
+Nov-97,Fuel usage,2200.0,litres
+Nov-97,Fuel usage,1713.0,litres
+Dec-97,Fuel usage,700.0,litres
+Dec-97,Fuel usage,1900.0,litres
+Dec-97,Fuel usage,3200.0,litres
+Dec-97,Fuel usage,1697.0,litres
+Jan-98,Fuel usage,500.0,litres
+Jan-98,Fuel usage,2000.0,litres
+Jan-98,Fuel usage,2890.0,litres
+Jan-98,Fuel usage,865.0,litres
+Feb-98,Fuel usage,2000.0,litres
+Feb-98,Fuel usage,1000.0,litres
+Feb-98,Fuel usage,1500.0,litres
+Feb-98,Fuel usage,1435.0,litres
+Apr-98,Fuel usage,500.0,litres
+Apr-98,Fuel usage,475.0,litres
+Apr-98,Fuel usage,2700.0,litres
+Apr-98,Fuel usage,1062.0,litres
+May-98,Fuel usage,660.0,litres
+May-98,Fuel usage,1000.0,litres
+May-98,Fuel usage,1400.0,litres
+May-98,Fuel usage,,litres
+Jun-98,Fuel usage,300.0,litres
+Jun-98,Fuel usage,1100.0,litres
+Jun-98,Fuel usage,1700.0,litres
+Jun-98,Fuel usage,1110.0,litres
+Jul-98,Fuel usage,1670.0,litres
+Jul-98,Fuel usage,300.0,litres
+Jul-98,Fuel usage,1000.0,litres
+Jul-98,Fuel usage,,litres
+Aug-98,Fuel usage,800.0,litres
+Aug-98,Fuel usage,500.0,litres
+Aug-98,Fuel usage,0.0,litres
+Aug-98,Fuel usage,927.0,litres
+Sep-98,Fuel usage,400.0,litres
+Sep-98,Fuel usage,1150.0,litres
+Sep-98,Fuel usage,1200.0,litres
+Sep-98,Fuel usage,1013.0,litres
+Oct-98,Fuel usage,330.0,litres
+Oct-98,Fuel usage,600.0,litres
+Oct-98,Fuel usage,800.0,litres
+Oct-98,Fuel usage,608.0,litres
+Nov-98,Fuel usage,770.0,litres
+Nov-98,Fuel usage,700.0,litres
+Nov-98,Fuel usage,1179.0,litres
+Nov-98,Fuel usage,800.0,litres
+Dec-98,Fuel usage,3600.0,litres
+Dec-98,Fuel usage,1000.0,litres
+Dec-98,Fuel usage,1250.0,litres
+Dec-98,Fuel usage,1324.0,litres
+Mar-99,Fuel usage,400.0,litres
+Mar-99,Fuel usage,2400.0,litres
+Mar-99,Fuel usage,2000.0,litres
+Mar-99,Fuel usage,1016.0,litres
+Apr-99,Fuel usage,600.0,litres
+Apr-99,Fuel usage,1900.0,litres
+Apr-99,Fuel usage,0.0,litres
+Apr-99,Fuel usage,1005.0,litres
+May-99,Fuel usage,500.0,litres
+May-99,Fuel usage,1200.0,litres
+May-99,Fuel usage,700.0,litres
+May-99,Fuel usage,,litres
+Jun-99,Fuel usage,600.0,litres
+Jun-99,Fuel usage,500.0,litres
+Jun-99,Fuel usage,,litres
+Jul-99,Fuel usage,500.0,litres
+Jul-99,Fuel usage,1850.0,litres
+Jul-99,Fuel usage,972.0,litres
+Aug-99,Fuel usage,600.0,litres
+Aug-99,Fuel usage,1100.0,litres
+Aug-99,Fuel usage,800.0,litres
+Aug-99,Fuel usage,0.0,litres
+Sep-99,Fuel usage,300.0,litres
+Sep-99,Fuel usage,750.0,litres
+Sep-99,Fuel usage,550.0,litres
+Sep-99,Fuel usage,985.0,litres
+Oct-99,Fuel usage,650.0,litres
+Oct-99,Fuel usage,1650.0,litres
+Oct-99,Fuel usage,500.0,litres
+Oct-99,Fuel usage,0.0,litres
+Nov-99,Fuel usage,850.0,litres
+Nov-99,Fuel usage,2900.0,litres
+Nov-99,Fuel usage,750.0,litres
+Nov-99,Fuel usage,1440.0,litres
+Dec-99,Fuel usage,1200.0,litres
+Dec-99,Fuel usage,2000.0,litres
+Dec-99,Fuel usage,700.0,litres
+Dec-99,Fuel usage,848.0,litres
+Jan-00,Fuel usage,800.0,litres
+Jan-00,Fuel usage,4000.0,litres
+Jan-00,Fuel usage,900.0,litres
+Jan-00,Fuel usage,755.0,litres
+Feb-00,Fuel usage,600.0,litres
+Feb-00,Fuel usage,2000.0,litres
+Feb-00,Fuel usage,1450.0,litres
+Feb-00,Fuel usage,,litres
+Mar-00,Fuel usage,600.0,litres
+Mar-00,Fuel usage,2200.0,litres
+Mar-00,Fuel usage,805.0,litres
+Apr-00,Fuel usage,1300.0,litres
+Apr-00,Fuel usage,1000.0,litres
+Apr-00,Fuel usage,430.0,litres
+Apr-00,Fuel usage,,litres
+May-00,Fuel usage,400.0,litres
+May-00,Fuel usage,850.0,litres
+May-00,Fuel usage,224.0,litres
+May-00,Fuel usage,908.0,litres
+Jun-00,Fuel usage,700.0,litres
+Jun-00,Fuel usage,1000.0,litres
+Jun-00,Fuel usage,550.0,litres
+Jun-00,Fuel usage,1018.0,litres
+Jul-00,Fuel usage,900.0,litres
+Jul-00,Fuel usage,850.0,litres
+Jul-00,Fuel usage,300.0,litres
+Jul-00,Fuel usage,,litres
+Aug-00,Fuel usage,700.0,litres
+Aug-00,Fuel usage,950.0,litres
+Aug-00,Fuel usage,862.0,litres
+Sep-00,Fuel usage,800.0,litres
+Sep-00,Fuel usage,1100.0,litres
+Sep-00,Fuel usage,300.0,litres
+Sep-00,Fuel usage,1068.0,litres
+Oct-00,Fuel usage,100.0,litres
+Oct-00,Fuel usage,1950.0,litres
+Oct-00,Fuel usage,500.0,litres
+Oct-00,Fuel usage,,litres
+Nov-00,Fuel usage,500.0,litres
+Nov-00,Fuel usage,2500.0,litres
+Nov-00,Fuel usage,800.0,litres
+Nov-00,Fuel usage,1817.0,litres
+Dec-00,Fuel usage,2000.0,litres
+Dec-00,Fuel usage,2350.0,litres
+Dec-00,Fuel usage,1100.0,litres
+Dec-00,Fuel usage,810.0,litres
+Jan-01,Fuel usage,700.0,litres
+Jan-01,Fuel usage,1500.0,litres
+Jan-01,Fuel usage,1227.0,litres
+Jan-01,Fuel usage,1460.0,litres
+Feb-01,Fuel usage,700.0,litres
+Feb-01,Fuel usage,2310.0,litres
+Feb-01,Fuel usage,2200.0,litres
+Feb-01,Fuel usage,1390.0,litres
+Mar-01,Fuel usage,800.0,litres
+Mar-01,Fuel usage,1500.0,litres
+Mar-01,Fuel usage,1000.0,litres
+Mar-01,Fuel usage,240.0,litres
+Apr-01,Fuel usage,800.0,litres
+Apr-01,Fuel usage,700.0,litres
+Apr-01,Fuel usage,480.0,litres
+Apr-01,Fuel usage,1540.0,litres
+May-01,Fuel usage,750.0,litres
+May-01,Fuel usage,700.0,litres
+May-01,Fuel usage,300.0,litres
+May-01,Fuel usage,720.0,litres
+Jun-01,Fuel usage,850.0,litres
+Jun-01,Fuel usage,1100.0,litres
+Jun-01,Fuel usage,210.0,litres
+Jun-01,Fuel usage,400.0,litres
+Jul-01,Fuel usage,600.0,litres
+Jul-01,Fuel usage,800.0,litres
+Jul-01,Fuel usage,1400.0,litres
+Jul-01,Fuel usage,780.0,litres
+Aug-01,Fuel usage,800.0,litres
+Aug-01,Fuel usage,950.0,litres
+Aug-01,Fuel usage,600.0,litres
+Aug-01,Fuel usage,670.0,litres
+Sep-01,Fuel usage,700.0,litres
+Sep-01,Fuel usage,1240.0,litres
+Sep-01,Fuel usage,900.0,litres
+Sep-01,Fuel usage,570.0,litres
+Oct-01,Fuel usage,1000.0,litres
+Oct-01,Fuel usage,870.0,litres
+Oct-01,Fuel usage,960.0,litres
+Nov-01,Fuel usage,425.0,litres
+Nov-01,Fuel usage,1250.0,litres
+Nov-01,Fuel usage,1100.0,litres
+Nov-01,Fuel usage,0.0,litres
+Dec-01,Fuel usage,900.0,litres
+Dec-01,Fuel usage,1650.0,litres
+Dec-01,Fuel usage,1000.0,litres
+Dec-01,Fuel usage,,litres
+Jan-02,Fuel usage,1550.0,litres
+Jan-02,Fuel usage,4500.0,litres
+Jan-02,Fuel usage,1250.0,litres
+Jan-02,Fuel usage,0.0,litres
+Feb-02,Fuel usage,1250.0,litres
+Feb-02,Fuel usage,4260.0,litres
+Feb-02,Fuel usage,3450.0,litres
+Feb-02,Fuel usage,1690.0,litres
+Mar-02,Fuel usage,1450.0,litres
+Mar-02,Fuel usage,2900.0,litres
+Mar-02,Fuel usage,350.0,litres
+Mar-02,Fuel usage,1200.0,litres
+Apr-02,Fuel usage,400.0,litres
+Apr-02,Fuel usage,800.0,litres
+Apr-02,Fuel usage,700.0,litres
+Apr-02,Fuel usage,1440.0,litres
+May-02,Fuel usage,800.0,litres
+May-02,Fuel usage,1185.0,litres
+May-02,Fuel usage,500.0,litres
+May-02,Fuel usage,658.0,litres
+Jun-02,Fuel usage,1000.0,litres
+Jun-02,Fuel usage,1850.0,litres
+Jun-02,Fuel usage,525.0,litres
+Jun-02,Fuel usage,480.0,litres
+Jul-02,Fuel usage,1200.0,litres
+Jul-02,Fuel usage,1100.0,litres
+Jul-02,Fuel usage,1475.0,litres
+Jul-02,Fuel usage,530.0,litres
+Aug-02,Fuel usage,900.0,litres
+Aug-02,Fuel usage,1500.0,litres
+Aug-02,Fuel usage,700.0,litres
+Aug-02,Fuel usage,720.0,litres
+Sep-02,Fuel usage,500.0,litres
+Sep-02,Fuel usage,3100.0,litres
+Sep-02,Fuel usage,800.0,litres
+Sep-02,Fuel usage,370.0,litres
+Oct-02,Fuel usage,1500.0,litres
+Oct-02,Fuel usage,1200.0,litres
+Oct-02,Fuel usage,1000.0,litres
+Oct-02,Fuel usage,762.0,litres
+Nov-02,Fuel usage,6000.0,litres
+Nov-02,Fuel usage,1850.0,litres
+Nov-02,Fuel usage,1200.0,litres
+Nov-02,Fuel usage,720.0,litres
+Dec-02,Fuel usage,1300.0,litres
+Dec-02,Fuel usage,3750.0,litres
+Dec-02,Fuel usage,2400.0,litres
+Dec-02,Fuel usage,797.0,litres
+Jan-03,Fuel usage,1600.0,litres
+Jan-03,Fuel usage,2000.0,litres
+Jan-03,Fuel usage,2300.0,litres
+Jan-03,Fuel usage,1430.0,litres
+Feb-03,Fuel usage,1700.0,litres
+Feb-03,Fuel usage,2300.0,litres
+Feb-03,Fuel usage,2000.0,litres
+Feb-03,Fuel usage,560.0,litres
+May-04,Fuel usage,550.0,litres
+May-04,Fuel usage,2100.0,litres
+May-04,Fuel usage,600.0,litres
+May-04,Fuel usage,900.0,litres
+Jun-04,Fuel usage,600.0,litres
+Jun-04,Fuel usage,400.0,litres
+Jun-04,Fuel usage,900.0,litres
+Jun-04,Fuel usage,930.0,litres
+Jul-04,Fuel usage,400.0,litres
+Jul-04,Fuel usage,650.0,litres
+Jul-04,Fuel usage,300.0,litres
+Jul-04,Fuel usage,600.0,litres
+Aug-04,Fuel usage,700.0,litres
+Aug-04,Fuel usage,750.0,litres
+Sep-04,Fuel usage,400.0,litres
+Sep-04,Fuel usage,600.0,litres
+Sep-04,Fuel usage,450.0,litres
+Oct-04,Fuel usage,400.0,litres
+Oct-04,Fuel usage,1250.0,litres
+Oct-04,Fuel usage,500.0,litres
+Oct-04,Fuel usage,200.0,litres
+Nov-04,Fuel usage,600.0,litres
+Nov-04,Fuel usage,1400.0,litres
+Nov-04,Fuel usage,800.0,litres
+Nov-04,Fuel usage,120.0,litres
+Dec-04,Fuel usage,1100.0,litres
+Dec-04,Fuel usage,2500.0,litres
+Dec-04,Fuel usage,700.0,litres
+Dec-04,Fuel usage,500.0,litres
+Jan-05,Fuel usage,1100.0,litres
+Jan-05,Fuel usage,900.0,litres
+Jan-05,Fuel usage,1300.0,litres
+Jan-05,Fuel usage,1000.0,litres
+Feb-05,Fuel usage,800.0,litres
+Feb-05,Fuel usage,400.0,litres
+Feb-05,Fuel usage,1300.0,litres
+Feb-05,Fuel usage,700.0,litres
+Mar-05,Fuel usage,800.0,litres
+Mar-05,Fuel usage,400.0,litres
+Mar-05,Fuel usage,600.0,litres
+Mar-05,Fuel usage,475.0,litres
+Apr-05,Fuel usage,450.0,litres
+Apr-05,Fuel usage,500.0,litres
+Apr-05,Fuel usage,1100.0,litres
+Apr-05,Fuel usage,1491.0,litres
+May-05,Fuel usage,1000.0,litres
+May-05,Fuel usage,600.0,litres
+May-05,Fuel usage,1300.0,litres
+May-05,Fuel usage,657.0,litres
+Jun-05,Fuel usage,250.0,litres
+Jun-05,Fuel usage,150.0,litres
+Jun-05,Fuel usage,1000.0,litres
+Jun-05,Fuel usage,0.0,litres
+Jul-05,Fuel usage,600.0,litres
+Jul-05,Fuel usage,350.0,litres
+Jul-05,Fuel usage,1000.0,litres
+Jul-05,Fuel usage,1202.0,litres
+Aug-05,Fuel usage,400.0,litres
+Aug-05,Fuel usage,200.0,litres
+Aug-05,Fuel usage,900.0,litres
+Aug-05,Fuel usage,527.0,litres
+Sep-05,Fuel usage,270.0,litres
+Sep-05,Fuel usage,450.0,litres
+Sep-05,Fuel usage,1000.0,litres
+Sep-05,Fuel usage,890.0,litres
+Oct-05,Fuel usage,580.0,litres
+Oct-05,Fuel usage,850.0,litres
+Oct-05,Fuel usage,1400.0,litres
+Oct-05,Fuel usage,518.0,litres
+Nov-05,Fuel usage,500.0,litres
+Nov-05,Fuel usage,1300.0,litres
+Nov-05,Fuel usage,900.0,litres
+Nov-05,Fuel usage,535.0,litres
+Dec-05,Fuel usage,0.0,litres
+Dec-05,Fuel usage,1000.0,litres
+Dec-05,Fuel usage,2450.0,litres
+Dec-05,Fuel usage,906.0,litres
+Jan-06,Fuel usage,2500.0,litres
+Jan-06,Fuel usage,900.0,litres
+Jan-06,Fuel usage,720.0,litres
+Jan-06,Fuel usage,785.0,litres
+Feb-06,Fuel usage,350.0,litres
+Feb-06,Fuel usage,900.0,litres
+Feb-06,Fuel usage,1100.0,litres
+Feb-06,Fuel usage,880.0,litres
+Mar-06,Fuel usage,350.0,litres
+Mar-06,Fuel usage,900.0,litres
+Mar-06,Fuel usage,1300.0,litres
+Mar-06,Fuel usage,1330.0,litres
+Apr-06,Fuel usage,300.0,litres
+Apr-06,Fuel usage,450.0,litres
+Apr-06,Fuel usage,700.0,litres
+Apr-06,Fuel usage,1350.0,litres
+May-06,Fuel usage,250.0,litres
+May-06,Fuel usage,450.0,litres
+May-06,Fuel usage,800.0,litres
+May-06,Fuel usage,500.0,litres
+Jun-06,Fuel usage,250.0,litres
+Jun-06,Fuel usage,400.0,litres
+Jun-06,Fuel usage,700.0,litres
+Jun-06,Fuel usage,500.0,litres
+Jul-06,Fuel usage,500.0,litres
+Jul-06,Fuel usage,350.0,litres
+Jul-06,Fuel usage,300.0,litres
+Jul-06,Fuel usage,470.0,litres
+Aug-06,Fuel usage,100.0,litres
+Aug-06,Fuel usage,500.0,litres
+Aug-06,Fuel usage,800.0,litres
+Aug-06,Fuel usage,170.0,litres
+Sep-06,Fuel usage,400.0,litres
+Sep-06,Fuel usage,250.0,litres
+Sep-06,Fuel usage,700.0,litres
+Sep-06,Fuel usage,100.0,litres
+Oct-06,Fuel usage,350.0,litres
+Oct-06,Fuel usage,500.0,litres
+Oct-06,Fuel usage,440.0,litres
+Nov-06,Fuel usage,350.0,litres
+Nov-06,Fuel usage,950.0,litres
+Nov-06,Fuel usage,800.0,litres
+Nov-06,Fuel usage,1050.0,litres
+Dec-06,Fuel usage,350.0,litres
+Dec-06,Fuel usage,750.0,litres
+Dec-06,Fuel usage,700.0,litres
+Dec-06,Fuel usage,1800.0,litres
+Jan-07,Fuel usage,1200.0,litres
+Jan-07,Fuel usage,800.0,litres
+Jan-07,Fuel usage,100.0,litres
+Feb-07,Fuel usage,800.0,litres
+Feb-07,Fuel usage,700.0,litres
+Feb-07,Fuel usage,1300.0,litres
+Mar-07,Fuel usage,1750.0,litres
+Mar-07,Fuel usage,700.0,litres
+Mar-07,Fuel usage,1700.0,litres
+Mar-07,Fuel usage,1350.0,litres
+Apr-07,Fuel usage,600.0,litres
+Apr-07,Fuel usage,500.0,litres
+Apr-07,Fuel usage,300.0,litres
+Apr-07,Fuel usage,575.0,litres
+May-07,Fuel usage,600.0,litres
+May-07,Fuel usage,400.0,litres
+May-07,Fuel usage,500.0,litres
+May-07,Fuel usage,1281.0,litres
+Jun-07,Fuel usage,800.0,litres
+Jun-07,Fuel usage,350.0,litres
+Jun-07,Fuel usage,500.0,litres
+Jun-07,Fuel usage,150.0,litres
+Jul-07,Fuel usage,80.0,litres
+Jul-07,Fuel usage,350.0,litres
+Jul-07,Fuel usage,500.0,litres
+Jul-07,Fuel usage,572.0,litres
+Aug-07,Fuel usage,800.0,litres
+Aug-07,Fuel usage,400.0,litres
+Aug-07,Fuel usage,200.0,litres
+Aug-07,Fuel usage,495.0,litres
+Sep-07,Fuel usage,800.0,litres
+Sep-07,Fuel usage,350.0,litres
+Sep-07,Fuel usage,400.0,litres
+Sep-07,Fuel usage,481.0,litres
+Oct-07,Fuel usage,600.0,litres
+Oct-07,Fuel usage,150.0,litres
+Oct-07,Fuel usage,400.0,litres
+Oct-07,Fuel usage,125.0,litres
+Nov-07,Fuel usage,650.0,litres
+Nov-07,Fuel usage,430.0,litres
+Nov-07,Fuel usage,407.0,litres
+Dec-07,Fuel usage,600.0,litres
+Dec-07,Fuel usage,800.0,litres
+Dec-07,Fuel usage,420.0,litres
+Dec-07,Fuel usage,757.0,litres
+Jan-08,Fuel usage,500.0,litres
+Jan-08,Fuel usage,900.0,litres
+Jan-08,Fuel usage,475.0,litres
+Jan-08,Fuel usage,708.0,litres
+Feb-08,Fuel usage,500.0,litres
+Feb-08,Fuel usage,800.0,litres
+Feb-08,Fuel usage,450.0,litres
+Feb-08,Fuel usage,518.0,litres
+Mar-08,Fuel usage,500.0,litres
+Mar-08,Fuel usage,550.0,litres
+Mar-08,Fuel usage,150.0,litres
+Mar-08,Fuel usage,565.0,litres
+Apr-08,Fuel usage,300.0,litres
+Apr-08,Fuel usage,400.0,litres
+Apr-08,Fuel usage,170.0,litres
+Apr-08,Fuel usage,490.0,litres
+May-08,Fuel usage,450.0,litres
+May-08,Fuel usage,400.0,litres
+May-08,Fuel usage,180.0,litres
+May-08,Fuel usage,230.0,litres
+Jun-08,Fuel usage,350.0,litres
+Jun-08,Fuel usage,800.0,litres
+Jun-08,Fuel usage,190.0,litres
+Jun-08,Fuel usage,225.0,litres
+Jul-08,Fuel usage,500.0,litres
+Jul-08,Fuel usage,700.0,litres
+Jul-08,Fuel usage,450.0,litres
+Jul-08,Fuel usage,0.0,litres
+Aug-08,Fuel usage,400.0,litres
+Aug-08,Fuel usage,450.0,litres
+Aug-08,Fuel usage,0.0,litres
+Sep-08,Fuel usage,350.0,litres
+Sep-08,Fuel usage,800.0,litres
+Sep-08,Fuel usage,450.0,litres
+Sep-08,Fuel usage,1020.0,litres
+Oct-08,Fuel usage,300.0,litres
+Oct-08,Fuel usage,600.0,litres
+Oct-08,Fuel usage,450.0,litres
+Oct-08,Fuel usage,0.0,litres
+Nov-08,Fuel usage,250.0,litres
+Nov-08,Fuel usage,1000.0,litres
+Nov-08,Fuel usage,470.0,litres
+Nov-08,Fuel usage,900.0,litres
+Dec-08,Fuel usage,450.0,litres
+Dec-08,Fuel usage,1350.0,litres
+Dec-08,Fuel usage,0.0,litres
+Jan-09,Fuel usage,400.0,litres
+Jan-09,Fuel usage,850.0,litres
+Jan-09,Fuel usage,1700.0,litres
+Jan-09,Fuel usage,710.0,litres
+Feb-09,Fuel usage,0.0,litres
+Feb-09,Fuel usage,900.0,litres
+Feb-09,Fuel usage,1500.0,litres
+Mar-09,Fuel usage,950.0,litres
+Mar-09,Fuel usage,600.0,litres
+Mar-09,Fuel usage,500.0,litres
+Mar-09,Fuel usage,1150.0,litres
+Apr-09,Fuel usage,530.0,litres
+Apr-09,Fuel usage,40.0,litres
+Apr-09,Fuel usage,200.0,litres
+Apr-09,Fuel usage,535.0,litres
+May-09,Fuel usage,420.0,litres
+May-09,Fuel usage,100.0,litres
+May-09,Fuel usage,300.0,litres
+May-09,Fuel usage,390.0,litres
+Jun-09,Fuel usage,470.0,litres
+Jun-09,Fuel usage,800.0,litres
+Jun-09,Fuel usage,300.0,litres
+Jul-09,Fuel usage,780.0,litres
+Jul-09,Fuel usage,350.0,litres
+Jul-09,Fuel usage,300.0,litres
+Jul-09,Fuel usage,406.0,litres
+Aug-09,Fuel usage,500.0,litres
+Aug-09,Fuel usage,650.0,litres
+Aug-09,Fuel usage,400.0,litres
+Aug-09,Fuel usage,300.0,litres
+Sep-09,Fuel usage,450.0,litres
+Sep-09,Fuel usage,500.0,litres
+Sep-09,Fuel usage,200.0,litres
+Sep-09,Fuel usage,226.0,litres
+Oct-09,Fuel usage,800.0,litres
+Oct-09,Fuel usage,300.0,litres
+Oct-09,Fuel usage,350.0,litres
+Nov-09,Fuel usage,256.0,litres
+Nov-09,Fuel usage,1250.0,litres
+Nov-09,Fuel usage,700.0,litres
+Nov-09,Fuel usage,200.0,litres
+Dec-09,Fuel usage,450.0,litres
+Dec-09,Fuel usage,2100.0,litres
+Dec-09,Fuel usage,850.0,litres
+Dec-09,Fuel usage,351.0,litres
+Jan-10,Fuel usage,1200.0,litres
+Jan-10,Fuel usage,2650.0,litres
+Jan-10,Fuel usage,750.0,litres
+Jan-10,Fuel usage,300.0,litres
+Feb-10,Fuel usage,950.0,litres
+Feb-10,Fuel usage,1400.0,litres
+Feb-10,Fuel usage,820.0,litres
+Feb-10,Fuel usage,300.0,litres
+Mar-10,Fuel usage,1300.0,litres
+Mar-10,Fuel usage,1500.0,litres
+Mar-10,Fuel usage,650.0,litres
+Mar-10,Fuel usage,700.0,litres
+Apr-10,Fuel usage,1750.0,litres
+Apr-10,Fuel usage,700.0,litres
+Apr-10,Fuel usage,550.0,litres
+Apr-10,Fuel usage,1200.0,litres
+May-10,Fuel usage,750.0,litres
+May-10,Fuel usage,500.0,litres
+May-10,Fuel usage,450.0,litres
+Jun-10,Fuel usage,401.0,litres
+Jun-10,Fuel usage,1000.0,litres
+Jun-10,Fuel usage,430.0,litres
+Jun-10,Fuel usage,50.0,litres
+Jul-10,Fuel usage,750.0,litres
+Jul-10,Fuel usage,400.0,litres
+Jul-10,Fuel usage,300.0,litres
+Jul-10,Fuel usage,550.0,litres
+Aug-10,Fuel usage,375.0,litres
+Aug-10,Fuel usage,600.0,litres
+Aug-10,Fuel usage,300.0,litres
+Aug-10,Fuel usage,800.0,litres
+Sep-10,Fuel usage,800.0,litres
+Sep-10,Fuel usage,600.0,litres
+Sep-10,Fuel usage,200.0,litres
+Sep-10,Fuel usage,300.0,litres
+Oct-10,Fuel usage,750.0,litres
+Oct-10,Fuel usage,1000.0,litres
+Oct-10,Fuel usage,550.0,litres
+Oct-10,Fuel usage,480.0,litres
+Nov-10,Fuel usage,650.0,litres
+Nov-10,Fuel usage,1200.0,litres
+Nov-10,Fuel usage,1300.0,litres
+Nov-10,Fuel usage,300.0,litres
+Dec-10,Fuel usage,400.0,litres
+Dec-10,Fuel usage,1650.0,litres
+Dec-10,Fuel usage,1700.0,litres
+Dec-10,Fuel usage,530.0,litres
+Jan-11,Fuel usage,590.0,litres
+Jan-11,Fuel usage,1950.0,litres
+Jan-11,Fuel usage,1200.0,litres
+Jan-11,Fuel usage,600.0,litres
+Feb-11,Fuel usage,1250.0,litres
+Feb-11,Fuel usage,1300.0,litres
+Feb-11,Fuel usage,1900.0,litres
+Feb-11,Fuel usage,300.0,litres
+Mar-11,Fuel usage,1450.0,litres
+Mar-11,Fuel usage,1200.0,litres
+Mar-11,Fuel usage,900.0,litres
+Mar-11,Fuel usage,480.0,litres
+Apr-11,Fuel usage,400.0,litres
+Apr-11,Fuel usage,1050.0,litres
+Apr-11,Fuel usage,500.0,litres
+Apr-11,Fuel usage,750.0,litres
+May-11,Fuel usage,550.0,litres
+May-11,Fuel usage,950.0,litres
+May-11,Fuel usage,300.0,litres
+May-11,Fuel usage,670.0,litres
+Jun-11,Fuel usage,600.0,litres
+Jun-11,Fuel usage,550.0,litres
+Jun-11,Fuel usage,250.0,litres
+Jul-11,Fuel usage,500.0,litres
+Jul-11,Fuel usage,1050.0,litres
+Jul-11,Fuel usage,850.0,litres
+Jul-11,Fuel usage,503.0,litres
+Aug-11,Fuel usage,390.0,litres
+Aug-11,Fuel usage,800.0,litres
+Aug-11,Fuel usage,200.0,litres
+Aug-11,Fuel usage,400.0,litres
+Sep-11,Fuel usage,360.0,litres
+Sep-11,Fuel usage,850.0,litres
+Sep-11,Fuel usage,450.0,litres
+Sep-11,Fuel usage,500.0,litres
+Oct-11,Fuel usage,200.0,litres
+Oct-11,Fuel usage,900.0,litres
+Oct-11,Fuel usage,800.0,litres
+Oct-11,Fuel usage,312.0,litres
+Nov-11,Fuel usage,475.0,litres
+Nov-11,Fuel usage,1900.0,litres
+Nov-11,Fuel usage,650.0,litres
+Nov-11,Fuel usage,400.0,litres
+Dec-11,Fuel usage,375.0,litres
+Dec-11,Fuel usage,1900.0,litres
+Dec-11,Fuel usage,500.0,litres
+Dec-11,Fuel usage,300.0,litres
+Jan-12,Fuel usage,300.0,litres
+Jan-12,Fuel usage,400.0,litres
+Jan-12,Fuel usage,1900.0,litres
+Jan-12,Fuel usage,520.0,litres
+Feb-12,Fuel usage,950.0,litres
+Feb-12,Fuel usage,1200.0,litres
+Feb-12,Fuel usage,1000.0,litres
+Feb-12,Fuel usage,400.0,litres
+Mar-12,Fuel usage,900.0,litres
+Mar-12,Fuel usage,4500.0,litres
+Mar-12,Fuel usage,800.0,litres
+Mar-12,Fuel usage,451.0,litres
+Apr-12,Fuel usage,800.0,litres
+Apr-12,Fuel usage,700.0,litres
+Apr-12,Fuel usage,1600.0,litres
+Apr-12,Fuel usage,201.0,litres
+May-12,Fuel usage,490.0,litres
+May-12,Fuel usage,900.0,litres
+May-12,Fuel usage,460.0,litres
+May-12,Fuel usage,310.0,litres
+Jun-12,Fuel usage,120.0,litres
+Jun-12,Fuel usage,200.0,litres
+Jun-12,Fuel usage,900.0,litres
+Jun-12,Fuel usage,600.0,litres
+Jul-12,Fuel usage,280.0,litres
+Jul-12,Fuel usage,200.0,litres
+Jul-12,Fuel usage,700.0,litres
+Jul-12,Fuel usage,500.0,litres
+Aug-12,Fuel usage,350.0,litres
+Aug-12,Fuel usage,1000.0,litres
+Aug-12,Fuel usage,1200.0,litres
+Aug-12,Fuel usage,200.0,litres
+Sep-12,Fuel usage,150.0,litres
+Sep-12,Fuel usage,200.0,litres
+Sep-12,Fuel usage,650.0,litres
+Sep-12,Fuel usage,600.0,litres
+Oct-12,Fuel usage,50.0,litres
+Oct-12,Fuel usage,1200.0,litres
+Oct-12,Fuel usage,600.0,litres
+Oct-12,Fuel usage,550.0,litres
+Nov-12,Fuel usage,50.0,litres
+Nov-12,Fuel usage,1000.0,litres
+Nov-12,Fuel usage,600.0,litres
+Nov-12,Fuel usage,700.0,litres
+Mar-13,Fuel usage,1050.0,litres
+Mar-13,Fuel usage,2800.0,litres
+Mar-13,Fuel usage,500.0,litres
+Mar-13,Fuel usage,2192.0,litres
+Apr-13,Fuel usage,700.0,litres
+Apr-13,Fuel usage,1000.0,litres
+Apr-13,Fuel usage,400.0,litres
+Apr-13,Fuel usage,1300.0,litres
+May-13,Fuel usage,1100.0,litres
+May-13,Fuel usage,1200.0,litres
+May-13,Fuel usage,500.0,litres
+May-13,Fuel usage,650.0,litres
+Jun-13,Fuel usage,700.0,litres
+Jun-13,Fuel usage,1050.0,litres
+Jun-13,Fuel usage,100.0,litres
+Jun-13,Fuel usage,600.0,litres
+Jul-13,Fuel usage,500.0,litres
+Jul-13,Fuel usage,2200.0,litres
+Jul-13,Fuel usage,400.0,litres
+Jul-13,Fuel usage,501.0,litres
+Aug-13,Fuel usage,1200.0,litres
+Aug-13,Fuel usage,550.0,litres
+Aug-13,Fuel usage,500.0,litres
+Aug-13,Fuel usage,451.0,litres
+Sep-13,Fuel usage,400.0,litres
+Sep-13,Fuel usage,450.0,litres
+Sep-13,Fuel usage,100.0,litres
+Oct-13,Fuel usage,900.0,litres
+Oct-13,Fuel usage,150.0,litres
+Oct-13,Fuel usage,500.0,litres
+Nov-13,Fuel usage,1000.0,litres
+Nov-13,Fuel usage,150.0,litres
+Nov-13,Fuel usage,350.0,litres
+Dec-13,Fuel usage,850.0,litres
+Dec-13,Fuel usage,1000.0,litres
+Dec-13,Fuel usage,1100.0,litres
+Dec-13,Fuel usage,401.0,litres
+Jan-14,Fuel usage,1400.0,litres
+Jan-14,Fuel usage,1100.0,litres
+Jan-14,Fuel usage,1000.0,litres
+Jan-14,Fuel usage,740.0,litres
+Feb-14,Fuel usage,1500.0,litres
+Feb-14,Fuel usage,550.0,litres
+Feb-14,Fuel usage,1000.0,litres
+Feb-14,Fuel usage,400.0,litres
+Mar-14,Fuel usage,350.0,litres
+Mar-14,Fuel usage,550.0,litres
+Mar-14,Fuel usage,200.0,litres
+Mar-14,Fuel usage,1800.0,litres
+Apr-14,Fuel usage,400.0,litres
+Apr-14,Fuel usage,500.0,litres
+Apr-14,Fuel usage,300.0,litres
+Apr-14,Fuel usage,1460.0,litres
+May-14,Fuel usage,750.0,litres
+May-14,Fuel usage,500.0,litres
+May-14,Fuel usage,700.0,litres
+May-14,Fuel usage,900.0,litres
+Jun-14,Fuel usage,800.0,litres
+Jun-14,Fuel usage,400.0,litres
+Jun-14,Fuel usage,300.0,litres
+Jun-14,Fuel usage,500.0,litres
+Jul-14,Fuel usage,750.0,litres
+Jul-14,Fuel usage,300.0,litres
+Jul-14,Fuel usage,720.0,litres
+Aug-14,Fuel usage,600.0,litres
+Aug-14,Fuel usage,400.0,litres
+Jun-15,Fuel usage,1100.0,litres
+Jun-15,Fuel usage,550.0,litres
+Jun-15,Fuel usage,400.0,litres
+Jun-15,Fuel usage,901.0,litres
+Jul-15,Fuel usage,700.0,litres
+Jul-15,Fuel usage,550.0,litres
+Jul-15,Fuel usage,500.0,litres
+Jul-15,Fuel usage,600.0,litres
+Aug-15,Fuel usage,700.0,litres
+Aug-15,Fuel usage,550.0,litres
+Aug-15,Fuel usage,600.0,litres
+Aug-15,Fuel usage,880.0,litres
+Sep-15,Fuel usage,700.0,litres
+Sep-15,Fuel usage,550.0,litres
+Sep-15,Fuel usage,500.0,litres
+Sep-15,Fuel usage,878.0,litres
+Oct-15,Fuel usage,600.0,litres
+Oct-15,Fuel usage,550.0,litres
+Oct-15,Fuel usage,900.0,litres
+Oct-15,Fuel usage,970.0,litres
+Nov-15,Fuel usage,800.0,litres
+Nov-15,Fuel usage,1600.0,litres
+Nov-15,Fuel usage,100.0,litres
+Nov-15,Fuel usage,841.0,litres
+Dec-15,Fuel usage,600.0,litres
+Dec-15,Fuel usage,2000.0,litres
+Dec-15,Fuel usage,,litres
+Dec-15,Fuel usage,1000.0,litres
+Jan-16,Fuel usage,1300.0,litres
+Jan-16,Fuel usage,2000.0,litres
+Jan-16,Fuel usage,1100.0,litres
+Feb-16,Fuel usage,1450.0,litres
+Feb-16,Fuel usage,3000.0,litres
+Feb-16,Fuel usage,900.0,litres
+Mar-93,Fuel usage,3080.0,litres
+Apr-93,Fuel usage,866.0,litres
+May-93,Fuel usage,804.0,litres
+Jun-93,Fuel usage,667.0,litres
+Jul-93,Fuel usage,1021.0,litres
+Aug-93,Fuel usage,1938.0,litres
+Sep-93,Fuel usage,100.0,litres
+Oct-93,Fuel usage,924.0,litres
+Nov-93,Fuel usage,6000.0,litres
+Dec-93,Fuel usage,6575.0,litres
+May-94,Fuel usage,208.0,litres
+Jun-94,Fuel usage,102.0,litres
+Jul-94,Fuel usage,172.0,litres
+Aug-94,Fuel usage,1206.0,litres
+Sep-94,Fuel usage,397.0,litres
+Oct-94,Fuel usage,2155.0,litres
+Nov-94,Fuel usage,2000.0,litres
+Dec-94,Fuel usage,2900.0,litres
+Jan-95,Fuel usage,2010.0,litres
+Feb-95,Fuel usage,3655.0,litres
+Mar-95,Fuel usage,2375.0,litres
+May-95,Fuel usage,425.0,litres
+Jun-95,Fuel usage,140.0,litres
+Jul-95,Fuel usage,158.0,litres
+Aug-95,Fuel usage,274.0,litres
+Sep-95,Fuel usage,477.0,litres
+Oct-95,Fuel usage,2174.0,litres
+Nov-95,Fuel usage,5801.0,litres
+Dec-95,Fuel usage,3876.0,litres
+Jan-96,Fuel usage,4535.0,litres
+Feb-96,Fuel usage,10197.0,litres
+Mar-96,Fuel usage,2583.0,litres
+May-96,Fuel usage,924.0,litres
+Jun-96,Fuel usage,905.0,litres
+Jul-96,Fuel usage,886.0,litres
+Aug-96,Fuel usage,2944.0,litres
+Sep-96,Fuel usage,1014.0,litres
+Oct-96,Fuel usage,2927.0,litres
+Nov-96,Fuel usage,5661.0,litres
+Dec-96,Fuel usage,500.0,litres
+Jan-97,Fuel usage,2500.0,litres
+Jan-97,Fuel usage,1170.0,litres
+Jan-97,Fuel usage,3938.0,litres
+Jan-97,Fuel usage,180.0,litres
+Feb-97,Fuel usage,1020.0,litres
+Feb-97,Fuel usage,1040.0,litres
+Feb-97,Fuel usage,978.0,litres
+Feb-97,Fuel usage,200.0,litres
+Mar-97,Fuel usage,2600.0,litres
+Mar-97,Fuel usage,1130.0,litres
+Mar-97,Fuel usage,1737.0,litres
+Mar-97,Fuel usage,200.0,litres
+May-97,Fuel usage,300.0,litres
+May-97,Fuel usage,240.0,litres
+May-97,Fuel usage,648.0,litres
+Jun-97,Fuel usage,10.0,litres
+Jun-97,Fuel usage,850.0,litres
+Jun-97,Fuel usage,375.0,litres
+Jul-97,Fuel usage,340.0,litres
+Jul-97,Fuel usage,1050.0,litres
+Jul-97,Fuel usage,670.0,litres
+Jul-97,Fuel usage,150.0,litres
+Aug-97,Fuel usage,480.0,litres
+Aug-97,Fuel usage,950.0,litres
+Aug-97,Fuel usage,601.0,litres
+Aug-97,Fuel usage,60.0,litres
+Sep-97,Fuel usage,170.0,litres
+Sep-97,Fuel usage,1190.0,litres
+Sep-97,Fuel usage,278.0,litres
+Sep-97,Fuel usage,256.0,litres
+Oct-97,Fuel usage,150.0,litres
+Oct-97,Fuel usage,3560.0,litres
+Oct-97,Fuel usage,200.0,litres
+Oct-97,Fuel usage,280.0,litres
+Nov-97,Fuel usage,1150.0,litres
+Nov-97,Fuel usage,2260.0,litres
+Nov-97,Fuel usage,7423.0,litres
+Nov-97,Fuel usage,412.0,litres
+Dec-97,Fuel usage,500.0,litres
+Dec-97,Fuel usage,890.0,litres
+Dec-97,Fuel usage,5407.0,litres
+Dec-97,Fuel usage,313.0,litres
+Jan-98,Fuel usage,1600.0,litres
+Jan-98,Fuel usage,810.0,litres
+Jan-98,Fuel usage,3500.0,litres
+Jan-98,Fuel usage,200.0,litres
+Feb-98,Fuel usage,4375.0,litres
+Feb-98,Fuel usage,620.0,litres
+Feb-98,Fuel usage,2809.0,litres
+Feb-98,Fuel usage,304.0,litres
+Apr-98,Fuel usage,50.0,litres
+Apr-98,Fuel usage,1040.0,litres
+Apr-98,Fuel usage,2001.0,litres
+Apr-98,Fuel usage,158.0,litres
+May-98,Fuel usage,430.0,litres
+May-98,Fuel usage,270.0,litres
+May-98,Fuel usage,824.0,litres
+May-98,Fuel usage,224.0,litres
+Jun-98,Fuel usage,200.0,litres
+Jun-98,Fuel usage,290.0,litres
+Jun-98,Fuel usage,610.0,litres
+Jun-98,Fuel usage,147.0,litres
+Jul-98,Fuel usage,200.0,litres
+Jul-98,Fuel usage,555.0,litres
+Jul-98,Fuel usage,79.0,litres
+Aug-98,Fuel usage,100.0,litres
+Aug-98,Fuel usage,410.0,litres
+Aug-98,Fuel usage,818.0,litres
+Aug-98,Fuel usage,118.0,litres
+Sep-98,Fuel usage,600.0,litres
+Sep-98,Fuel usage,920.0,litres
+Sep-98,Fuel usage,130.0,litres
+Sep-98,Fuel usage,152.0,litres
+Oct-98,Fuel usage,550.0,litres
+Oct-98,Fuel usage,380.0,litres
+Oct-98,Fuel usage,846.0,litres
+Oct-98,Fuel usage,176.0,litres
+Nov-98,Fuel usage,2000.0,litres
+Nov-98,Fuel usage,2400.0,litres
+Nov-98,Fuel usage,6031.0,litres
+Nov-98,Fuel usage,354.0,litres
+Dec-98,Fuel usage,1050.0,litres
+Dec-98,Fuel usage,1600.0,litres
+Dec-98,Fuel usage,3528.0,litres
+Dec-98,Fuel usage,103.0,litres
+Mar-99,Fuel usage,1800.0,litres
+Mar-99,Fuel usage,1400.0,litres
+Mar-99,Fuel usage,2970.0,litres
+Mar-99,Fuel usage,155.0,litres
+Apr-99,Fuel usage,50.0,litres
+Apr-99,Fuel usage,1353.0,litres
+Apr-99,Fuel usage,260.0,litres
+May-99,Fuel usage,250.0,litres
+May-99,Fuel usage,600.0,litres
+May-99,Fuel usage,424.0,litres
+May-99,Fuel usage,85.0,litres
+Jun-99,Fuel usage,400.0,litres
+Jun-99,Fuel usage,200.0,litres
+Jun-99,Fuel usage,276.0,litres
+Jun-99,Fuel usage,53.0,litres
+Jul-99,Fuel usage,200.0,litres
+Jul-99,Fuel usage,251.0,litres
+Jul-99,Fuel usage,212.0,litres
+Aug-99,Fuel usage,1400.0,litres
+Aug-99,Fuel usage,,litres
+Aug-99,Fuel usage,176.0,litres
+Sep-99,Fuel usage,200.0,litres
+Sep-99,Fuel usage,600.0,litres
+Sep-99,Fuel usage,505.0,litres
+Sep-99,Fuel usage,99.0,litres
+Oct-99,Fuel usage,300.0,litres
+Oct-99,Fuel usage,3400.0,litres
+Oct-99,Fuel usage,1261.0,litres
+Oct-99,Fuel usage,130.0,litres
+Nov-99,Fuel usage,1600.0,litres
+Nov-99,Fuel usage,1360.0,litres
+Nov-99,Fuel usage,1422.0,litres
+Nov-99,Fuel usage,323.0,litres
+Dec-99,Fuel usage,1500.0,litres
+Dec-99,Fuel usage,3346.0,litres
+Dec-99,Fuel usage,243.0,litres
+Jan-00,Fuel usage,200.0,litres
+Jan-00,Fuel usage,1590.0,litres
+Jan-00,Fuel usage,5692.0,litres
+Jan-00,Fuel usage,252.0,litres
+Feb-00,Fuel usage,400.0,litres
+Feb-00,Fuel usage,1129.0,litres
+Feb-00,Fuel usage,5702.0,litres
+Feb-00,Fuel usage,141.0,litres
+Mar-00,Fuel usage,400.0,litres
+Mar-00,Fuel usage,1145.0,litres
+Mar-00,Fuel usage,1609.0,litres
+Mar-00,Fuel usage,449.0,litres
+Apr-00,Fuel usage,346.0,litres
+Apr-00,Fuel usage,441.0,litres
+Apr-00,Fuel usage,1271.0,litres
+Apr-00,Fuel usage,52.0,litres
+May-00,Fuel usage,781.0,litres
+May-00,Fuel usage,1559.0,litres
+May-00,Fuel usage,161.0,litres
+Jun-00,Fuel usage,400.0,litres
+Jun-00,Fuel usage,638.0,litres
+Jun-00,Fuel usage,683.0,litres
+Jun-00,Fuel usage,170.0,litres
+Jul-00,Fuel usage,100.0,litres
+Jul-00,Fuel usage,209.0,litres
+Jul-00,Fuel usage,1079.0,litres
+Aug-00,Fuel usage,200.0,litres
+Aug-00,Fuel usage,89.0,litres
+Aug-00,Fuel usage,781.0,litres
+Aug-00,Fuel usage,182.0,litres
+Sep-00,Fuel usage,200.0,litres
+Sep-00,Fuel usage,1491.0,litres
+Sep-00,Fuel usage,1188.0,litres
+Sep-00,Fuel usage,173.0,litres
+Oct-00,Fuel usage,50.0,litres
+Oct-00,Fuel usage,3336.0,litres
+Oct-00,Fuel usage,1279.0,litres
+Oct-00,Fuel usage,162.0,litres
+Nov-00,Fuel usage,1350.0,litres
+Nov-00,Fuel usage,1452.0,litres
+Nov-00,Fuel usage,2430.0,litres
+Nov-00,Fuel usage,517.0,litres
+Dec-00,Fuel usage,4500.0,litres
+Dec-00,Fuel usage,508.0,litres
+Dec-00,Fuel usage,4846.0,litres
+Dec-00,Fuel usage,294.0,litres
+Jan-01,Fuel usage,1850.0,litres
+Jan-01,Fuel usage,1480.0,litres
+Jan-01,Fuel usage,5283.0,litres
+Jan-01,Fuel usage,243.0,litres
+Feb-01,Fuel usage,2250.0,litres
+Feb-01,Fuel usage,790.0,litres
+Feb-01,Fuel usage,4326.0,litres
+Feb-01,Fuel usage,270.0,litres
+Mar-01,Fuel usage,200.0,litres
+Mar-01,Fuel usage,630.0,litres
+Mar-01,Fuel usage,2941.0,litres
+Mar-01,Fuel usage,325.0,litres
+Apr-01,Fuel usage,250.0,litres
+Apr-01,Fuel usage,600.0,litres
+Apr-01,Fuel usage,934.0,litres
+Apr-01,Fuel usage,160.0,litres
+May-01,Fuel usage,0.0,litres
+May-01,Fuel usage,,litres
+May-01,Fuel usage,450.0,litres
+May-01,Fuel usage,105.0,litres
+Jun-01,Fuel usage,100.0,litres
+Jun-01,Fuel usage,150.0,litres
+Jun-01,Fuel usage,520.0,litres
+Jun-01,Fuel usage,20.0,litres
+Jul-01,Fuel usage,100.0,litres
+Jul-01,Fuel usage,34.0,litres
+Jul-01,Fuel usage,692.0,litres
+Jul-01,Fuel usage,0.0,litres
+Aug-01,Fuel usage,0.0,litres
+Aug-01,Fuel usage,466.0,litres
+Aug-01,Fuel usage,96.0,litres
+Sep-01,Fuel usage,200.0,litres
+Sep-01,Fuel usage,180.0,litres
+Sep-01,Fuel usage,617.0,litres
+Sep-01,Fuel usage,142.0,litres
+Oct-01,Fuel usage,760.0,litres
+Oct-01,Fuel usage,690.0,litres
+Oct-01,Fuel usage,2880.0,litres
+Oct-01,Fuel usage,156.0,litres
+Nov-01,Fuel usage,340.0,litres
+Nov-01,Fuel usage,990.0,litres
+Nov-01,Fuel usage,4286.0,litres
+Nov-01,Fuel usage,130.0,litres
+Dec-01,Fuel usage,200.0,litres
+Dec-01,Fuel usage,3180.0,litres
+Dec-01,Fuel usage,4371.0,litres
+Dec-01,Fuel usage,102.0,litres
+Jan-02,Fuel usage,2600.0,litres
+Jan-02,Fuel usage,1549.0,litres
+Jan-02,Fuel usage,179.0,litres
+Feb-02,Fuel usage,320.0,litres
+Feb-02,Fuel usage,2300.0,litres
+Feb-02,Fuel usage,716.0,litres
+Feb-02,Fuel usage,128.0,litres
+Mar-02,Fuel usage,1000.0,litres
+Mar-02,Fuel usage,90.0,litres
+Mar-02,Fuel usage,565.0,litres
+Mar-02,Fuel usage,170.0,litres
+Apr-02,Fuel usage,,litres
+Apr-02,Fuel usage,1104.0,litres
+Apr-02,Fuel usage,295.0,litres
+May-02,Fuel usage,0.0,litres
+May-02,Fuel usage,880.0,litres
+May-02,Fuel usage,1324.0,litres
+May-02,Fuel usage,100.0,litres
+Jun-02,Fuel usage,0.0,litres
+Jun-02,Fuel usage,920.0,litres
+Jun-02,Fuel usage,953.0,litres
+Jun-02,Fuel usage,86.0,litres
+Jul-02,Fuel usage,800.0,litres
+Jul-02,Fuel usage,250.0,litres
+Jul-02,Fuel usage,1003.0,litres
+Jul-02,Fuel usage,80.0,litres
+Aug-02,Fuel usage,3900.0,litres
+Aug-02,Fuel usage,46.0,litres
+Aug-02,Fuel usage,602.0,litres
+Aug-02,Fuel usage,170.0,litres
+Sep-02,Fuel usage,1200.0,litres
+Sep-02,Fuel usage,550.0,litres
+Sep-02,Fuel usage,501.0,litres
+Sep-02,Fuel usage,107.0,litres
+Oct-02,Fuel usage,3800.0,litres
+Oct-02,Fuel usage,2300.0,litres
+Oct-02,Fuel usage,1598.0,litres
+Oct-02,Fuel usage,335.0,litres
+Nov-02,Fuel usage,9600.0,litres
+Nov-02,Fuel usage,2800.0,litres
+Nov-02,Fuel usage,5088.0,litres
+Nov-02,Fuel usage,195.0,litres
+Dec-02,Fuel usage,5550.0,litres
+Dec-02,Fuel usage,2700.0,litres
+Dec-02,Fuel usage,14339.0,litres
+Dec-02,Fuel usage,191.0,litres
+Jan-03,Fuel usage,5048.0,litres
+Jan-03,Fuel usage,800.0,litres
+Jan-03,Fuel usage,22895.0,litres
+Jan-03,Fuel usage,187.0,litres
+Feb-03,Fuel usage,2800.0,litres
+Feb-03,Fuel usage,1200.0,litres
+Feb-03,Fuel usage,8150.0,litres
+Feb-03,Fuel usage,176.0,litres
+May-04,Fuel usage,7.0,litres
+May-04,Fuel usage,1750.0,litres
+May-04,Fuel usage,2494.0,litres
+May-04,Fuel usage,326.0,litres
+Jun-04,Fuel usage,9.0,litres
+Jun-04,Fuel usage,2050.0,litres
+Jun-04,Fuel usage,1909.0,litres
+Jun-04,Fuel usage,255.0,litres
+Jul-04,Fuel usage,9.0,litres
+Jul-04,Fuel usage,1800.0,litres
+Jul-04,Fuel usage,3976.0,litres
+Aug-04,Fuel usage,5.0,litres
+Aug-04,Fuel usage,2000.0,litres
+Aug-04,Fuel usage,18.0,litres
+Sep-04,Fuel usage,29.0,litres
+Sep-04,Fuel usage,2200.0,litres
+Sep-04,Fuel usage,1421.0,litres
+Oct-04,Fuel usage,2200.0,litres
+Oct-04,Fuel usage,6650.0,litres
+Oct-04,Fuel usage,5889.0,litres
+Oct-04,Fuel usage,314.0,litres
+Nov-04,Fuel usage,2400.0,litres
+Nov-04,Fuel usage,2250.0,litres
+Nov-04,Fuel usage,18063.0,litres
+Nov-04,Fuel usage,189.0,litres
+Dec-04,Fuel usage,2100.0,litres
+Dec-04,Fuel usage,4100.0,litres
+Dec-04,Fuel usage,6941.0,litres
+Jan-05,Fuel usage,1050.0,litres
+Jan-05,Fuel usage,3600.0,litres
+Jan-05,Fuel usage,19362.0,litres
+Jan-05,Fuel usage,192.0,litres
+Feb-05,Fuel usage,4150.0,litres
+Feb-05,Fuel usage,405.0,litres
+Feb-05,Fuel usage,11700.0,litres
+Feb-05,Fuel usage,342.0,litres
+Mar-05,Fuel usage,900.0,litres
+Mar-05,Fuel usage,4400.0,litres
+Mar-05,Fuel usage,1771.0,litres
+Apr-05,Fuel usage,1600.0,litres
+Apr-05,Fuel usage,980.0,litres
+Apr-05,Fuel usage,3674.0,litres
+Apr-05,Fuel usage,133.0,litres
+May-05,Fuel usage,1730.0,litres
+May-05,Fuel usage,1650.0,litres
+May-05,Fuel usage,1729.0,litres
+May-05,Fuel usage,70.0,litres
+Jun-05,Fuel usage,550.0,litres
+Jun-05,Fuel usage,900.0,litres
+Jun-05,Fuel usage,1200.0,litres
+Jun-05,Fuel usage,127.0,litres
+Jul-05,Fuel usage,1245.0,litres
+Jul-05,Fuel usage,400.0,litres
+Jul-05,Fuel usage,810.0,litres
+Jul-05,Fuel usage,120.0,litres
+Aug-05,Fuel usage,1445.0,litres
+Aug-05,Fuel usage,1638.0,litres
+Aug-05,Fuel usage,156.0,litres
+Sep-05,Fuel usage,1860.0,litres
+Sep-05,Fuel usage,500.0,litres
+Sep-05,Fuel usage,7436.0,litres
+Sep-05,Fuel usage,135.0,litres
+Oct-05,Fuel usage,1988.0,litres
+Oct-05,Fuel usage,4700.0,litres
+Oct-05,Fuel usage,3782.0,litres
+Oct-05,Fuel usage,121.0,litres
+Nov-05,Fuel usage,1100.0,litres
+Nov-05,Fuel usage,9600.0,litres
+Nov-05,Fuel usage,11500.0,litres
+Nov-05,Fuel usage,200.0,litres
+Dec-05,Fuel usage,1899.0,litres
+Dec-05,Fuel usage,3950.0,litres
+Dec-05,Fuel usage,30500.0,litres
+Dec-05,Fuel usage,217.0,litres
+Jan-06,Fuel usage,2130.0,litres
+Jan-06,Fuel usage,7000.0,litres
+Jan-06,Fuel usage,20225.0,litres
+Jan-06,Fuel usage,195.0,litres
+Feb-06,Fuel usage,2394.0,litres
+Feb-06,Fuel usage,5215.0,litres
+Feb-06,Fuel usage,19240.0,litres
+Feb-06,Fuel usage,255.0,litres
+Mar-06,Fuel usage,755.0,litres
+Mar-06,Fuel usage,13600.0,litres
+Mar-06,Fuel usage,265.0,litres
+Apr-06,Fuel usage,550.0,litres
+Apr-06,Fuel usage,3040.0,litres
+Apr-06,Fuel usage,500.0,litres
+May-06,Fuel usage,700.0,litres
+May-06,Fuel usage,3467.0,litres
+May-06,Fuel usage,162.0,litres
+Jun-06,Fuel usage,1435.0,litres
+Jun-06,Fuel usage,600.0,litres
+Jun-06,Fuel usage,1906.0,litres
+Jun-06,Fuel usage,70.0,litres
+Jul-06,Fuel usage,607.0,litres
+Jul-06,Fuel usage,1150.0,litres
+Jul-06,Fuel usage,1990.0,litres
+Jul-06,Fuel usage,34.0,litres
+Aug-06,Fuel usage,400.0,litres
+Aug-06,Fuel usage,950.0,litres
+Aug-06,Fuel usage,4650.0,litres
+Aug-06,Fuel usage,45.0,litres
+Sep-06,Fuel usage,260.0,litres
+Sep-06,Fuel usage,150.0,litres
+Sep-06,Fuel usage,4672.0,litres
+Sep-06,Fuel usage,142.0,litres
+Oct-06,Fuel usage,3082.0,litres
+Oct-06,Fuel usage,1300.0,litres
+Oct-06,Fuel usage,4723.0,litres
+Oct-06,Fuel usage,94.0,litres
+Nov-06,Fuel usage,2700.0,litres
+Nov-06,Fuel usage,5550.0,litres
+Nov-06,Fuel usage,30705.0,litres
+Nov-06,Fuel usage,0.0,litres
+Dec-06,Fuel usage,1000.0,litres
+Dec-06,Fuel usage,1600.0,litres
+Dec-06,Fuel usage,21343.0,litres
+Dec-06,Fuel usage,112.0,litres
+Jan-07,Fuel usage,1065.0,litres
+Jan-07,Fuel usage,1300.0,litres
+Jan-07,Fuel usage,26200.0,litres
+Jan-07,Fuel usage,126.0,litres
+Feb-07,Fuel usage,850.0,litres
+Feb-07,Fuel usage,3600.0,litres
+Feb-07,Fuel usage,41500.0,litres
+Feb-07,Fuel usage,110.0,litres
+Mar-07,Fuel usage,1800.0,litres
+Mar-07,Fuel usage,2350.0,litres
+Mar-07,Fuel usage,13124.0,litres
+Mar-07,Fuel usage,100.0,litres
+Apr-07,Fuel usage,450.0,litres
+Apr-07,Fuel usage,350.0,litres
+Apr-07,Fuel usage,355.0,litres
+Apr-07,Fuel usage,446.0,litres
+May-07,Fuel usage,216.0,litres
+May-07,Fuel usage,450.0,litres
+May-07,Fuel usage,5828.0,litres
+May-07,Fuel usage,112.0,litres
+Jun-07,Fuel usage,300.0,litres
+Jun-07,Fuel usage,1630.0,litres
+Jun-07,Fuel usage,558.0,litres
+Jun-07,Fuel usage,594.0,litres
+Jul-07,Fuel usage,400.0,litres
+Jul-07,Fuel usage,1950.0,litres
+Jul-07,Fuel usage,1225.0,litres
+Jul-07,Fuel usage,145.0,litres
+Aug-07,Fuel usage,600.0,litres
+Aug-07,Fuel usage,550.0,litres
+Aug-07,Fuel usage,2497.0,litres
+Aug-07,Fuel usage,0.0,litres
+Sep-07,Fuel usage,1100.0,litres
+Sep-07,Fuel usage,4215.0,litres
+Sep-07,Fuel usage,72.0,litres
+Oct-07,Fuel usage,900.0,litres
+Oct-07,Fuel usage,2100.0,litres
+Oct-07,Fuel usage,3162.0,litres
+Oct-07,Fuel usage,117.0,litres
+Nov-07,Fuel usage,4212.0,litres
+Nov-07,Fuel usage,6100.0,litres
+Nov-07,Fuel usage,21620.0,litres
+Nov-07,Fuel usage,50.0,litres
+Dec-07,Fuel usage,942.0,litres
+Dec-07,Fuel usage,4900.0,litres
+Dec-07,Fuel usage,21816.0,litres
+Dec-07,Fuel usage,210.0,litres
+Jan-08,Fuel usage,1203.0,litres
+Jan-08,Fuel usage,4100.0,litres
+Jan-08,Fuel usage,22730.0,litres
+Jan-08,Fuel usage,224.0,litres
+Feb-08,Fuel usage,738.0,litres
+Feb-08,Fuel usage,3500.0,litres
+Feb-08,Fuel usage,12662.0,litres
+Feb-08,Fuel usage,99.0,litres
+Mar-08,Fuel usage,774.0,litres
+Mar-08,Fuel usage,1180.0,litres
+Mar-08,Fuel usage,380.0,litres
+Apr-08,Fuel usage,314.0,litres
+Apr-08,Fuel usage,500.0,litres
+Apr-08,Fuel usage,1252.0,litres
+Apr-08,Fuel usage,100.0,litres
+May-08,Fuel usage,457.0,litres
+May-08,Fuel usage,500.0,litres
+May-08,Fuel usage,1030.0,litres
+Jun-08,Fuel usage,785.0,litres
+Jun-08,Fuel usage,2700.0,litres
+Jun-08,Fuel usage,950.0,litres
+Jun-08,Fuel usage,10.0,litres
+Jul-08,Fuel usage,596.0,litres
+Jul-08,Fuel usage,2100.0,litres
+Jul-08,Fuel usage,1015.0,litres
+Jul-08,Fuel usage,85.0,litres
+Aug-08,Fuel usage,505.0,litres
+Aug-08,Fuel usage,1400.0,litres
+Aug-08,Fuel usage,1105.0,litres
+Sep-08,Fuel usage,1335.0,litres
+Sep-08,Fuel usage,1000.0,litres
+Sep-08,Fuel usage,10489.0,litres
+Sep-08,Fuel usage,0.0,litres
+Oct-08,Fuel usage,1840.0,litres
+Oct-08,Fuel usage,6250.0,litres
+Oct-08,Fuel usage,11752.0,litres
+Oct-08,Fuel usage,135.0,litres
+Nov-08,Fuel usage,100.0,litres
+Nov-08,Fuel usage,7200.0,litres
+Nov-08,Fuel usage,11662.0,litres
+Nov-08,Fuel usage,247.0,litres
+Dec-08,Fuel usage,250.0,litres
+Dec-08,Fuel usage,1750.0,litres
+Dec-08,Fuel usage,47007.0,litres
+Dec-08,Fuel usage,135.0,litres
+Jan-09,Fuel usage,1600.0,litres
+Jan-09,Fuel usage,5100.0,litres
+Jan-09,Fuel usage,52051.0,litres
+Jan-09,Fuel usage,210.0,litres
+Feb-09,Fuel usage,3550.0,litres
+Feb-09,Fuel usage,6200.0,litres
+Feb-09,Fuel usage,27832.0,litres
+Feb-09,Fuel usage,160.0,litres
+Mar-09,Fuel usage,1800.0,litres
+Mar-09,Fuel usage,2490.0,litres
+Mar-09,Fuel usage,8994.0,litres
+Mar-09,Fuel usage,945.0,litres
+Apr-09,Fuel usage,436.0,litres
+Apr-09,Fuel usage,950.0,litres
+Apr-09,Fuel usage,3875.0,litres
+Apr-09,Fuel usage,155.0,litres
+May-09,Fuel usage,1900.0,litres
+May-09,Fuel usage,670.0,litres
+May-09,Fuel usage,3136.0,litres
+May-09,Fuel usage,10.0,litres
+Jun-09,Fuel usage,2270.0,litres
+Jun-09,Fuel usage,810.0,litres
+Jun-09,Fuel usage,5365.0,litres
+Jun-09,Fuel usage,0.0,litres
+Jul-09,Fuel usage,1771.0,litres
+Jul-09,Fuel usage,660.0,litres
+Jul-09,Fuel usage,2963.0,litres
+Jul-09,Fuel usage,0.0,litres
+Aug-09,Fuel usage,1885.0,litres
+Aug-09,Fuel usage,750.0,litres
+Aug-09,Fuel usage,6580.0,litres
+Aug-09,Fuel usage,73.0,litres
+Sep-09,Fuel usage,904.0,litres
+Sep-09,Fuel usage,550.0,litres
+Sep-09,Fuel usage,7811.0,litres
+Sep-09,Fuel usage,0.0,litres
+Oct-09,Fuel usage,1560.0,litres
+Oct-09,Fuel usage,950.0,litres
+Oct-09,Fuel usage,7949.0,litres
+Oct-09,Fuel usage,163.0,litres
+Nov-09,Fuel usage,1260.0,litres
+Nov-09,Fuel usage,5600.0,litres
+Nov-09,Fuel usage,41880.0,litres
+Nov-09,Fuel usage,467.0,litres
+Dec-09,Fuel usage,1740.0,litres
+Dec-09,Fuel usage,3500.0,litres
+Dec-09,Fuel usage,51778.0,litres
+Dec-09,Fuel usage,30.0,litres
+Jan-10,Fuel usage,1780.0,litres
+Jan-10,Fuel usage,8400.0,litres
+Jan-10,Fuel usage,51981.0,litres
+Jan-10,Fuel usage,75.0,litres
+Feb-10,Fuel usage,1415.0,litres
+Feb-10,Fuel usage,5200.0,litres
+Feb-10,Fuel usage,45305.0,litres
+Feb-10,Fuel usage,90.0,litres
+Mar-10,Fuel usage,884.0,litres
+Mar-10,Fuel usage,3500.0,litres
+Mar-10,Fuel usage,8347.0,litres
+Mar-10,Fuel usage,470.0,litres
+Apr-10,Fuel usage,1067.0,litres
+Apr-10,Fuel usage,4200.0,litres
+Apr-10,Fuel usage,6532.0,litres
+Apr-10,Fuel usage,639.0,litres
+May-10,Fuel usage,1157.0,litres
+May-10,Fuel usage,3000.0,litres
+May-10,Fuel usage,5239.0,litres
+May-10,Fuel usage,1276.0,litres
+Jun-10,Fuel usage,804.0,litres
+Jun-10,Fuel usage,4275.0,litres
+Jun-10,Fuel usage,2199.0,litres
+Jun-10,Fuel usage,317.0,litres
+Jul-10,Fuel usage,1421.0,litres
+Jul-10,Fuel usage,2300.0,litres
+Jul-10,Fuel usage,2063.0,litres
+Jul-10,Fuel usage,332.0,litres
+Aug-10,Fuel usage,961.0,litres
+Aug-10,Fuel usage,1900.0,litres
+Aug-10,Fuel usage,8023.0,litres
+Aug-10,Fuel usage,422.0,litres
+Sep-10,Fuel usage,1640.0,litres
+Sep-10,Fuel usage,3100.0,litres
+Sep-10,Fuel usage,10215.0,litres
+Sep-10,Fuel usage,187.0,litres
+Oct-10,Fuel usage,2200.0,litres
+Oct-10,Fuel usage,4900.0,litres
+Oct-10,Fuel usage,4000.0,litres
+Oct-10,Fuel usage,122.0,litres
+Nov-10,Fuel usage,2200.0,litres
+Nov-10,Fuel usage,6000.0,litres
+Nov-10,Fuel usage,46064.0,litres
+Nov-10,Fuel usage,74.0,litres
+Dec-10,Fuel usage,1173.0,litres
+Dec-10,Fuel usage,1259.0,litres
+Dec-10,Fuel usage,16635.0,litres
+Dec-10,Fuel usage,90.0,litres
+Jan-11,Fuel usage,1895.0,litres
+Jan-11,Fuel usage,2226.0,litres
+Jan-11,Fuel usage,40053.0,litres
+Jan-11,Fuel usage,186.0,litres
+Feb-11,Fuel usage,2230.0,litres
+Feb-11,Fuel usage,711.0,litres
+Feb-11,Fuel usage,37886.0,litres
+Feb-11,Fuel usage,60.0,litres
+Mar-11,Fuel usage,1500.0,litres
+Mar-11,Fuel usage,1739.0,litres
+Mar-11,Fuel usage,11299.0,litres
+Mar-11,Fuel usage,348.0,litres
+Apr-11,Fuel usage,600.0,litres
+Apr-11,Fuel usage,1230.0,litres
+Apr-11,Fuel usage,7449.0,litres
+Apr-11,Fuel usage,1332.0,litres
+May-11,Fuel usage,1300.0,litres
+May-11,Fuel usage,127.0,litres
+May-11,Fuel usage,3085.0,litres
+May-11,Fuel usage,819.0,litres
+Jun-11,Fuel usage,1700.0,litres
+Jun-11,Fuel usage,2338.0,litres
+Jun-11,Fuel usage,5563.0,litres
+Jun-11,Fuel usage,336.0,litres
+Jul-11,Fuel usage,1200.0,litres
+Jul-11,Fuel usage,3520.0,litres
+Jul-11,Fuel usage,4942.0,litres
+Jul-11,Fuel usage,690.0,litres
+Aug-11,Fuel usage,1150.0,litres
+Aug-11,Fuel usage,4300.0,litres
+Aug-11,Fuel usage,6503.0,litres
+Aug-11,Fuel usage,110.0,litres
+Sep-11,Fuel usage,1250.0,litres
+Sep-11,Fuel usage,1580.0,litres
+Sep-11,Fuel usage,1602.0,litres
+Sep-11,Fuel usage,114.0,litres
+Oct-11,Fuel usage,1500.0,litres
+Oct-11,Fuel usage,1180.0,litres
+Oct-11,Fuel usage,8894.0,litres
+Oct-11,Fuel usage,100.0,litres
+Nov-11,Fuel usage,800.0,litres
+Nov-11,Fuel usage,4600.0,litres
+Nov-11,Fuel usage,47954.0,litres
+Nov-11,Fuel usage,100.0,litres
+Dec-11,Fuel usage,1400.0,litres
+Dec-11,Fuel usage,3500.0,litres
+Dec-11,Fuel usage,32500.0,litres
+Dec-11,Fuel usage,97.0,litres
+Jan-12,Fuel usage,1350.0,litres
+Jan-12,Fuel usage,4200.0,litres
+Jan-12,Fuel usage,43800.0,litres
+Jan-12,Fuel usage,100.0,litres
+Jan-12,Fuel usage,24000.0,litres
+Feb-12,Fuel usage,1550.0,litres
+Feb-12,Fuel usage,394.0,litres
+Feb-12,Fuel usage,30615.0,litres
+Feb-12,Fuel usage,125.0,litres
+Feb-12,Fuel usage,16000.0,litres
+Mar-12,Fuel usage,1650.0,litres
+Mar-12,Fuel usage,2600.0,litres
+Mar-12,Fuel usage,33600.0,litres
+Mar-12,Fuel usage,131.0,litres
+Mar-12,Fuel usage,18000.0,litres
+Apr-12,Fuel usage,830.0,litres
+Apr-12,Fuel usage,520.0,litres
+Apr-12,Fuel usage,1824.0,litres
+Apr-12,Fuel usage,969.0,litres
+Apr-12,Fuel usage,0.0,litres
+May-12,Fuel usage,670.0,litres
+May-12,Fuel usage,700.0,litres
+May-12,Fuel usage,6000.0,litres
+May-12,Fuel usage,64.0,litres
+May-12,Fuel usage,0.0,litres
+Jun-12,Fuel usage,950.0,litres
+Jun-12,Fuel usage,530.0,litres
+Jun-12,Fuel usage,2000.0,litres
+Jun-12,Fuel usage,0.0,litres
+Jul-12,Fuel usage,2600.0,litres
+Jul-12,Fuel usage,530.0,litres
+Jul-12,Fuel usage,17000.0,litres
+Jul-12,Fuel usage,0.0,litres
+Jul-12,Fuel usage,10000.0,litres
+Aug-12,Fuel usage,1420.0,litres
+Aug-12,Fuel usage,1020.0,litres
+Aug-12,Fuel usage,9000.0,litres
+Aug-12,Fuel usage,86.0,litres
+Aug-12,Fuel usage,0.0,litres
+Sep-12,Fuel usage,1780.0,litres
+Sep-12,Fuel usage,2630.0,litres
+Sep-12,Fuel usage,15200.0,litres
+Sep-12,Fuel usage,66.0,litres
+Sep-12,Fuel usage,9200.0,litres
+Oct-12,Fuel usage,1730.0,litres
+Oct-12,Fuel usage,3460.0,litres
+Oct-12,Fuel usage,14600.0,litres
+Oct-12,Fuel usage,73.0,litres
+Oct-12,Fuel usage,9300.0,litres
+Nov-12,Fuel usage,2130.0,litres
+Nov-12,Fuel usage,2580.0,litres
+Nov-12,Fuel usage,41892.0,litres
+Nov-12,Fuel usage,0.0,litres
+Nov-12,Fuel usage,23292.0,litres
+Mar-13,Fuel usage,1200.0,litres
+Mar-13,Fuel usage,630.0,litres
+Mar-13,Fuel usage,4680.0,litres
+Mar-13,Fuel usage,340.0,litres
+Mar-13,Fuel usage,0.0,litres
+Apr-13,Fuel usage,550.0,litres
+Apr-13,Fuel usage,940.0,litres
+Apr-13,Fuel usage,2325.0,litres
+Apr-13,Fuel usage,103.0,litres
+Apr-13,Fuel usage,0.0,litres
+May-13,Fuel usage,1150.0,litres
+May-13,Fuel usage,620.0,litres
+May-13,Fuel usage,2711.0,litres
+May-13,Fuel usage,240.0,litres
+May-13,Fuel usage,0.0,litres
+Jun-13,Fuel usage,800.0,litres
+Jun-13,Fuel usage,1380.0,litres
+Jun-13,Fuel usage,4549.0,litres
+Jun-13,Fuel usage,112.0,litres
+Jun-13,Fuel usage,0.0,litres
+Jul-13,Fuel usage,1400.0,litres
+Jul-13,Fuel usage,1600.0,litres
+Jul-13,Fuel usage,4549.0,litres
+Jul-13,Fuel usage,100.0,litres
+Jul-13,Fuel usage,0.0,litres
+Aug-13,Fuel usage,3700.0,litres
+Aug-13,Fuel usage,2290.0,litres
+Aug-13,Fuel usage,8639.0,litres
+Aug-13,Fuel usage,75.0,litres
+Aug-13,Fuel usage,0.0,litres
+Sep-13,Fuel usage,1200.0,litres
+Sep-13,Fuel usage,2090.0,litres
+Sep-13,Fuel usage,6290.0,litres
+Sep-13,Fuel usage,114.0,litres
+Sep-13,Fuel usage,0.0,litres
+Oct-13,Fuel usage,1700.0,litres
+Oct-13,Fuel usage,4860.0,litres
+Oct-13,Fuel usage,12932.0,litres
+Oct-13,Fuel usage,111.0,litres
+Oct-13,Fuel usage,887.0,litres
+Nov-13,Fuel usage,2500.0,litres
+Nov-13,Fuel usage,8020.0,litres
+Nov-13,Fuel usage,17210.0,litres
+Nov-13,Fuel usage,97.0,litres
+Nov-13,Fuel usage,2750.0,litres
+Dec-13,Fuel usage,900.0,litres
+Dec-13,Fuel usage,10610.0,litres
+Dec-13,Fuel usage,61356.0,litres
+Dec-13,Fuel usage,283.0,litres
+Dec-13,Fuel usage,14156.0,litres
+Jan-14,Fuel usage,1200.0,litres
+Jan-14,Fuel usage,840.0,litres
+Jan-14,Fuel usage,26349.0,litres
+Jan-14,Fuel usage,316.0,litres
+Jan-14,Fuel usage,13349.0,litres
+Feb-14,Fuel usage,1250.0,litres
+Feb-14,Fuel usage,219.0,litres
+Feb-14,Fuel usage,18125.0,litres
+Feb-14,Fuel usage,83.0,litres
+Feb-14,Fuel usage,13925.0,litres
+Mar-14,Fuel usage,950.0,litres
+Mar-14,Fuel usage,908.0,litres
+Mar-14,Fuel usage,8000.0,litres
+Mar-14,Fuel usage,880.0,litres
+Mar-14,Fuel usage,3000.0,litres
+Apr-14,Fuel usage,196.0,litres
+Apr-14,Fuel usage,7500.0,litres
+Apr-14,Fuel usage,109.0,litres
+Apr-14,Fuel usage,0.0,litres
+May-14,Fuel usage,615.0,litres
+May-14,Fuel usage,26.0,litres
+May-14,Fuel usage,13919.0,litres
+May-14,Fuel usage,174.0,litres
+May-14,Fuel usage,0.0,litres
+Jun-14,Fuel usage,1530.0,litres
+Jun-14,Fuel usage,150.0,litres
+Jun-14,Fuel usage,5500.0,litres
+Jun-14,Fuel usage,0.0,litres
+Jul-14,Fuel usage,1130.0,litres
+Jul-14,Fuel usage,1700.0,litres
+Jul-14,Fuel usage,5000.0,litres
+Jul-14,Fuel usage,199.0,litres
+Jul-14,Fuel usage,0.0,litres
+Aug-14,Fuel usage,696.0,litres
+Aug-14,Fuel usage,2800.0,litres
+Aug-14,Fuel usage,10000.0,litres
+Aug-14,Fuel usage,0.0,litres
+Jun-15,Fuel usage,1220.0,litres
+Jun-15,Fuel usage,8195.0,litres
+Jun-15,Fuel usage,161.0,litres
+Jun-15,Fuel usage,0.0,litres
+Jul-15,Fuel usage,1860.0,litres
+Jul-15,Fuel usage,3720.0,litres
+Jul-15,Fuel usage,23.0,litres
+Jul-15,Fuel usage,0.0,litres
+Aug-15,Fuel usage,2530.0,litres
+Aug-15,Fuel usage,3550.0,litres
+Aug-15,Fuel usage,9466.0,litres
+Aug-15,Fuel usage,97.0,litres
+Aug-15,Fuel usage,1605.0,litres
+Sep-15,Fuel usage,955.0,litres
+Sep-15,Fuel usage,5960.0,litres
+Sep-15,Fuel usage,18726.0,litres
+Sep-15,Fuel usage,56.0,litres
+Sep-15,Fuel usage,8841.0,litres
+Oct-15,Fuel usage,2437.0,litres
+Oct-15,Fuel usage,7370.0,litres
+Oct-15,Fuel usage,19999.0,litres
+Oct-15,Fuel usage,677.0,litres
+Oct-15,Fuel usage,12387.0,litres
+Nov-15,Fuel usage,1310.0,litres
+Nov-15,Fuel usage,7480.0,litres
+Nov-15,Fuel usage,36047.0,litres
+Nov-15,Fuel usage,138.0,litres
+Nov-15,Fuel usage,18547.0,litres
+Dec-15,Fuel usage,1398.0,litres
+Dec-15,Fuel usage,10740.0,litres
+Dec-15,Fuel usage,34924.0,litres
+Dec-15,Fuel usage,142.0,litres
+Dec-15,Fuel usage,11930.0,litres
+Jan-16,Fuel usage,431.0,litres
+Jan-16,Fuel usage,1090.0,litres
+Jan-16,Fuel usage,59414.0,litres
+Jan-16,Fuel usage,130.0,litres
+Jan-16,Fuel usage,12000.0,litres
+Feb-16,Fuel usage,2720.0,litres
+Feb-16,Fuel usage,32505.0,litres
+Feb-16,Fuel usage,113.0,litres
+Feb-16,Fuel usage,15500.0,litres
+Jan-86,Station electricity usage,131866.0,kWh
+Jan-86,Station electricity usage,,kWh
+Jan-86,Station electricity usage,118850.0,kWh
+Jan-86,Station electricity usage,31457.0,kWh
+Feb-86,Station electricity usage,,kWh
+Feb-86,Station electricity usage,118646.0,kWh
+Feb-86,Station electricity usage,26969.0,kWh
+Mar-86,Station electricity usage,132624.0,kWh
+Mar-86,Station electricity usage,,kWh
+Mar-86,Station electricity usage,138179.0,kWh
+Mar-86,Station electricity usage,32276.0,kWh
+Apr-86,Station electricity usage,159096.0,kWh
+Apr-86,Station electricity usage,,kWh
+Apr-86,Station electricity usage,139818.0,kWh
+Apr-86,Station electricity usage,29256.0,kWh
+May-86,Station electricity usage,168630.0,kWh
+May-86,Station electricity usage,150854.0,kWh
+May-86,Station electricity usage,33720.0,kWh
+Jun-86,Station electricity usage,171122.0,kWh
+Jun-86,Station electricity usage,144110.0,kWh
+Jun-86,Station electricity usage,33010.0,kWh
+Jul-86,Station electricity usage,171248.0,kWh
+Jul-86,Station electricity usage,147306.0,kWh
+Jul-86,Station electricity usage,20964.0,kWh
+Aug-86,Station electricity usage,172494.0,kWh
+Aug-86,Station electricity usage,143744.0,kWh
+Aug-86,Station electricity usage,33830.0,kWh
+Sep-86,Station electricity usage,159418.0,kWh
+Sep-86,Station electricity usage,124296.0,kWh
+Sep-86,Station electricity usage,34996.0,kWh
+Oct-86,Station electricity usage,153104.0,kWh
+Oct-86,Station electricity usage,136664.0,kWh
+Oct-86,Station electricity usage,33328.0,kWh
+Nov-86,Station electricity usage,139720.0,kWh
+Nov-86,Station electricity usage,136144.0,kWh
+Nov-86,Station electricity usage,32597.0,kWh
+Dec-86,Station electricity usage,130816.0,kWh
+Dec-86,Station electricity usage,128394.0,kWh
+Dec-86,Station electricity usage,33073.0,kWh
+Jan-87,Station electricity usage,122822.0,kWh
+Jan-87,Station electricity usage,86724.0,kWh
+Jan-87,Station electricity usage,120176.0,kWh
+Jan-87,Station electricity usage,34480.0,kWh
+Feb-87,Station electricity usage,132034.0,kWh
+Feb-87,Station electricity usage,86772.0,kWh
+Feb-87,Station electricity usage,110416.0,kWh
+Feb-87,Station electricity usage,30840.0,kWh
+Mar-87,Station electricity usage,147854.0,kWh
+Mar-87,Station electricity usage,116412.0,kWh
+Mar-87,Station electricity usage,103316.0,kWh
+Mar-87,Station electricity usage,38837.0,kWh
+Apr-87,Station electricity usage,154140.0,kWh
+Apr-87,Station electricity usage,112080.0,kWh
+Apr-87,Station electricity usage,140220.0,kWh
+Apr-87,Station electricity usage,43144.0,kWh
+May-87,Station electricity usage,168210.0,kWh
+May-87,Station electricity usage,127392.0,kWh
+May-87,Station electricity usage,153421.0,kWh
+May-87,Station electricity usage,47421.0,kWh
+Jun-87,Station electricity usage,162050.0,kWh
+Jun-87,Station electricity usage,126104.0,kWh
+Jun-87,Station electricity usage,139992.0,kWh
+Jun-87,Station electricity usage,48693.0,kWh
+Jul-87,Station electricity usage,172536.0,kWh
+Jul-87,Station electricity usage,123288.0,kWh
+Jul-87,Station electricity usage,154842.0,kWh
+Jul-87,Station electricity usage,32024.0,kWh
+Aug-87,Station electricity usage,177730.0,kWh
+Aug-87,Station electricity usage,132648.0,kWh
+Aug-87,Station electricity usage,96418.0,kWh
+Aug-87,Station electricity usage,46993.0,kWh
+Sep-87,Station electricity usage,162652.0,kWh
+Sep-87,Station electricity usage,126840.0,kWh
+Sep-87,Station electricity usage,181322.0,kWh
+Sep-87,Station electricity usage,45428.0,kWh
+Oct-87,Station electricity usage,152180.0,kWh
+Oct-87,Station electricity usage,119172.0,kWh
+Oct-87,Station electricity usage,175537.0,kWh
+Oct-87,Station electricity usage,46764.0,kWh
+Nov-87,Station electricity usage,133476.0,kWh
+Nov-87,Station electricity usage,107580.0,kWh
+Nov-87,Station electricity usage,144610.0,kWh
+Nov-87,Station electricity usage,44383.0,kWh
+Dec-87,Station electricity usage,112042.0,kWh
+Dec-87,Station electricity usage,106924.0,kWh
+Dec-87,Station electricity usage,137540.0,kWh
+Dec-87,Station electricity usage,44280.0,kWh
+Jan-88,Station electricity usage,127806.0,kWh
+Jan-88,Station electricity usage,105960.0,kWh
+Jan-88,Station electricity usage,95333.0,kWh
+Jan-88,Station electricity usage,44588.0,kWh
+Feb-88,Station electricity usage,135464.0,kWh
+Feb-88,Station electricity usage,66120.0,kWh
+Feb-88,Station electricity usage,136666.0,kWh
+Feb-88,Station electricity usage,42240.0,kWh
+Mar-88,Station electricity usage,156758.0,kWh
+Mar-88,Station electricity usage,22920.0,kWh
+Mar-88,Station electricity usage,161660.0,kWh
+Mar-88,Station electricity usage,50178.0,kWh
+Apr-88,Station electricity usage,157332.0,kWh
+Apr-88,Station electricity usage,18050.0,kWh
+Apr-88,Station electricity usage,149992.0,kWh
+Apr-88,Station electricity usage,49899.0,kWh
+May-88,Station electricity usage,156170.0,kWh
+May-88,Station electricity usage,116956.0,kWh
+May-88,Station electricity usage,163136.0,kWh
+May-88,Station electricity usage,53003.0,kWh
+Jun-88,Station electricity usage,161112.0,kWh
+Jun-88,Station electricity usage,123360.0,kWh
+Jun-88,Station electricity usage,156012.0,kWh
+Jun-88,Station electricity usage,55528.0,kWh
+Jul-88,Station electricity usage,168574.0,kWh
+Jul-88,Station electricity usage,137760.0,kWh
+Jul-88,Station electricity usage,169270.0,kWh
+Jul-88,Station electricity usage,52846.0,kWh
+Aug-88,Station electricity usage,162932.0,kWh
+Aug-88,Station electricity usage,138240.0,kWh
+Aug-88,Station electricity usage,172756.0,kWh
+Aug-88,Station electricity usage,54003.0,kWh
+Sep-88,Station electricity usage,157766.0,kWh
+Sep-88,Station electricity usage,128040.0,kWh
+Sep-88,Station electricity usage,161908.0,kWh
+Sep-88,Station electricity usage,52533.0,kWh
+Oct-88,Station electricity usage,154014.0,kWh
+Oct-88,Station electricity usage,125180.0,kWh
+Oct-88,Station electricity usage,162206.0,kWh
+Oct-88,Station electricity usage,48714.0,kWh
+Nov-88,Station electricity usage,138446.0,kWh
+Nov-88,Station electricity usage,48460.0,kWh
+Nov-88,Station electricity usage,163268.0,kWh
+Nov-88,Station electricity usage,51034.0,kWh
+Dec-88,Station electricity usage,121030.0,kWh
+Dec-88,Station electricity usage,,kWh
+Dec-88,Station electricity usage,148060.0,kWh
+Dec-88,Station electricity usage,45413.0,kWh
+Jan-89,Station electricity usage,124600.0,kWh
+Jan-89,Station electricity usage,90900.0,kWh
+Jan-89,Station electricity usage,143638.0,kWh
+Jan-89,Station electricity usage,41638.0,kWh
+Feb-89,Station electricity usage,126434.0,kWh
+Feb-89,Station electricity usage,89856.0,kWh
+Feb-89,Station electricity usage,153915.0,kWh
+Feb-89,Station electricity usage,42056.0,kWh
+Mar-89,Station electricity usage,142380.0,kWh
+Mar-89,Station electricity usage,121200.0,kWh
+Mar-89,Station electricity usage,142832.0,kWh
+Mar-89,Station electricity usage,51474.0,kWh
+Apr-89,Station electricity usage,143206.0,kWh
+Apr-89,Station electricity usage,127476.0,kWh
+Apr-89,Station electricity usage,132312.0,kWh
+Apr-89,Station electricity usage,48553.0,kWh
+May-89,Station electricity usage,161770.0,kWh
+May-89,Station electricity usage,146580.0,kWh
+May-89,Station electricity usage,167520.0,kWh
+May-89,Station electricity usage,52314.0,kWh
+Jun-89,Station electricity usage,104020.0,kWh
+Jun-89,Station electricity usage,134280.0,kWh
+Jun-89,Station electricity usage,167004.0,kWh
+Jun-89,Station electricity usage,52300.0,kWh
+Jul-89,Station electricity usage,181580.0,kWh
+Jul-89,Station electricity usage,140016.0,kWh
+Jul-89,Station electricity usage,169968.0,kWh
+Jul-89,Station electricity usage,52655.0,kWh
+Aug-89,Station electricity usage,,kWh
+Aug-89,Station electricity usage,135744.0,kWh
+Aug-89,Station electricity usage,163476.0,kWh
+Aug-89,Station electricity usage,50442.0,kWh
+Sep-89,Station electricity usage,,kWh
+Sep-89,Station electricity usage,125388.0,kWh
+Sep-89,Station electricity usage,149760.0,kWh
+Sep-89,Station electricity usage,46584.0,kWh
+Oct-89,Station electricity usage,,kWh
+Oct-89,Station electricity usage,120600.0,kWh
+Oct-89,Station electricity usage,161232.0,kWh
+Oct-89,Station electricity usage,46548.0,kWh
+Nov-89,Station electricity usage,,kWh
+Nov-89,Station electricity usage,110028.0,kWh
+Nov-89,Station electricity usage,152820.0,kWh
+Nov-89,Station electricity usage,47581.0,kWh
+Dec-89,Station electricity usage,,kWh
+Dec-89,Station electricity usage,112128.0,kWh
+Dec-89,Station electricity usage,146214.0,kWh
+Dec-89,Station electricity usage,46305.0,kWh
+Jan-90,Station electricity usage,181580.0,kWh
+Jan-90,Station electricity usage,113088.0,kWh
+Jan-90,Station electricity usage,129300.0,kWh
+Jan-90,Station electricity usage,41248.0,kWh
+Feb-90,Station electricity usage,186899.0,kWh
+Feb-90,Station electricity usage,116868.0,kWh
+Feb-90,Station electricity usage,137472.0,kWh
+Feb-90,Station electricity usage,36631.0,kWh
+Mar-90,Station electricity usage,,kWh
+Mar-90,Station electricity usage,133632.0,kWh
+Mar-90,Station electricity usage,149808.0,kWh
+Mar-90,Station electricity usage,44538.0,kWh
+Apr-90,Station electricity usage,,kWh
+Apr-90,Station electricity usage,128160.0,kWh
+Apr-90,Station electricity usage,152784.0,kWh
+Apr-90,Station electricity usage,44669.0,kWh
+May-90,Station electricity usage,166082.0,kWh
+May-90,Station electricity usage,150204.0,kWh
+May-90,Station electricity usage,171804.0,kWh
+May-90,Station electricity usage,53736.0,kWh
+Jun-90,Station electricity usage,175014.0,kWh
+Jun-90,Station electricity usage,146256.0,kWh
+Jun-90,Station electricity usage,179856.0,kWh
+Jun-90,Station electricity usage,50626.0,kWh
+Jul-90,Station electricity usage,178906.0,kWh
+Jul-90,Station electricity usage,159468.0,kWh
+Jul-90,Station electricity usage,171120.0,kWh
+Jul-90,Station electricity usage,50312.0,kWh
+Aug-90,Station electricity usage,181720.0,kWh
+Aug-90,Station electricity usage,150048.0,kWh
+Aug-90,Station electricity usage,181680.0,kWh
+Aug-90,Station electricity usage,52301.0,kWh
+Sep-90,Station electricity usage,150010.0,kWh
+Sep-90,Station electricity usage,144108.0,kWh
+Sep-90,Station electricity usage,178332.0,kWh
+Sep-90,Station electricity usage,51416.0,kWh
+Oct-90,Station electricity usage,161238.0,kWh
+Oct-90,Station electricity usage,139560.0,kWh
+Oct-90,Station electricity usage,183408.0,kWh
+Oct-90,Station electricity usage,50114.0,kWh
+Nov-90,Station electricity usage,131782.0,kWh
+Nov-90,Station electricity usage,127488.0,kWh
+Nov-90,Station electricity usage,161052.0,kWh
+Nov-90,Station electricity usage,47325.0,kWh
+Dec-90,Station electricity usage,128192.0,kWh
+Dec-90,Station electricity usage,120156.0,kWh
+Dec-90,Station electricity usage,149135.0,kWh
+Dec-90,Station electricity usage,46173.0,kWh
+Jan-91,Station electricity usage,117964.0,kWh
+Jan-91,Station electricity usage,110172.0,kWh
+Jan-91,Station electricity usage,148392.0,kWh
+Jan-91,Station electricity usage,47809.0,kWh
+Feb-91,Station electricity usage,131684.0,kWh
+Feb-91,Station electricity usage,118440.0,kWh
+Feb-91,Station electricity usage,117396.0,kWh
+Feb-91,Station electricity usage,44671.0,kWh
+Mar-91,Station electricity usage,152712.0,kWh
+Mar-91,Station electricity usage,148800.0,kWh
+Mar-91,Station electricity usage,,kWh
+Mar-91,Station electricity usage,46266.0,kWh
+Apr-91,Station electricity usage,161686.0,kWh
+Apr-91,Station electricity usage,131520.0,kWh
+Apr-91,Station electricity usage,,kWh
+Apr-91,Station electricity usage,43851.0,kWh
+May-91,Station electricity usage,186438.0,kWh
+May-91,Station electricity usage,152280.0,kWh
+May-91,Station electricity usage,116712.0,kWh
+May-91,Station electricity usage,49110.0,kWh
+Jun-91,Station electricity usage,177912.0,kWh
+Jun-91,Station electricity usage,145056.0,kWh
+Jun-91,Station electricity usage,188340.0,kWh
+Jun-91,Station electricity usage,47484.0,kWh
+Jul-91,Station electricity usage,186186.0,kWh
+Jul-91,Station electricity usage,153600.0,kWh
+Jul-91,Station electricity usage,202560.0,kWh
+Jul-91,Station electricity usage,47482.0,kWh
+Aug-91,Station electricity usage,189812.0,kWh
+Aug-91,Station electricity usage,153120.0,kWh
+Aug-91,Station electricity usage,,kWh
+Aug-91,Station electricity usage,49464.0,kWh
+Sep-91,Station electricity usage,177030.0,kWh
+Sep-91,Station electricity usage,159960.0,kWh
+Sep-91,Station electricity usage,,kWh
+Sep-91,Station electricity usage,44704.0,kWh
+Oct-91,Station electricity usage,170240.0,kWh
+Oct-91,Station electricity usage,145200.0,kWh
+Oct-91,Station electricity usage,168204.0,kWh
+Oct-91,Station electricity usage,49161.0,kWh
+Nov-91,Station electricity usage,151396.0,kWh
+Nov-91,Station electricity usage,132360.0,kWh
+Nov-91,Station electricity usage,,kWh
+Nov-91,Station electricity usage,43391.0,kWh
+Dec-91,Station electricity usage,138334.0,kWh
+Dec-91,Station electricity usage,117840.0,kWh
+Dec-91,Station electricity usage,,kWh
+Dec-91,Station electricity usage,42070.0,kWh
+Jan-92,Station electricity usage,155960.0,kWh
+Jan-92,Station electricity usage,112335.0,kWh
+Jan-92,Station electricity usage,,kWh
+Jan-92,Station electricity usage,41065.0,kWh
+Feb-92,Station electricity usage,154560.0,kWh
+Feb-92,Station electricity usage,101724.0,kWh
+Feb-92,Station electricity usage,259283.0,kWh
+Feb-92,Station electricity usage,43254.0,kWh
+Mar-92,Station electricity usage,180530.0,kWh
+Mar-92,Station electricity usage,135372.0,kWh
+Mar-92,Station electricity usage,176404.0,kWh
+Mar-92,Station electricity usage,50563.0,kWh
+Apr-92,Station electricity usage,185080.0,kWh
+Apr-92,Station electricity usage,152016.0,kWh
+Apr-92,Station electricity usage,157932.0,kWh
+Apr-92,Station electricity usage,64103.0,kWh
+May-92,Station electricity usage,189840.0,kWh
+May-92,Station electricity usage,164520.0,kWh
+May-92,Station electricity usage,166672.0,kWh
+May-92,Station electricity usage,57970.0,kWh
+Jun-92,Station electricity usage,186741.0,kWh
+Jun-92,Station electricity usage,160464.0,kWh
+Jun-92,Station electricity usage,163932.0,kWh
+Jun-92,Station electricity usage,52822.0,kWh
+Jul-92,Station electricity usage,212562.0,kWh
+Jul-92,Station electricity usage,169776.0,kWh
+Jul-92,Station electricity usage,175452.0,kWh
+Jul-92,Station electricity usage,54352.0,kWh
+Aug-92,Station electricity usage,221824.0,kWh
+Aug-92,Station electricity usage,163812.0,kWh
+Aug-92,Station electricity usage,127140.0,kWh
+Aug-92,Station electricity usage,52683.0,kWh
+Sep-92,Station electricity usage,207634.0,kWh
+Sep-92,Station electricity usage,159540.0,kWh
+Sep-92,Station electricity usage,165813.0,kWh
+Sep-92,Station electricity usage,49459.0,kWh
+Oct-92,Station electricity usage,199122.0,kWh
+Oct-92,Station electricity usage,160440.0,kWh
+Oct-92,Station electricity usage,,kWh
+Oct-92,Station electricity usage,50664.0,kWh
+Nov-92,Station electricity usage,169694.0,kWh
+Nov-92,Station electricity usage,130560.0,kWh
+Nov-92,Station electricity usage,146352.0,kWh
+Nov-92,Station electricity usage,46993.0,kWh
+Dec-92,Station electricity usage,138456.0,kWh
+Dec-92,Station electricity usage,47747.0,kWh
+Mar-93,Station electricity usage,179051.0,kWh
+Mar-93,Station electricity usage,132921.0,kWh
+Mar-93,Station electricity usage,149834.0,kWh
+Mar-93,Station electricity usage,44877.0,kWh
+Apr-93,Station electricity usage,189779.0,kWh
+Apr-93,Station electricity usage,151049.0,kWh
+Apr-93,Station electricity usage,130426.0,kWh
+Apr-93,Station electricity usage,39558.0,kWh
+May-93,Station electricity usage,206185.0,kWh
+May-93,Station electricity usage,173252.0,kWh
+May-93,Station electricity usage,149520.0,kWh
+May-93,Station electricity usage,42720.0,kWh
+Jun-93,Station electricity usage,197923.0,kWh
+Jun-93,Station electricity usage,167074.0,kWh
+Jun-93,Station electricity usage,146880.0,kWh
+Jun-93,Station electricity usage,42933.0,kWh
+Jul-93,Station electricity usage,203385.0,kWh
+Jul-93,Station electricity usage,152462.0,kWh
+Jul-93,Station electricity usage,146160.0,kWh
+Jul-93,Station electricity usage,44631.0,kWh
+Aug-93,Station electricity usage,198118.0,kWh
+Aug-93,Station electricity usage,194815.0,kWh
+Aug-93,Station electricity usage,,kWh
+Aug-93,Station electricity usage,45604.0,kWh
+Sep-93,Station electricity usage,187794.0,kWh
+Sep-93,Station electricity usage,180090.0,kWh
+Sep-93,Station electricity usage,175706.0,kWh
+Sep-93,Station electricity usage,42705.0,kWh
+Oct-93,Station electricity usage,179090.0,kWh
+Oct-93,Station electricity usage,145452.0,kWh
+Oct-93,Station electricity usage,187729.0,kWh
+Oct-93,Station electricity usage,44660.0,kWh
+Nov-93,Station electricity usage,161825.0,kWh
+Nov-93,Station electricity usage,161714.0,kWh
+Nov-93,Station electricity usage,127286.0,kWh
+Nov-93,Station electricity usage,43862.0,kWh
+Dec-93,Station electricity usage,181536.0,kWh
+Dec-93,Station electricity usage,159050.0,kWh
+Dec-93,Station electricity usage,127982.0,kWh
+Dec-93,Station electricity usage,44251.0,kWh
+May-94,Station electricity usage,210663.0,kWh
+May-94,Station electricity usage,213987.0,kWh
+May-94,Station electricity usage,147826.0,kWh
+May-94,Station electricity usage,46540.0,kWh
+Jun-94,Station electricity usage,191390.0,kWh
+Jun-94,Station electricity usage,185846.0,kWh
+Jun-94,Station electricity usage,143346.0,kWh
+Jun-94,Station electricity usage,48500.0,kWh
+Jul-94,Station electricity usage,207354.0,kWh
+Jul-94,Station electricity usage,205586.0,kWh
+Jul-94,Station electricity usage,143451.0,kWh
+Jul-94,Station electricity usage,50790.0,kWh
+Aug-94,Station electricity usage,215036.0,kWh
+Aug-94,Station electricity usage,214498.0,kWh
+Aug-94,Station electricity usage,164642.0,kWh
+Aug-94,Station electricity usage,51090.0,kWh
+Sep-94,Station electricity usage,198832.0,kWh
+Sep-94,Station electricity usage,203233.0,kWh
+Sep-94,Station electricity usage,167743.0,kWh
+Sep-94,Station electricity usage,47094.0,kWh
+Oct-94,Station electricity usage,190548.0,kWh
+Oct-94,Station electricity usage,214074.0,kWh
+Oct-94,Station electricity usage,145136.0,kWh
+Oct-94,Station electricity usage,44617.0,kWh
+Nov-94,Station electricity usage,182124.0,kWh
+Nov-94,Station electricity usage,186660.0,kWh
+Nov-94,Station electricity usage,136185.0,kWh
+Nov-94,Station electricity usage,38057.0,kWh
+Dec-94,Station electricity usage,172340.0,kWh
+Dec-94,Station electricity usage,172753.0,kWh
+Dec-94,Station electricity usage,130449.0,kWh
+Dec-94,Station electricity usage,52882.0,kWh
+Jan-95,Station electricity usage,177596.0,kWh
+Jan-95,Station electricity usage,165939.0,kWh
+Jan-95,Station electricity usage,129790.0,kWh
+Jan-95,Station electricity usage,46757.0,kWh
+Feb-95,Station electricity usage,161417.0,kWh
+Feb-95,Station electricity usage,170122.0,kWh
+Feb-95,Station electricity usage,117325.0,kWh
+Feb-95,Station electricity usage,42432.0,kWh
+Mar-95,Station electricity usage,210419.0,kWh
+Mar-95,Station electricity usage,188279.0,kWh
+Mar-95,Station electricity usage,142194.0,kWh
+Mar-95,Station electricity usage,49307.0,kWh
+May-95,Station electricity usage,217484.0,kWh
+May-95,Station electricity usage,164612.0,kWh
+May-95,Station electricity usage,150110.0,kWh
+May-95,Station electricity usage,49990.0,kWh
+Jun-95,Station electricity usage,214907.0,kWh
+Jun-95,Station electricity usage,165821.0,kWh
+Jun-95,Station electricity usage,139898.0,kWh
+Jun-95,Station electricity usage,49161.0,kWh
+Jul-95,Station electricity usage,202772.0,kWh
+Jul-95,Station electricity usage,160169.0,kWh
+Jul-95,Station electricity usage,153936.0,kWh
+Jul-95,Station electricity usage,50901.0,kWh
+Aug-95,Station electricity usage,223804.0,kWh
+Aug-95,Station electricity usage,168199.0,kWh
+Aug-95,Station electricity usage,136600.0,kWh
+Aug-95,Station electricity usage,48860.0,kWh
+Sep-95,Station electricity usage,207154.0,kWh
+Sep-95,Station electricity usage,154575.0,kWh
+Sep-95,Station electricity usage,129720.0,kWh
+Sep-95,Station electricity usage,49355.0,kWh
+Oct-95,Station electricity usage,201505.0,kWh
+Oct-95,Station electricity usage,178379.0,kWh
+Oct-95,Station electricity usage,132513.0,kWh
+Oct-95,Station electricity usage,53018.0,kWh
+Nov-95,Station electricity usage,178051.0,kWh
+Nov-95,Station electricity usage,169054.0,kWh
+Nov-95,Station electricity usage,127097.0,kWh
+Nov-95,Station electricity usage,52037.0,kWh
+Dec-95,Station electricity usage,174160.0,kWh
+Dec-95,Station electricity usage,170467.0,kWh
+Dec-95,Station electricity usage,127610.0,kWh
+Dec-95,Station electricity usage,53038.0,kWh
+Jan-96,Station electricity usage,162977.0,kWh
+Jan-96,Station electricity usage,169078.0,kWh
+Jan-96,Station electricity usage,128296.0,kWh
+Jan-96,Station electricity usage,49192.0,kWh
+Feb-96,Station electricity usage,159970.0,kWh
+Feb-96,Station electricity usage,169306.0,kWh
+Feb-96,Station electricity usage,134077.0,kWh
+Feb-96,Station electricity usage,49479.0,kWh
+Mar-96,Station electricity usage,196460.0,kWh
+Mar-96,Station electricity usage,196665.0,kWh
+Mar-96,Station electricity usage,151140.0,kWh
+Mar-96,Station electricity usage,54662.0,kWh
+May-96,Station electricity usage,214241.0,kWh
+May-96,Station electricity usage,175092.0,kWh
+May-96,Station electricity usage,142069.0,kWh
+May-96,Station electricity usage,58180.0,kWh
+Jun-96,Station electricity usage,194263.0,kWh
+Jun-96,Station electricity usage,165542.0,kWh
+Jun-96,Station electricity usage,138172.0,kWh
+Jun-96,Station electricity usage,57641.0,kWh
+Jul-96,Station electricity usage,203673.0,kWh
+Jul-96,Station electricity usage,176510.0,kWh
+Jul-96,Station electricity usage,137327.0,kWh
+Jul-96,Station electricity usage,57824.0,kWh
+Aug-96,Station electricity usage,197839.0,kWh
+Aug-96,Station electricity usage,171525.0,kWh
+Aug-96,Station electricity usage,140993.0,kWh
+Aug-96,Station electricity usage,57689.0,kWh
+Sep-96,Station electricity usage,189485.0,kWh
+Sep-96,Station electricity usage,163835.0,kWh
+Sep-96,Station electricity usage,131585.0,kWh
+Sep-96,Station electricity usage,54164.0,kWh
+Oct-96,Station electricity usage,190873.0,kWh
+Oct-96,Station electricity usage,175812.0,kWh
+Oct-96,Station electricity usage,153952.0,kWh
+Oct-96,Station electricity usage,61855.0,kWh
+Nov-96,Station electricity usage,169907.0,kWh
+Nov-96,Station electricity usage,170468.0,kWh
+Nov-96,Station electricity usage,134396.0,kWh
+Nov-96,Station electricity usage,55196.0,kWh
+Dec-96,Station electricity usage,163608.0,kWh
+Dec-96,Station electricity usage,174981.0,kWh
+Dec-96,Station electricity usage,128954.0,kWh
+Dec-96,Station electricity usage,49609.0,kWh
+Jan-97,Station electricity usage,167591.0,kWh
+Jan-97,Station electricity usage,168598.0,kWh
+Jan-97,Station electricity usage,123923.0,kWh
+Jan-97,Station electricity usage,47433.0,kWh
+Feb-97,Station electricity usage,152336.0,kWh
+Feb-97,Station electricity usage,155676.0,kWh
+Feb-97,Station electricity usage,115590.0,kWh
+Feb-97,Station electricity usage,46346.0,kWh
+Mar-97,Station electricity usage,183457.0,kWh
+Mar-97,Station electricity usage,169159.0,kWh
+Mar-97,Station electricity usage,147008.0,kWh
+Mar-97,Station electricity usage,54684.0,kWh
+May-97,Station electricity usage,215160.0,kWh
+May-97,Station electricity usage,180731.0,kWh
+May-97,Station electricity usage,158582.0,kWh
+May-97,Station electricity usage,58368.0,kWh
+Jun-97,Station electricity usage,201084.0,kWh
+Jun-97,Station electricity usage,164711.0,kWh
+Jun-97,Station electricity usage,149620.0,kWh
+Jun-97,Station electricity usage,59198.0,kWh
+Jul-97,Station electricity usage,207035.0,kWh
+Jul-97,Station electricity usage,173148.0,kWh
+Jul-97,Station electricity usage,165140.0,kWh
+Jul-97,Station electricity usage,64079.0,kWh
+Aug-97,Station electricity usage,208333.0,kWh
+Aug-97,Station electricity usage,175951.0,kWh
+Aug-97,Station electricity usage,162414.0,kWh
+Aug-97,Station electricity usage,66870.0,kWh
+Sep-97,Station electricity usage,193992.0,kWh
+Sep-97,Station electricity usage,165511.0,kWh
+Sep-97,Station electricity usage,164216.0,kWh
+Sep-97,Station electricity usage,63649.0,kWh
+Oct-97,Station electricity usage,186592.0,kWh
+Oct-97,Station electricity usage,170323.0,kWh
+Oct-97,Station electricity usage,160486.0,kWh
+Oct-97,Station electricity usage,59681.0,kWh
+Nov-97,Station electricity usage,157472.0,kWh
+Nov-97,Station electricity usage,161232.0,kWh
+Nov-97,Station electricity usage,147748.0,kWh
+Nov-97,Station electricity usage,56513.0,kWh
+Dec-97,Station electricity usage,159765.0,kWh
+Dec-97,Station electricity usage,158915.0,kWh
+Dec-97,Station electricity usage,152558.0,kWh
+Dec-97,Station electricity usage,50808.0,kWh
+Jan-98,Station electricity usage,155902.0,kWh
+Jan-98,Station electricity usage,161671.0,kWh
+Jan-98,Station electricity usage,138409.0,kWh
+Jan-98,Station electricity usage,48127.0,kWh
+Feb-98,Station electricity usage,145384.0,kWh
+Feb-98,Station electricity usage,142844.0,kWh
+Feb-98,Station electricity usage,128929.0,kWh
+Feb-98,Station electricity usage,40200.0,kWh
+Apr-98,Station electricity usage,181250.0,kWh
+Apr-98,Station electricity usage,166635.0,kWh
+Apr-98,Station electricity usage,159677.0,kWh
+Apr-98,Station electricity usage,51153.0,kWh
+May-98,Station electricity usage,182061.0,kWh
+May-98,Station electricity usage,157209.0,kWh
+May-98,Station electricity usage,157439.0,kWh
+May-98,Station electricity usage,52100.0,kWh
+Jun-98,Station electricity usage,173775.0,kWh
+Jun-98,Station electricity usage,151021.0,kWh
+Jun-98,Station electricity usage,154024.0,kWh
+Jun-98,Station electricity usage,48540.0,kWh
+Jul-98,Station electricity usage,187368.0,kWh
+Jul-98,Station electricity usage,160174.0,kWh
+Jul-98,Station electricity usage,161875.0,kWh
+Jul-98,Station electricity usage,54070.0,kWh
+Aug-98,Station electricity usage,182492.0,kWh
+Aug-98,Station electricity usage,151708.0,kWh
+Aug-98,Station electricity usage,154810.0,kWh
+Aug-98,Station electricity usage,51671.0,kWh
+Sep-98,Station electricity usage,170778.0,kWh
+Sep-98,Station electricity usage,154820.0,kWh
+Sep-98,Station electricity usage,145677.0,kWh
+Sep-98,Station electricity usage,52850.0,kWh
+Oct-98,Station electricity usage,169310.0,kWh
+Oct-98,Station electricity usage,166361.0,kWh
+Oct-98,Station electricity usage,148756.0,kWh
+Oct-98,Station electricity usage,50500.0,kWh
+Nov-98,Station electricity usage,151369.0,kWh
+Nov-98,Station electricity usage,153197.0,kWh
+Nov-98,Station electricity usage,146533.0,kWh
+Nov-98,Station electricity usage,49760.0,kWh
+Dec-98,Station electricity usage,139480.0,kWh
+Dec-98,Station electricity usage,149792.0,kWh
+Dec-98,Station electricity usage,155226.0,kWh
+Dec-98,Station electricity usage,45213.0,kWh
+Mar-99,Station electricity usage,166170.0,kWh
+Mar-99,Station electricity usage,173626.0,kWh
+Mar-99,Station electricity usage,152967.0,kWh
+Mar-99,Station electricity usage,50510.0,kWh
+Apr-99,Station electricity usage,168087.0,kWh
+Apr-99,Station electricity usage,157504.0,kWh
+Apr-99,Station electricity usage,137614.0,kWh
+Apr-99,Station electricity usage,56550.0,kWh
+May-99,Station electricity usage,177535.0,kWh
+May-99,Station electricity usage,155780.0,kWh
+May-99,Station electricity usage,125574.0,kWh
+May-99,Station electricity usage,54250.0,kWh
+Jun-99,Station electricity usage,168768.0,kWh
+Jun-99,Station electricity usage,146492.0,kWh
+Jun-99,Station electricity usage,120712.0,kWh
+Jun-99,Station electricity usage,54460.0,kWh
+Jul-99,Station electricity usage,178194.0,kWh
+Jul-99,Station electricity usage,156995.0,kWh
+Jul-99,Station electricity usage,127625.0,kWh
+Jul-99,Station electricity usage,56450.0,kWh
+Aug-99,Station electricity usage,181487.0,kWh
+Aug-99,Station electricity usage,146992.0,kWh
+Aug-99,Station electricity usage,125844.0,kWh
+Aug-99,Station electricity usage,56940.0,kWh
+Sep-99,Station electricity usage,168518.0,kWh
+Sep-99,Station electricity usage,148530.0,kWh
+Sep-99,Station electricity usage,122767.0,kWh
+Sep-99,Station electricity usage,54380.0,kWh
+Oct-99,Station electricity usage,170277.0,kWh
+Oct-99,Station electricity usage,150554.0,kWh
+Oct-99,Station electricity usage,122350.0,kWh
+Oct-99,Station electricity usage,55840.0,kWh
+Nov-99,Station electricity usage,150153.0,kWh
+Nov-99,Station electricity usage,150508.0,kWh
+Nov-99,Station electricity usage,127356.0,kWh
+Nov-99,Station electricity usage,53490.0,kWh
+Dec-99,Station electricity usage,148585.0,kWh
+Dec-99,Station electricity usage,152274.0,kWh
+Dec-99,Station electricity usage,142167.0,kWh
+Dec-99,Station electricity usage,54367.0,kWh
+Jan-00,Station electricity usage,144130.0,kWh
+Jan-00,Station electricity usage,164607.0,kWh
+Jan-00,Station electricity usage,184826.0,kWh
+Jan-00,Station electricity usage,54880.0,kWh
+Feb-00,Station electricity usage,140929.0,kWh
+Feb-00,Station electricity usage,148411.0,kWh
+Feb-00,Station electricity usage,153592.0,kWh
+Feb-00,Station electricity usage,47555.0,kWh
+Mar-00,Station electricity usage,162454.0,kWh
+Mar-00,Station electricity usage,166194.0,kWh
+Mar-00,Station electricity usage,160332.0,kWh
+Mar-00,Station electricity usage,53138.0,kWh
+Apr-00,Station electricity usage,159625.0,kWh
+Apr-00,Station electricity usage,159410.0,kWh
+Apr-00,Station electricity usage,149156.0,kWh
+Apr-00,Station electricity usage,51771.0,kWh
+May-00,Station electricity usage,176085.0,kWh
+May-00,Station electricity usage,164295.0,kWh
+May-00,Station electricity usage,158158.0,kWh
+May-00,Station electricity usage,57070.0,kWh
+Jun-00,Station electricity usage,167688.0,kWh
+Jun-00,Station electricity usage,156744.0,kWh
+Jun-00,Station electricity usage,154717.0,kWh
+Jun-00,Station electricity usage,54144.0,kWh
+Jul-00,Station electricity usage,184341.0,kWh
+Jul-00,Station electricity usage,163541.0,kWh
+Jul-00,Station electricity usage,157839.0,kWh
+Jul-00,Station electricity usage,55598.0,kWh
+Aug-00,Station electricity usage,181852.0,kWh
+Aug-00,Station electricity usage,163416.0,kWh
+Aug-00,Station electricity usage,153763.0,kWh
+Aug-00,Station electricity usage,56977.0,kWh
+Sep-00,Station electricity usage,169718.0,kWh
+Sep-00,Station electricity usage,151329.0,kWh
+Sep-00,Station electricity usage,138559.0,kWh
+Sep-00,Station electricity usage,50527.0,kWh
+Oct-00,Station electricity usage,173193.0,kWh
+Oct-00,Station electricity usage,170100.0,kWh
+Oct-00,Station electricity usage,141317.0,kWh
+Oct-00,Station electricity usage,51318.0,kWh
+Nov-00,Station electricity usage,154350.0,kWh
+Nov-00,Station electricity usage,162980.0,kWh
+Nov-00,Station electricity usage,138810.0,kWh
+Nov-00,Station electricity usage,51514.0,kWh
+Dec-00,Station electricity usage,141504.0,kWh
+Dec-00,Station electricity usage,162260.0,kWh
+Dec-00,Station electricity usage,145332.0,kWh
+Dec-00,Station electricity usage,50145.0,kWh
+Jan-01,Station electricity usage,123114.0,kWh
+Jan-01,Station electricity usage,163697.0,kWh
+Jan-01,Station electricity usage,148352.0,kWh
+Jan-01,Station electricity usage,49836.0,kWh
+Feb-01,Station electricity usage,132070.0,kWh
+Feb-01,Station electricity usage,159492.0,kWh
+Feb-01,Station electricity usage,133078.0,kWh
+Feb-01,Station electricity usage,46508.0,kWh
+Mar-01,Station electricity usage,154953.0,kWh
+Mar-01,Station electricity usage,162479.0,kWh
+Mar-01,Station electricity usage,149948.0,kWh
+Mar-01,Station electricity usage,50312.0,kWh
+Apr-01,Station electricity usage,158364.0,kWh
+Apr-01,Station electricity usage,161927.0,kWh
+Apr-01,Station electricity usage,141989.0,kWh
+Apr-01,Station electricity usage,46453.0,kWh
+May-01,Station electricity usage,170945.0,kWh
+May-01,Station electricity usage,166260.0,kWh
+May-01,Station electricity usage,144318.0,kWh
+May-01,Station electricity usage,51157.0,kWh
+Jun-01,Station electricity usage,172582.0,kWh
+Jun-01,Station electricity usage,162161.0,kWh
+Jun-01,Station electricity usage,140763.0,kWh
+Jun-01,Station electricity usage,53001.0,kWh
+Jul-01,Station electricity usage,187104.0,kWh
+Jul-01,Station electricity usage,164708.0,kWh
+Jul-01,Station electricity usage,144389.0,kWh
+Jul-01,Station electricity usage,55178.0,kWh
+Aug-01,Station electricity usage,193678.0,kWh
+Aug-01,Station electricity usage,161707.0,kWh
+Aug-01,Station electricity usage,141802.0,kWh
+Aug-01,Station electricity usage,56642.0,kWh
+Sep-01,Station electricity usage,180675.0,kWh
+Sep-01,Station electricity usage,148462.0,kWh
+Sep-01,Station electricity usage,144038.0,kWh
+Sep-01,Station electricity usage,51733.0,kWh
+Oct-01,Station electricity usage,168268.0,kWh
+Oct-01,Station electricity usage,148292.0,kWh
+Oct-01,Station electricity usage,154339.0,kWh
+Oct-01,Station electricity usage,56940.0,kWh
+Nov-01,Station electricity usage,143897.0,kWh
+Nov-01,Station electricity usage,148905.0,kWh
+Nov-01,Station electricity usage,153912.0,kWh
+Nov-01,Station electricity usage,54217.0,kWh
+Dec-01,Station electricity usage,136778.0,kWh
+Dec-01,Station electricity usage,169993.0,kWh
+Dec-01,Station electricity usage,150856.0,kWh
+Dec-01,Station electricity usage,56355.0,kWh
+Jan-02,Station electricity usage,130650.0,kWh
+Jan-02,Station electricity usage,159025.0,kWh
+Jan-02,Station electricity usage,119070.0,kWh
+Jan-02,Station electricity usage,48512.0,kWh
+Feb-02,Station electricity usage,133675.0,kWh
+Feb-02,Station electricity usage,155334.0,kWh
+Feb-02,Station electricity usage,115480.0,kWh
+Feb-02,Station electricity usage,44029.0,kWh
+Mar-02,Station electricity usage,162329.0,kWh
+Mar-02,Station electricity usage,149256.0,kWh
+Mar-02,Station electricity usage,121103.0,kWh
+Mar-02,Station electricity usage,52889.0,kWh
+Apr-02,Station electricity usage,160303.0,kWh
+Apr-02,Station electricity usage,152255.0,kWh
+Apr-02,Station electricity usage,156125.0,kWh
+Apr-02,Station electricity usage,48665.0,kWh
+May-02,Station electricity usage,174011.0,kWh
+May-02,Station electricity usage,157303.0,kWh
+May-02,Station electricity usage,161058.0,kWh
+May-02,Station electricity usage,51282.0,kWh
+Jun-02,Station electricity usage,178971.0,kWh
+Jun-02,Station electricity usage,155579.0,kWh
+Jun-02,Station electricity usage,125350.0,kWh
+Jun-02,Station electricity usage,51003.0,kWh
+Jul-02,Station electricity usage,184323.0,kWh
+Jul-02,Station electricity usage,164280.0,kWh
+Jul-02,Station electricity usage,133178.0,kWh
+Jul-02,Station electricity usage,50816.0,kWh
+Aug-02,Station electricity usage,183261.0,kWh
+Aug-02,Station electricity usage,168511.0,kWh
+Aug-02,Station electricity usage,129092.0,kWh
+Aug-02,Station electricity usage,52227.0,kWh
+Sep-02,Station electricity usage,166869.0,kWh
+Sep-02,Station electricity usage,157917.0,kWh
+Sep-02,Station electricity usage,124006.0,kWh
+Sep-02,Station electricity usage,50527.0,kWh
+Oct-02,Station electricity usage,173473.0,kWh
+Oct-02,Station electricity usage,181155.0,kWh
+Oct-02,Station electricity usage,130326.0,kWh
+Oct-02,Station electricity usage,45719.0,kWh
+Nov-02,Station electricity usage,150241.0,kWh
+Nov-02,Station electricity usage,166145.0,kWh
+Nov-02,Station electricity usage,149028.0,kWh
+Nov-02,Station electricity usage,41814.0,kWh
+Dec-02,Station electricity usage,138513.0,kWh
+Dec-02,Station electricity usage,170655.0,kWh
+Dec-02,Station electricity usage,136477.0,kWh
+Dec-02,Station electricity usage,42526.0,kWh
+Jan-03,Station electricity usage,127837.0,kWh
+Jan-03,Station electricity usage,163592.0,kWh
+Jan-03,Station electricity usage,134901.0,kWh
+Jan-03,Station electricity usage,40916.0,kWh
+Feb-03,Station electricity usage,105360.0,kWh
+Feb-03,Station electricity usage,145684.0,kWh
+Feb-03,Station electricity usage,100776.0,kWh
+Feb-03,Station electricity usage,37629.0,kWh
+May-04,Station electricity usage,122069.0,kWh
+May-04,Station electricity usage,148693.0,kWh
+May-04,Station electricity usage,145267.0,kWh
+May-04,Station electricity usage,49851.0,kWh
+Jun-04,Station electricity usage,153091.0,kWh
+Jun-04,Station electricity usage,150469.0,kWh
+Jun-04,Station electricity usage,154210.0,kWh
+Jun-04,Station electricity usage,48725.0,kWh
+Jul-04,Station electricity usage,142933.0,kWh
+Jul-04,Station electricity usage,160964.0,kWh
+Jul-04,Station electricity usage,166867.0,kWh
+Jul-04,Station electricity usage,51315.0,kWh
+Aug-04,Station electricity usage,105667.0,kWh
+Aug-04,Station electricity usage,152624.0,kWh
+Aug-04,Station electricity usage,144951.0,kWh
+Sep-04,Station electricity usage,97196.0,kWh
+Sep-04,Station electricity usage,155065.0,kWh
+Sep-04,Station electricity usage,140488.0,kWh
+Oct-04,Station electricity usage,83344.0,kWh
+Oct-04,Station electricity usage,150042.0,kWh
+Oct-04,Station electricity usage,138387.0,kWh
+Oct-04,Station electricity usage,48250.0,kWh
+Nov-04,Station electricity usage,95471.0,kWh
+Nov-04,Station electricity usage,147844.0,kWh
+Nov-04,Station electricity usage,143842.0,kWh
+Nov-04,Station electricity usage,43979.0,kWh
+Dec-04,Station electricity usage,80256.0,kWh
+Dec-04,Station electricity usage,137610.0,kWh
+Dec-04,Station electricity usage,131204.0,kWh
+Dec-04,Station electricity usage,43156.0,kWh
+Jan-05,Station electricity usage,99268.0,kWh
+Jan-05,Station electricity usage,130713.0,kWh
+Jan-05,Station electricity usage,130983.0,kWh
+Jan-05,Station electricity usage,41664.0,kWh
+Feb-05,Station electricity usage,92643.0,kWh
+Feb-05,Station electricity usage,137183.0,kWh
+Feb-05,Station electricity usage,116525.0,kWh
+Feb-05,Station electricity usage,37811.0,kWh
+Mar-05,Station electricity usage,97165.0,kWh
+Mar-05,Station electricity usage,141484.0,kWh
+Mar-05,Station electricity usage,131629.0,kWh
+Mar-05,Station electricity usage,47754.0,kWh
+Apr-05,Station electricity usage,106833.0,kWh
+Apr-05,Station electricity usage,143376.0,kWh
+Apr-05,Station electricity usage,127278.0,kWh
+Apr-05,Station electricity usage,45818.0,kWh
+May-05,Station electricity usage,122499.0,kWh
+May-05,Station electricity usage,154849.0,kWh
+May-05,Station electricity usage,133537.0,kWh
+May-05,Station electricity usage,48843.0,kWh
+Jun-05,Station electricity usage,87737.0,kWh
+Jun-05,Station electricity usage,149894.0,kWh
+Jun-05,Station electricity usage,127706.0,kWh
+Jun-05,Station electricity usage,47428.0,kWh
+Jul-05,Station electricity usage,138371.0,kWh
+Jul-05,Station electricity usage,165102.0,kWh
+Jul-05,Station electricity usage,135373.0,kWh
+Jul-05,Station electricity usage,47522.0,kWh
+Aug-05,Station electricity usage,117023.0,kWh
+Aug-05,Station electricity usage,162552.0,kWh
+Aug-05,Station electricity usage,135063.0,kWh
+Aug-05,Station electricity usage,48552.0,kWh
+Sep-05,Station electricity usage,104306.0,kWh
+Sep-05,Station electricity usage,152103.0,kWh
+Sep-05,Station electricity usage,126515.0,kWh
+Sep-05,Station electricity usage,45248.0,kWh
+Oct-05,Station electricity usage,88546.0,kWh
+Oct-05,Station electricity usage,155983.0,kWh
+Oct-05,Station electricity usage,130955.0,kWh
+Oct-05,Station electricity usage,41522.0,kWh
+Nov-05,Station electricity usage,71837.0,kWh
+Nov-05,Station electricity usage,151138.0,kWh
+Nov-05,Station electricity usage,130857.0,kWh
+Nov-05,Station electricity usage,36311.0,kWh
+Dec-05,Station electricity usage,85529.0,kWh
+Dec-05,Station electricity usage,144725.0,kWh
+Dec-05,Station electricity usage,133298.0,kWh
+Dec-05,Station electricity usage,33803.0,kWh
+Jan-06,Station electricity usage,101991.0,kWh
+Jan-06,Station electricity usage,141326.0,kWh
+Jan-06,Station electricity usage,133733.0,kWh
+Jan-06,Station electricity usage,35385.0,kWh
+Feb-06,Station electricity usage,70427.0,kWh
+Feb-06,Station electricity usage,146650.0,kWh
+Feb-06,Station electricity usage,127007.0,kWh
+Feb-06,Station electricity usage,25425.0,kWh
+Mar-06,Station electricity usage,76183.0,kWh
+Mar-06,Station electricity usage,145653.0,kWh
+Mar-06,Station electricity usage,144331.0,kWh
+Mar-06,Station electricity usage,37617.0,kWh
+Apr-06,Station electricity usage,55901.0,kWh
+Apr-06,Station electricity usage,139074.0,kWh
+Apr-06,Station electricity usage,122574.0,kWh
+Apr-06,Station electricity usage,38029.0,kWh
+May-06,Station electricity usage,117814.0,kWh
+May-06,Station electricity usage,163274.0,kWh
+May-06,Station electricity usage,136495.0,kWh
+May-06,Station electricity usage,45071.0,kWh
+Jun-06,Station electricity usage,83806.0,kWh
+Jun-06,Station electricity usage,150075.0,kWh
+Jun-06,Station electricity usage,134277.0,kWh
+Jun-06,Station electricity usage,47801.0,kWh
+Jul-06,Station electricity usage,109923.0,kWh
+Jul-06,Station electricity usage,156612.0,kWh
+Jul-06,Station electricity usage,137040.0,kWh
+Jul-06,Station electricity usage,45517.0,kWh
+Aug-06,Station electricity usage,101347.0,kWh
+Aug-06,Station electricity usage,150023.0,kWh
+Aug-06,Station electricity usage,131289.0,kWh
+Aug-06,Station electricity usage,49037.0,kWh
+Sep-06,Station electricity usage,94645.0,kWh
+Sep-06,Station electricity usage,141724.0,kWh
+Sep-06,Station electricity usage,129252.0,kWh
+Sep-06,Station electricity usage,45789.0,kWh
+Oct-06,Station electricity usage,82632.0,kWh
+Oct-06,Station electricity usage,139394.0,kWh
+Oct-06,Station electricity usage,135915.0,kWh
+Oct-06,Station electricity usage,45649.0,kWh
+Nov-06,Station electricity usage,66516.0,kWh
+Nov-06,Station electricity usage,139341.0,kWh
+Nov-06,Station electricity usage,129828.0,kWh
+Nov-06,Station electricity usage,48157.0,kWh
+Dec-06,Station electricity usage,76816.0,kWh
+Dec-06,Station electricity usage,162934.0,kWh
+Dec-06,Station electricity usage,130683.0,kWh
+Dec-06,Station electricity usage,46033.0,kWh
+Jan-07,Station electricity usage,94312.0,kWh
+Jan-07,Station electricity usage,143081.0,kWh
+Jan-07,Station electricity usage,125105.0,kWh
+Jan-07,Station electricity usage,40136.0,kWh
+Feb-07,Station electricity usage,71851.0,kWh
+Feb-07,Station electricity usage,137284.0,kWh
+Feb-07,Station electricity usage,132116.0,kWh
+Feb-07,Station electricity usage,38009.0,kWh
+Mar-07,Station electricity usage,78271.0,kWh
+Mar-07,Station electricity usage,153322.0,kWh
+Mar-07,Station electricity usage,135475.0,kWh
+Mar-07,Station electricity usage,43964.0,kWh
+Apr-07,Station electricity usage,90571.0,kWh
+Apr-07,Station electricity usage,130975.0,kWh
+Apr-07,Station electricity usage,124235.0,kWh
+Apr-07,Station electricity usage,45410.0,kWh
+May-07,Station electricity usage,80305.0,kWh
+May-07,Station electricity usage,135799.0,kWh
+May-07,Station electricity usage,131825.0,kWh
+May-07,Station electricity usage,39802.0,kWh
+Jun-07,Station electricity usage,75449.0,kWh
+Jun-07,Station electricity usage,139069.0,kWh
+Jun-07,Station electricity usage,128585.0,kWh
+Jun-07,Station electricity usage,41092.0,kWh
+Jul-07,Station electricity usage,62826.0,kWh
+Jul-07,Station electricity usage,138742.0,kWh
+Jul-07,Station electricity usage,132708.0,kWh
+Jul-07,Station electricity usage,40650.0,kWh
+Aug-07,Station electricity usage,144054.0,kWh
+Aug-07,Station electricity usage,153466.0,kWh
+Aug-07,Station electricity usage,37853.0,kWh
+Sep-07,Station electricity usage,88676.0,kWh
+Sep-07,Station electricity usage,139388.0,kWh
+Sep-07,Station electricity usage,146312.0,kWh
+Sep-07,Station electricity usage,35972.0,kWh
+Oct-07,Station electricity usage,85981.0,kWh
+Oct-07,Station electricity usage,140030.0,kWh
+Oct-07,Station electricity usage,144838.0,kWh
+Oct-07,Station electricity usage,36950.0,kWh
+Nov-07,Station electricity usage,76809.0,kWh
+Nov-07,Station electricity usage,134377.0,kWh
+Nov-07,Station electricity usage,122023.0,kWh
+Nov-07,Station electricity usage,33955.0,kWh
+Dec-07,Station electricity usage,112781.0,kWh
+Dec-07,Station electricity usage,96117.0,kWh
+Dec-07,Station electricity usage,121830.0,kWh
+Dec-07,Station electricity usage,12613.0,kWh
+Jan-08,Station electricity usage,82907.0,kWh
+Jan-08,Station electricity usage,135791.0,kWh
+Jan-08,Station electricity usage,118221.0,kWh
+Jan-08,Station electricity usage,33809.0,kWh
+Feb-08,Station electricity usage,63367.0,kWh
+Feb-08,Station electricity usage,137453.0,kWh
+Feb-08,Station electricity usage,113313.0,kWh
+Feb-08,Station electricity usage,34497.0,kWh
+Mar-08,Station electricity usage,73804.0,kWh
+Mar-08,Station electricity usage,148468.0,kWh
+Mar-08,Station electricity usage,124451.0,kWh
+Mar-08,Station electricity usage,40735.0,kWh
+Apr-08,Station electricity usage,90628.0,kWh
+Apr-08,Station electricity usage,143665.0,kWh
+Apr-08,Station electricity usage,121323.0,kWh
+Apr-08,Station electricity usage,37016.0,kWh
+May-08,Station electricity usage,68962.0,kWh
+May-08,Station electricity usage,150340.0,kWh
+May-08,Station electricity usage,102192.0,kWh
+May-08,Station electricity usage,40376.0,kWh
+Jun-08,Station electricity usage,76519.0,kWh
+Jun-08,Station electricity usage,146006.0,kWh
+Jun-08,Station electricity usage,127442.0,kWh
+Jun-08,Station electricity usage,44524.0,kWh
+Jul-08,Station electricity usage,106860.0,kWh
+Jul-08,Station electricity usage,157276.0,kWh
+Jul-08,Station electricity usage,143646.0,kWh
+Jul-08,Station electricity usage,43066.0,kWh
+Aug-08,Station electricity usage,96750.0,kWh
+Aug-08,Station electricity usage,170590.0,kWh
+Aug-08,Station electricity usage,135216.0,kWh
+Aug-08,Station electricity usage,45877.0,kWh
+Sep-08,Station electricity usage,94375.0,kWh
+Sep-08,Station electricity usage,163108.0,kWh
+Sep-08,Station electricity usage,130450.0,kWh
+Sep-08,Station electricity usage,34695.0,kWh
+Oct-08,Station electricity usage,86962.0,kWh
+Oct-08,Station electricity usage,152380.0,kWh
+Oct-08,Station electricity usage,133727.0,kWh
+Oct-08,Station electricity usage,45666.0,kWh
+Nov-08,Station electricity usage,70942.0,kWh
+Nov-08,Station electricity usage,147089.0,kWh
+Nov-08,Station electricity usage,114012.0,kWh
+Nov-08,Station electricity usage,44834.0,kWh
+Dec-08,Station electricity usage,100425.0,kWh
+Dec-08,Station electricity usage,142876.0,kWh
+Dec-08,Station electricity usage,127615.0,kWh
+Dec-08,Station electricity usage,42730.0,kWh
+Jan-09,Station electricity usage,91949.0,kWh
+Jan-09,Station electricity usage,145516.0,kWh
+Jan-09,Station electricity usage,144673.0,kWh
+Jan-09,Station electricity usage,42787.0,kWh
+Feb-09,Station electricity usage,75518.0,kWh
+Feb-09,Station electricity usage,141741.0,kWh
+Feb-09,Station electricity usage,117601.0,kWh
+Feb-09,Station electricity usage,40048.0,kWh
+Mar-09,Station electricity usage,59851.0,kWh
+Mar-09,Station electricity usage,148394.0,kWh
+Mar-09,Station electricity usage,117455.0,kWh
+Mar-09,Station electricity usage,46954.0,kWh
+Apr-09,Station electricity usage,82341.0,kWh
+Apr-09,Station electricity usage,150159.0,kWh
+Apr-09,Station electricity usage,137948.0,kWh
+Apr-09,Station electricity usage,39850.0,kWh
+May-09,Station electricity usage,99844.0,kWh
+May-09,Station electricity usage,157327.0,kWh
+May-09,Station electricity usage,130417.0,kWh
+May-09,Station electricity usage,41143.0,kWh
+Jun-09,Station electricity usage,102800.0,kWh
+Jun-09,Station electricity usage,156766.0,kWh
+Jun-09,Station electricity usage,127666.0,kWh
+Jun-09,Station electricity usage,37308.0,kWh
+Jul-09,Station electricity usage,102548.0,kWh
+Jul-09,Station electricity usage,165040.0,kWh
+Jul-09,Station electricity usage,128802.0,kWh
+Jul-09,Station electricity usage,42368.0,kWh
+Aug-09,Station electricity usage,113652.0,kWh
+Aug-09,Station electricity usage,170989.0,kWh
+Aug-09,Station electricity usage,130246.0,kWh
+Aug-09,Station electricity usage,41783.0,kWh
+Sep-09,Station electricity usage,92585.0,kWh
+Sep-09,Station electricity usage,157431.0,kWh
+Sep-09,Station electricity usage,126119.0,kWh
+Sep-09,Station electricity usage,39411.0,kWh
+Oct-09,Station electricity usage,91088.0,kWh
+Oct-09,Station electricity usage,160286.0,kWh
+Oct-09,Station electricity usage,124767.0,kWh
+Oct-09,Station electricity usage,45121.0,kWh
+Nov-09,Station electricity usage,74096.0,kWh
+Nov-09,Station electricity usage,150096.0,kWh
+Nov-09,Station electricity usage,125415.0,kWh
+Nov-09,Station electricity usage,42718.0,kWh
+Dec-09,Station electricity usage,15005.0,kWh
+Dec-09,Station electricity usage,139745.0,kWh
+Dec-09,Station electricity usage,125458.0,kWh
+Dec-09,Station electricity usage,40355.0,kWh
+Jan-10,Station electricity usage,62785.0,kWh
+Jan-10,Station electricity usage,158956.0,kWh
+Jan-10,Station electricity usage,131504.0,kWh
+Jan-10,Station electricity usage,35225.0,kWh
+Feb-10,Station electricity usage,40010.0,kWh
+Feb-10,Station electricity usage,145330.0,kWh
+Feb-10,Station electricity usage,140120.0,kWh
+Feb-10,Station electricity usage,34271.0,kWh
+Mar-10,Station electricity usage,55219.0,kWh
+Mar-10,Station electricity usage,170048.0,kWh
+Mar-10,Station electricity usage,118779.0,kWh
+Mar-10,Station electricity usage,40116.0,kWh
+Apr-10,Station electricity usage,81130.0,kWh
+Apr-10,Station electricity usage,164944.0,kWh
+Apr-10,Station electricity usage,123378.0,kWh
+Apr-10,Station electricity usage,40766.0,kWh
+May-10,Station electricity usage,72648.0,kWh
+May-10,Station electricity usage,177124.0,kWh
+May-10,Station electricity usage,135718.0,kWh
+May-10,Station electricity usage,41033.0,kWh
+Jun-10,Station electricity usage,86337.0,kWh
+Jun-10,Station electricity usage,164426.0,kWh
+Jun-10,Station electricity usage,137194.0,kWh
+Jun-10,Station electricity usage,43460.0,kWh
+Jul-10,Station electricity usage,96318.0,kWh
+Jul-10,Station electricity usage,180660.0,kWh
+Jul-10,Station electricity usage,135119.0,kWh
+Jul-10,Station electricity usage,49882.0,kWh
+Aug-10,Station electricity usage,100563.0,kWh
+Aug-10,Station electricity usage,186312.0,kWh
+Aug-10,Station electricity usage,136818.0,kWh
+Aug-10,Station electricity usage,47082.0,kWh
+Sep-10,Station electricity usage,95057.0,kWh
+Sep-10,Station electricity usage,172310.0,kWh
+Sep-10,Station electricity usage,128200.0,kWh
+Sep-10,Station electricity usage,44262.0,kWh
+Oct-10,Station electricity usage,90676.0,kWh
+Oct-10,Station electricity usage,177479.0,kWh
+Oct-10,Station electricity usage,132530.0,kWh
+Oct-10,Station electricity usage,44414.0,kWh
+Nov-10,Station electricity usage,93361.0,kWh
+Nov-10,Station electricity usage,160000.0,kWh
+Nov-10,Station electricity usage,131558.0,kWh
+Nov-10,Station electricity usage,45041.0,kWh
+Dec-10,Station electricity usage,69394.0,kWh
+Dec-10,Station electricity usage,154003.0,kWh
+Dec-10,Station electricity usage,134489.0,kWh
+Dec-10,Station electricity usage,33831.0,kWh
+Jan-11,Station electricity usage,76358.0,kWh
+Jan-11,Station electricity usage,185750.0,kWh
+Jan-11,Station electricity usage,129650.0,kWh
+Jan-11,Station electricity usage,31948.0,kWh
+Feb-11,Station electricity usage,76580.0,kWh
+Feb-11,Station electricity usage,170410.0,kWh
+Feb-11,Station electricity usage,121164.0,kWh
+Feb-11,Station electricity usage,40814.0,kWh
+Mar-11,Station electricity usage,80659.0,kWh
+Mar-11,Station electricity usage,185318.0,kWh
+Mar-11,Station electricity usage,146782.0,kWh
+Mar-11,Station electricity usage,47240.0,kWh
+Apr-11,Station electricity usage,103351.0,kWh
+Apr-11,Station electricity usage,174654.0,kWh
+Apr-11,Station electricity usage,147556.0,kWh
+Apr-11,Station electricity usage,50301.0,kWh
+May-11,Station electricity usage,118705.0,kWh
+May-11,Station electricity usage,156577.0,kWh
+May-11,Station electricity usage,130459.0,kWh
+May-11,Station electricity usage,50288.0,kWh
+Jun-11,Station electricity usage,103423.0,kWh
+Jun-11,Station electricity usage,197103.0,kWh
+Jun-11,Station electricity usage,138175.0,kWh
+Jun-11,Station electricity usage,50809.0,kWh
+Jul-11,Station electricity usage,116278.0,kWh
+Jul-11,Station electricity usage,160321.0,kWh
+Jul-11,Station electricity usage,142697.0,kWh
+Jul-11,Station electricity usage,57130.0,kWh
+Aug-11,Station electricity usage,94604.0,kWh
+Aug-11,Station electricity usage,194624.0,kWh
+Aug-11,Station electricity usage,141593.0,kWh
+Aug-11,Station electricity usage,58097.0,kWh
+Sep-11,Station electricity usage,105516.0,kWh
+Sep-11,Station electricity usage,189535.0,kWh
+Sep-11,Station electricity usage,144317.0,kWh
+Sep-11,Station electricity usage,49792.0,kWh
+Oct-11,Station electricity usage,126780.0,kWh
+Oct-11,Station electricity usage,186464.0,kWh
+Oct-11,Station electricity usage,140099.0,kWh
+Oct-11,Station electricity usage,50879.0,kWh
+Nov-11,Station electricity usage,92203.0,kWh
+Nov-11,Station electricity usage,171000.0,kWh
+Nov-11,Station electricity usage,131073.0,kWh
+Nov-11,Station electricity usage,48117.0,kWh
+Dec-11,Station electricity usage,107910.0,kWh
+Dec-11,Station electricity usage,185456.0,kWh
+Dec-11,Station electricity usage,128137.0,kWh
+Dec-11,Station electricity usage,50110.0,kWh
+Jan-12,Station electricity usage,83209.0,kWh
+Jan-12,Station electricity usage,170340.0,kWh
+Jan-12,Station electricity usage,129625.0,kWh
+Jan-12,Station electricity usage,49230.0,kWh
+Feb-12,Station electricity usage,68022.0,kWh
+Feb-12,Station electricity usage,163791.0,kWh
+Feb-12,Station electricity usage,140363.0,kWh
+Feb-12,Station electricity usage,47590.0,kWh
+Mar-12,Station electricity usage,84057.0,kWh
+Mar-12,Station electricity usage,176748.0,kWh
+Mar-12,Station electricity usage,137386.0,kWh
+Mar-12,Station electricity usage,52385.0,kWh
+Apr-12,Station electricity usage,110077.0,kWh
+Apr-12,Station electricity usage,160856.0,kWh
+Apr-12,Station electricity usage,131814.0,kWh
+Apr-12,Station electricity usage,49210.0,kWh
+May-12,Station electricity usage,121215.0,kWh
+May-12,Station electricity usage,174460.0,kWh
+May-12,Station electricity usage,149454.0,kWh
+May-12,Station electricity usage,57729.0,kWh
+Jun-12,Station electricity usage,105476.0,kWh
+Jun-12,Station electricity usage,174460.0,kWh
+Jun-12,Station electricity usage,147825.0,kWh
+Jun-12,Station electricity usage,58890.0,kWh
+Jul-12,Station electricity usage,122837.0,kWh
+Jul-12,Station electricity usage,176894.0,kWh
+Jul-12,Station electricity usage,154361.0,kWh
+Jul-12,Station electricity usage,57479.0,kWh
+Aug-12,Station electricity usage,109183.0,kWh
+Aug-12,Station electricity usage,176620.0,kWh
+Aug-12,Station electricity usage,145450.0,kWh
+Aug-12,Station electricity usage,55965.0,kWh
+Sep-12,Station electricity usage,112144.0,kWh
+Sep-12,Station electricity usage,167984.0,kWh
+Sep-12,Station electricity usage,107634.0,kWh
+Sep-12,Station electricity usage,56395.0,kWh
+Oct-12,Station electricity usage,115189.0,kWh
+Oct-12,Station electricity usage,164266.0,kWh
+Oct-12,Station electricity usage,139552.0,kWh
+Oct-12,Station electricity usage,59410.0,kWh
+Nov-12,Station electricity usage,76173.0,kWh
+Nov-12,Station electricity usage,145065.0,kWh
+Nov-12,Station electricity usage,131884.0,kWh
+Nov-12,Station electricity usage,53330.0,kWh
+Mar-13,Station electricity usage,92241.0,kWh
+Mar-13,Station electricity usage,147713.0,kWh
+Mar-13,Station electricity usage,130367.0,kWh
+Mar-13,Station electricity usage,48890.0,kWh
+Apr-13,Station electricity usage,101461.0,kWh
+Apr-13,Station electricity usage,147251.0,kWh
+Apr-13,Station electricity usage,150684.0,kWh
+Apr-13,Station electricity usage,46433.0,kWh
+May-13,Station electricity usage,117848.0,kWh
+May-13,Station electricity usage,154235.0,kWh
+May-13,Station electricity usage,168028.0,kWh
+May-13,Station electricity usage,55335.0,kWh
+Jun-13,Station electricity usage,107577.0,kWh
+Jun-13,Station electricity usage,155709.0,kWh
+Jun-13,Station electricity usage,164790.0,kWh
+Jun-13,Station electricity usage,55430.0,kWh
+Jul-13,Station electricity usage,106896.0,kWh
+Jul-13,Station electricity usage,156697.0,kWh
+Jul-13,Station electricity usage,181834.0,kWh
+Jul-13,Station electricity usage,56715.0,kWh
+Aug-13,Station electricity usage,98738.0,kWh
+Aug-13,Station electricity usage,159826.0,kWh
+Aug-13,Station electricity usage,190234.0,kWh
+Aug-13,Station electricity usage,50970.0,kWh
+Sep-13,Station electricity usage,86710.0,kWh
+Sep-13,Station electricity usage,147740.0,kWh
+Sep-13,Station electricity usage,149448.0,kWh
+Sep-13,Station electricity usage,51050.0,kWh
+Oct-13,Station electricity usage,84054.0,kWh
+Oct-13,Station electricity usage,153588.0,kWh
+Oct-13,Station electricity usage,105255.0,kWh
+Oct-13,Station electricity usage,50245.0,kWh
+Nov-13,Station electricity usage,109484.0,kWh
+Nov-13,Station electricity usage,146643.0,kWh
+Nov-13,Station electricity usage,89563.0,kWh
+Nov-13,Station electricity usage,48470.0,kWh
+Dec-13,Station electricity usage,129031.0,kWh
+Dec-13,Station electricity usage,78671.0,kWh
+Dec-13,Station electricity usage,146086.0,kWh
+Dec-13,Station electricity usage,48500.0,kWh
+Jan-14,Station electricity usage,91568.0,kWh
+Jan-14,Station electricity usage,170551.0,kWh
+Jan-14,Station electricity usage,93133.0,kWh
+Jan-14,Station electricity usage,48953.0,kWh
+Feb-14,Station electricity usage,61993.0,kWh
+Feb-14,Station electricity usage,153038.0,kWh
+Feb-14,Station electricity usage,121087.0,kWh
+Feb-14,Station electricity usage,40125.0,kWh
+Mar-14,Station electricity usage,75925.0,kWh
+Mar-14,Station electricity usage,171540.0,kWh
+Mar-14,Station electricity usage,135616.0,kWh
+Mar-14,Station electricity usage,47000.0,kWh
+Apr-14,Station electricity usage,57497.0,kWh
+Apr-14,Station electricity usage,163357.0,kWh
+Apr-14,Station electricity usage,133786.0,kWh
+May-14,Station electricity usage,71246.0,kWh
+May-14,Station electricity usage,158411.0,kWh
+May-14,Station electricity usage,131474.0,kWh
+May-14,Station electricity usage,50890.0,kWh
+Jun-14,Station electricity usage,90038.0,kWh
+Jun-14,Station electricity usage,158868.0,kWh
+Jun-14,Station electricity usage,142533.0,kWh
+Jun-14,Station electricity usage,46630.0,kWh
+Jul-14,Station electricity usage,84856.0,kWh
+Jul-14,Station electricity usage,168279.0,kWh
+Jul-14,Station electricity usage,146984.0,kWh
+Jul-14,Station electricity usage,49410.0,kWh
+Aug-14,Station electricity usage,66928.0,kWh
+Aug-14,Station electricity usage,167853.0,kWh
+Aug-14,Station electricity usage,186006.0,kWh
+Aug-14,Station electricity usage,50750.0,kWh
+Jun-15,Station electricity usage,92603.0,kWh
+Jun-15,Station electricity usage,160087.0,kWh
+Jun-15,Station electricity usage,138331.0,kWh
+Jun-15,Station electricity usage,46260.0,kWh
+Jul-15,Station electricity usage,134418.0,kWh
+Jul-15,Station electricity usage,173993.0,kWh
+Jul-15,Station electricity usage,152378.0,kWh
+Jul-15,Station electricity usage,45215.0,kWh
+Aug-15,Station electricity usage,99657.0,kWh
+Aug-15,Station electricity usage,166654.0,kWh
+Aug-15,Station electricity usage,153606.0,kWh
+Aug-15,Station electricity usage,44020.0,kWh
+Sep-15,Station electricity usage,89104.0,kWh
+Sep-15,Station electricity usage,157951.0,kWh
+Sep-15,Station electricity usage,143459.0,kWh
+Sep-15,Station electricity usage,42755.0,kWh
+Oct-15,Station electricity usage,78649.0,kWh
+Oct-15,Station electricity usage,160393.0,kWh
+Oct-15,Station electricity usage,143497.0,kWh
+Oct-15,Station electricity usage,43350.0,kWh
+Nov-15,Station electricity usage,77277.0,kWh
+Nov-15,Station electricity usage,149455.0,kWh
+Nov-15,Station electricity usage,136738.0,kWh
+Nov-15,Station electricity usage,38760.0,kWh
+Dec-15,Station electricity usage,80210.0,kWh
+Dec-15,Station electricity usage,145933.0,kWh
+Dec-15,Station electricity usage,137936.0,kWh
+Dec-15,Station electricity usage,40130.0,kWh
+Jan-16,Station electricity usage,77620.0,kWh
+Jan-16,Station electricity usage,157633.0,kWh
+Jan-16,Station electricity usage,143003.0,kWh
+Jan-16,Station electricity usage,42234.0,kWh
+Feb-16,Station electricity usage,65859.0,kWh
+Feb-16,Station electricity usage,153856.0,kWh
+Feb-16,Station electricity usage,130376.0,kWh
+Feb-16,Station electricity usage,40235.0,kWh

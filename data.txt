@@ -1,0 +1,226 @@
+--- ______ (1).csv ---
+                ??  ??.1   ??.2   ??.3  ??????  ????????  ????
+0  01-06-2019 0.00     1  6.224  0.007   0.000      0.00   0.0
+1  01-06-2019 1.00     2  6.071  0.007   0.000      0.00   0.0
+2  01-06-2019 2.00     3  6.173  0.006   0.000      0.00   0.0
+3  01-06-2019 3.00     4  6.232  0.006   2.229     10.77   0.0
+  [total rows: 2208]
+
+--- ______ (2).csv ---
+                ??  ??.1   ??.2   ??.3  ??????  ????????  ????
+0  01-03-2019 0.00     1 -8.083  0.002     0.0       0.0   0.0
+1  01-03-2019 1.00     2 -8.324  0.002     0.0       0.0   0.0
+2  01-03-2019 2.00     3 -8.261  0.002     0.0       0.0   0.0
+3  01-03-2019 3.00     4 -8.036  0.002     0.0       0.0   0.0
+  [total rows: 2209]
+
+--- ______ (3).csv ---
+                ??  ??.1    ??.2   ??.3  ??????  ????????  ????
+0  01-09-2019 0.00     1  11.281  0.009     0.0       0.0   0.0
+1  01-09-2019 1.00     2  10.447  0.009     0.0       0.0   0.0
+2  01-09-2019 2.00     3   9.970  0.009     0.0       0.0   0.0
+3  01-09-2019 3.00     4   9.942  0.009     0.0       0.0   0.0
+  [total rows: 2184]
+
+--- ______ (4).csv ---
+                ??  ??.1   ????   ??.2    ????.1
+0  01-12-2019 0.00     1  1.318  8.285  2578.960
+1  01-12-2019 1.00     2  1.314  7.990  2379.431
+2  01-12-2019 2.00     3  1.309  7.685  2162.803
+3  01-12-2019 3.00     4  1.304  7.547  2068.773
+  [total rows: 2152]
+
+--- ______ (5).csv ---
+                ??  ??.1   ????   ??.2    ????.1
+0  01-06-2019 0.00     1  1.164  5.884  1042.746
+1  01-06-2019 1.00     2  1.160  5.827  1013.124
+2  01-06-2019 2.00     3  1.158  5.596   897.527
+3  01-06-2019 3.00     4  1.155  5.332   774.162
+  [total rows: 2208]
+
+--- ______.csv ---
+                ??  ??.1    ??.2   ??.3  ??????  ????????  ????
+0  01-12-2019 0.00     1 -10.687  0.001     0.0       0.0   0.0
+1  01-12-2019 1.00     2 -10.623  0.001     0.0       0.0   0.0
+2  01-12-2019 2.00     3 -10.564  0.001     0.0       0.0   0.0
+3  01-12-2019 3.00     4 -10.954  0.001     0.0       0.0   0.0
+  [total rows: 2152]
+
+--- combined_df.csv ---
+   wind_speed    temp      prs     hum   pow_out
+0       2.494 -13.484  889.867  76.320  0.254383
+1       1.882 -13.691  889.575  76.757  0.329703
+2       2.350 -13.766  889.942  76.981  0.296306
+3       2.808 -13.691  889.675  76.821  0.187590
+  [total rows: 280702]
+
+--- dataset/energy consumption/polluted/Monthly electricity usage at Australian Antarctic Stations.csv ---
+  Indicator 59 Monthly electricity usage at Australian Antarctic Stations    Unnamed: 1   Unnamed: 2 Unnamed: 3                 Unnamed: 4 Unnamed: 5 Unnamed: 6       Unnamed: 7
+0                                                                    Date      Latitude    Longitude      Place                  Parameter      Value      Error  Unit of measure
+1                                                                  Jan-86  -67.60269444  62.87380556     Mawson  Station electricity usage     131866        NaN              kWh
+2                                                                  Jan-86  -68.57661111  77.96738889      Davis  Station electricity usage        NaN        NaN              kWh
+3                                                                  Jan-86  -66.28180556  110.5276111      Casey  Station electricity usage     118850        NaN              kWh
+  [total rows: 1433]
+
+--- dataset/energy consumption/polluted/Monthly fuel usage of the generator sets and boilers.csv ---
+  Indicator 56 Monthly fuel usage of the generator sets and boilers    Unnamed: 1   Unnamed: 2 Unnamed: 3  Unnamed: 4 Unnamed: 5 Unnamed: 6       Unnamed: 7
+0                                                              Date      Latitude    Longitude      Place   Parameter      Value      Error  Unit of measure
+1                                                            Jan-93  -67.60269444  62.87380556     Mawson  Fuel usage      46837        NaN           litres
+2                                                            Feb-93  -67.60269444  62.87380556     Mawson  Fuel usage      44224        NaN           litres
+3                                                            Mar-93  -67.60269444  62.87380556     Mawson  Fuel usage      60008        NaN           litres
+  [total rows: 917]
+
+--- dataset/energy consumption/polluted/Monthly incinerator fuel usage of Australian Antarctic Stations.csv ---
+  Indicator 57 Monthly incinerator fuel usage of Australian Antarctic Stations    Unnamed: 1   Unnamed: 2 Unnamed: 3  Unnamed: 4 Unnamed: 5 Unnamed: 6       Unnamed: 7
+0                                                                         Date      Latitude    Longitude      Place   Parameter      Value      Error  Unit of measure
+1                                                                       Jan-95  -67.60269444  62.87380556     Mawson  Fuel usage       2300        NaN           litres
+2                                                                       Feb-95  -67.60269444  62.87380556     Mawson  Fuel usage       2550        NaN           litres
+3                                                                       Mar-95  -67.60269444  62.87380556     Mawson  Fuel usage       1220        NaN           litres
+  [total rows: 937]
+
+--- dataset/energy consumption/polluted/Monthly total of fuel used by vehicles at Australian Antarctic Stations.csv ---
+  Indicator 58 Monthly total of fuel used by vehicles at Australian Antarctic Stations    Unnamed: 1   Unnamed: 2 Unnamed: 3  Unnamed: 4 Unnamed: 5 Unnamed: 6       Unnamed: 7
+0                                                                                 Date      Latitude    Longitude      Place   Parameter      Value      Error  Unit of measure
+1                                                                               Jan-93  -67.60269444  62.87380556     Mawson  Fuel usage       4000        NaN           litres
+2                                                                               Feb-93  -67.60269444  62.87380556     Mawson  Fuel usage       1743        NaN           litres
+3                                                                               Mar-93  -67.60269444  62.87380556     Mawson  Fuel usage       3080        NaN           litres
+  [total rows: 1014]
+
+--- dataset/energy generation/solar energy genration dataset/polluted dataset/Solar_1_mx50.xlsx :: sheet 'sheet1' ---
+   Total solar irradiance (W/m2)  Direct normal irradiance (W/m2)  Global horizontal irradiance (W/m2)  Air temperature  (°C)   Atmosphere (hpa)  Relative humidity (%)  Power (MW)
+0                              0                                0                                    0                   -11.7             930.5                   39.1         0.0
+1                              0                                0                                    0                   -11.8             930.5                   39.3         0.0
+2                              0                                0                                    0                   -11.4             930.5                   39.0         0.0
+3                              0                                0                                    0                   -11.5             930.5                   38.0         0.0
+  [total rows: 70176]
+
+--- dataset/energy generation/solar energy genration dataset/polluted dataset/solar_2_mx130.xlsx :: sheet 'sheet1' ---
+   Total solar irradiance (W/m2)  Direct normal irradiance (W/m2)  Global horicontal irradiance (W/m2)  Air temperature  (°C)   Atmosphere (hpa)  Relative humidity (%)  Power (MW)
+0                            0.0                              0.0                                  0.0                   -9.62            872.81                  47.94    0.269033
+1                            0.0                              0.0                                  0.0                   -9.96            872.78                  48.57    0.268100
+2                            0.0                              0.0                                  0.0                  -10.16            872.76                  49.04    0.266933
+3                            0.0                              0.0                                  0.0                  -10.37            872.77                  49.60    0.269267
+  [total rows: 70176]
+
+--- dataset/energy generation/solar energy genration dataset/polluted dataset/solar_3_mx30.xlsx :: sheet 'Sheet1' ---
+   Total solar irradiance (W/m2)  Direct normal irradiance (W/m2)  Global horizontal irradiance (W/m2)  Air temperature  (°C)   Atmosphere (hpa)  Relative humidity (%)  Power (MW)
+0                            0.0                                0                                    0                 -3270.9            1028.9                   57.6     -0.0357
+1                            0.0                                0                                    0                 -3270.6            1028.7                   58.3     -0.0357
+2                            0.0                                0                                    0                 -3270.6            1028.7                   58.0     -0.0378
+3                            0.0                                0                                    0                 -3270.7            1028.6                   57.2     -0.0378
+  [total rows: 52608]
+
+--- dataset/energy generation/solar energy genration dataset/polluted dataset/solar_4_mx130.xlsx :: sheet 'Sheet1' ---
+   Total solar irradiance (W/m2)  Direct normal irradiance (W/m2)  Global horizontal irradiance (W/m2)  Air temperature  (°C)   Atmosphere (hpa)  Relative humidity (%)  Power (MW)
+0                            0.0                              0.0                                  0.0               -1.332946       1005.940641              87.694945      -0.273
+1                            0.0                              0.0                                  0.0               -2.890274        995.880886              94.578084      -0.285
+2                            0.0                              0.0                                  0.0               -3.091485       1022.683671              84.012239      -0.314
+3                            0.0                              0.0                                  0.0               -4.123396        995.284713              91.076423      -0.314
+  [total rows: 70176]
+
+--- dataset/energy generation/solar energy genration dataset/polluted dataset/solar_5_mx110.xlsx :: sheet 'Sheet1' ---
+  Total solar irradiance (W/m2) Direct normal irradiance (W/m2) Global horizontal irradiance (W/m2) Air temperature  (°C)  Atmosphere (hpa) Relative humidity (%) Power (MW)
+0                             0                               0                                   0                    0.6           1037.9                  83.1          0
+1                             0                               0                                   0                    0.5           1037.9                  83.9          0
+2                             0                               0                                   0                    0.5           1037.6                  84.9          0
+3                             0                               0                                   0                    0.5           1037.5                  85.3          0
+  [total rows: 70176]
+
+--- dataset/energy generation/solar energy genration dataset/polluted dataset/solar_6_mx35.xlsx :: sheet 'Sheet1' ---
+  Total solar irradiance (W/m2) Direct normal irradiance (W/m2) Global horizontal irradiance (W/m2) Air temperature  (°C)  Atmosphere (hpa) Relative humidity (%)  Power (MW)
+0                             0                               0                                   0                   11.9            837.2                 53.06         0.0
+1                             0                               0                                   0                   11.6        837.25336                 54.76         0.0
+2                             0                               0                                   0                  11.36         837.2133                 57.16         0.0
+3                             0                               0                                   0              11.313334            837.2             58.733334         0.0
+  [total rows: 70176]
+
+--- dataset/energy generation/solar energy genration dataset/polluted dataset/solar_7_mx30.xlsx :: sheet 'Sheet1' ---
+  Total solar irradiance (W/m2) Direct normal irradiance (W/m2) Global horizontal irradiance (W/m2) Air temperature  (°C)  Atmosphere (hpa) Relative humidity (%)  Power (MW)
+0                             0                               0                                   0                    4.6            862.5                 40.97         0.0
+1                             0                               0                                   0                    4.6          862.516             40.766667         0.0
+2                             0                               0                                   0                    4.6          862.476             40.946667         0.0
+3                             0                               0                                   0                    4.6          862.422             43.413333         0.0
+  [total rows: 70176]
+
+--- dataset/energy generation/solar energy genration dataset/polluted dataset/solar_8_mx30.xlsx :: sheet 'Sheet1' ---
+   Total solar irradiance (W/m2)  Direct normal irradiance (W/m2)  Global horizontal irradiance (W/m2)  Air temperature  (°C)   Atmosphere (hpa)  Relative humidity (%)  Power (MW)
+0                            0.0                              0.0                                  0.0                2.960593        948.919118              69.250498         0.0
+1                            0.0                              0.0                                  0.0                1.230000        988.200000              88.410000         0.0
+2                            0.0                              0.0                                  0.0                1.440000        921.900000              83.100000         0.0
+3                            0.0                              0.0                                  0.0                1.470000        944.230000              72.450000         0.0
+  [total rows: 69408]
+
+--- dataset/energy generation/wind energy generation dataset/slightly polluted/wind_1_mx99.xlsx :: sheet 'sheet1' ---
+   wind_speed    temp      prs    hum%   pow_out
+0       2.494 -13.484  889.867  76.320  0.254383
+1       1.882 -13.691  889.575  76.757  0.329703
+2       2.350 -13.766  889.942  76.981  0.296306
+3       2.808 -13.691  889.675  76.821  0.187590
+  [total rows: 70176]
+
+--- dataset/energy generation/wind energy generation dataset/slightly polluted/wind_2_mx99.xlsx :: sheet 'sheet1' ---
+   wind_speed   temp     prs     hum%   pow_out
+0     2.34887  26.46  984.37  31.7949 -0.365790
+1     2.34887  26.46  984.37  31.7949 -0.376874
+2     2.34887  26.46  984.37  31.7949 -0.387959
+3     2.34887  26.46  984.37  31.7949 -0.395348
+  [total rows: 70176]
+
+--- dataset/energy generation/wind energy generation dataset/slightly polluted/wind_3_mx66.xlsx :: sheet 'sheet1' ---
+   wind_speed  temp    prs   hum%    pow_out
+0         0.0 -2.25  898.0  100.0  15.806000
+1         0.0 -2.24  898.0  100.0  16.699333
+2         0.0 -2.24  898.0  100.0  15.840667
+3         0.0 -2.29  898.0  100.0  14.887333
+  [total rows: 70176]
+
+--- dataset/energy generation/wind energy generation dataset/slightly polluted/wind_4_mx96.xlsx :: sheet '2019' ---
+   wind_speed   temp      prs   hum%  pow_out
+0       15.37  10.57  1089.58  80.05   93.186
+1       15.37  10.57  1089.58  80.05   93.628
+2       15.37  10.57  1089.58  80.05   93.530
+3       15.37  10.57  1089.58  80.05   87.713
+  [total rows: 70176]
+
+--- dataset/weather/polluted/weather_3h.xlsx :: sheet 'Ferrell_3h' ---
+   Year  Month  Day  Three-hourly observation time(UTC)  temp  prs  wind_speed  hum%
+0  1980     12    1                                   0   NaN  NaN         NaN   NaN
+1  1980     12    1                                   3   NaN  NaN         NaN   NaN
+2  1980     12    1                                   6   NaN  NaN         NaN   NaN
+3  1980     12    1                                   9   NaN  NaN         NaN   NaN
+  [total rows: 120048]
+
+--- indicator_56.csv ---
+  Indicator 56 Monthly fuel usage of the generator sets and boilers    Unnamed: 1   Unnamed: 2 Unnamed: 3  Unnamed: 4 Unnamed: 5 Unnamed: 6       Unnamed: 7  Unnamed: 8  Unnamed: 9
+0                                                              Date      Latitude    Longitude      Place   Parameter      Value      Error  Unit of measure         NaN         NaN
+1                                                            Jan-93  -67.60269444  62.87380556     Mawson  Fuel usage      46837        NaN           litres         NaN         NaN
+2                                                            Feb-93  -67.60269444  62.87380556     Mawson  Fuel usage      44224        NaN           litres         NaN         NaN
+3                                                            Mar-93  -67.60269444  62.87380556     Mawson  Fuel usage      60008        NaN           litres         NaN         NaN
+  [total rows: 917]
+
+--- indicator_57.csv ---
+  Indicator 57 Monthly incinerator fuel usage of Australian Antarctic Stations    Unnamed: 1   Unnamed: 2 Unnamed: 3  Unnamed: 4 Unnamed: 5 Unnamed: 6       Unnamed: 7  Unnamed: 8  Unnamed: 9
+0                                                                         Date      Latitude    Longitude      Place   Parameter      Value      Error  Unit of measure         NaN         NaN
+1                                                                       Jan-95  -67.60269444  62.87380556     Mawson  Fuel usage       2300        NaN           litres         NaN         NaN
+2                                                                       Feb-95  -67.60269444  62.87380556     Mawson  Fuel usage       2550        NaN           litres         NaN         NaN
+3                                                                       Mar-95  -67.60269444  62.87380556     Mawson  Fuel usage       1220        NaN           litres         NaN         NaN
+  [total rows: 937]
+
+--- indicator_58.csv ---
+  Indicator 58 Monthly total of fuel used by vehicles at Australian Antarctic Stations    Unnamed: 1   Unnamed: 2 Unnamed: 3  Unnamed: 4 Unnamed: 5 Unnamed: 6       Unnamed: 7  Unnamed: 8  Unnamed: 9
+0                                                                                 Date      Latitude    Longitude      Place   Parameter      Value      Error  Unit of measure         NaN         NaN
+1                                                                               Jan-93  -67.60269444  62.87380556     Mawson  Fuel usage       4000        NaN           litres         NaN         NaN
+2                                                                               Feb-93  -67.60269444  62.87380556     Mawson  Fuel usage       1743        NaN           litres         NaN         NaN
+3                                                                               Mar-93  -67.60269444  62.87380556     Mawson  Fuel usage       3080        NaN           litres         NaN         NaN
+  [total rows: 1014]
+
+--- indicator_59.csv ---
+  Indicator 59 Monthly electricity usage at Australian Antarctic Stations    Unnamed: 1   Unnamed: 2 Unnamed: 3                 Unnamed: 4 Unnamed: 5 Unnamed: 6       Unnamed: 7  Unnamed: 8  Unnamed: 9
+0                                                                    Date      Latitude    Longitude      Place                  Parameter      Value      Error  Unit of measure         NaN         NaN
+1                                                                  Jan-86  -67.60269444  62.87380556     Mawson  Station electricity usage     131866        NaN              kWh         NaN         NaN
+2                                                                  Jan-86  -68.57661111  77.96738889      Davis  Station electricity usage        NaN        NaN              kWh         NaN         NaN
+3                                                                  Jan-86  -66.28180556  110.5276111      Casey  Station electricity usage     118850        NaN              kWh         NaN         NaN
+  [total rows: 1433]
+
+Done.
+Total Rows =  1284450

@@ -1,0 +1,938 @@
+Indicator 57 Monthly incinerator fuel usage of Australian Antarctic Stations,,,,,,,
+Date,Latitude,Longitude,Place,Parameter,Value,Error,Unit of measure
+Jan-95,-67.60269444,62.87380556,Mawson,Fuel usage,2300,,litres
+Feb-95,-67.60269444,62.87380556,Mawson,Fuel usage,2550,,litres
+Mar-95,-67.60269444,62.87380556,Mawson,Fuel usage,1220,,litres
+Apr-95,-67.60269444,62.87380556,Mawson,Fuel usage,1150,,litres
+May-95,-67.60269444,62.87380556,Mawson,Fuel usage,900,,litres
+Jun-95,-67.60269444,62.87380556,Mawson,Fuel usage,500,,litres
+Jul-95,-67.60269444,62.87380556,Mawson,Fuel usage,280,,litres
+Aug-95,-67.60269444,62.87380556,Mawson,Fuel usage,1020,,litres
+Sep-95,-67.60269444,62.87380556,Mawson,Fuel usage,1970,,litres
+Oct-95,-67.60269444,62.87380556,Mawson,Fuel usage,1100,,litres
+Nov-95,-67.60269444,62.87380556,Mawson,Fuel usage,1200,,litres
+Dec-95,-67.60269444,62.87380556,Mawson,Fuel usage,2000,,litres
+Jan-96,-67.60269444,62.87380556,Mawson,Fuel usage,1000,,litres
+Feb-96,-67.60269444,62.87380556,Mawson,Fuel usage,1100,,litres
+Mar-96,-67.60269444,62.87380556,Mawson,Fuel usage,1700,,litres
+Apr-96,-67.60269444,62.87380556,Mawson,Fuel usage,1500,,litres
+May-96,-67.60269444,62.87380556,Mawson,Fuel usage,2500,,litres
+Jun-96,-67.60269444,62.87380556,Mawson,Fuel usage,1500,,litres
+Jul-96,-67.60269444,62.87380556,Mawson,Fuel usage,900,,litres
+Aug-96,-67.60269444,62.87380556,Mawson,Fuel usage,700,,litres
+Sep-96,-67.60269444,62.87380556,Mawson,Fuel usage,1100,,litres
+Oct-96,-67.60269444,62.87380556,Mawson,Fuel usage,1200,,litres
+Nov-96,-67.60269444,62.87380556,Mawson,Fuel usage,3050,,litres
+Dec-96,-67.60269444,62.87380556,Mawson,Fuel usage,2000,,litres
+Jan-97,-67.60269444,62.87380556,Mawson,Fuel usage,850,,litres
+Jan-97,-68.57661111,77.96738889,Davis,Fuel usage,1500,,litres
+Jan-97,-66.28180556,110.5276111,Casey,Fuel usage,3100,,litres
+Jan-97,-54.61988889,158.861,Macquarie Island,Fuel usage,800,,litres
+Feb-97,-67.60269444,62.87380556,Mawson,Fuel usage,550,,litres
+Feb-97,-68.57661111,77.96738889,Davis,Fuel usage,1800,,litres
+Feb-97,-66.28180556,110.5276111,Casey,Fuel usage,3650,,litres
+Feb-97,-54.61988889,158.861,Macquarie Island,Fuel usage,1150,,litres
+Mar-97,-67.60269444,62.87380556,Mawson,Fuel usage,2300,,litres
+Mar-97,-68.57661111,77.96738889,Davis,Fuel usage,1650,,litres
+Mar-97,-66.28180556,110.5276111,Casey,Fuel usage,2200,,litres
+Mar-97,-54.61988889,158.861,Macquarie Island,Fuel usage,,,litres
+Apr-97,-67.60269444,62.87380556,Mawson,Fuel usage,400,,litres
+Apr-97,-68.57661111,77.96738889,Davis,Fuel usage,1250,,litres
+Apr-97,-66.28180556,110.5276111,Casey,Fuel usage,1850,,litres
+Apr-97,-54.61988889,158.861,Macquarie Island,Fuel usage,1430,,litres
+May-97,-67.60269444,62.87380556,Mawson,Fuel usage,200,,litres
+May-97,-68.57661111,77.96738889,Davis,Fuel usage,1100,,litres
+May-97,-66.28180556,110.5276111,Casey,Fuel usage,1400,,litres
+May-97,-54.61988889,158.861,Macquarie Island,Fuel usage,1045,,litres
+Jun-97,-67.60269444,62.87380556,Mawson,Fuel usage,200,,litres
+Jun-97,-68.57661111,77.96738889,Davis,Fuel usage,1100,,litres
+Jun-97,-66.28180556,110.5276111,Casey,Fuel usage,1400,,litres
+Jun-97,-54.61988889,158.861,Macquarie Island,Fuel usage,1000,,litres
+Jul-97,-67.60269444,62.87380556,Mawson,Fuel usage,400,,litres
+Jul-97,-68.57661111,77.96738889,Davis,Fuel usage,2100,,litres
+Jul-97,-66.28180556,110.5276111,Casey,Fuel usage,2200,,litres
+Jul-97,-54.61988889,158.861,Macquarie Island,Fuel usage,610,,litres
+Aug-97,-67.60269444,62.87380556,Mawson,Fuel usage,200,,litres
+Aug-97,-68.57661111,77.96738889,Davis,Fuel usage,900,,litres
+Aug-97,-66.28180556,110.5276111,Casey,Fuel usage,1400,,litres
+Aug-97,-54.61988889,158.861,Macquarie Island,Fuel usage,560,,litres
+Sep-97,-67.60269444,62.87380556,Mawson,Fuel usage,300,,litres
+Sep-97,-68.57661111,77.96738889,Davis,Fuel usage,900,,litres
+Sep-97,-66.28180556,110.5276111,Casey,Fuel usage,,,litres
+Sep-97,-54.61988889,158.861,Macquarie Island,Fuel usage,633,,litres
+Oct-97,-67.60269444,62.87380556,Mawson,Fuel usage,500,,litres
+Oct-97,-68.57661111,77.96738889,Davis,Fuel usage,1100,,litres
+Oct-97,-66.28180556,110.5276111,Casey,Fuel usage,1300,,litres
+Oct-97,-54.61988889,158.861,Macquarie Island,Fuel usage,790,,litres
+Nov-97,-67.60269444,62.87380556,Mawson,Fuel usage,350,,litres
+Nov-97,-68.57661111,77.96738889,Davis,Fuel usage,2000,,litres
+Nov-97,-66.28180556,110.5276111,Casey,Fuel usage,2200,,litres
+Nov-97,-54.61988889,158.861,Macquarie Island,Fuel usage,1713,,litres
+Dec-97,-67.60269444,62.87380556,Mawson,Fuel usage,700,,litres
+Dec-97,-68.57661111,77.96738889,Davis,Fuel usage,1900,,litres
+Dec-97,-66.28180556,110.5276111,Casey,Fuel usage,3200,,litres
+Dec-97,-54.61988889,158.861,Macquarie Island,Fuel usage,1697,,litres
+Jan-98,-67.60269444,62.87380556,Mawson,Fuel usage,500,,litres
+Jan-98,-68.57661111,77.96738889,Davis,Fuel usage,2000,,litres
+Jan-98,-66.28180556,110.5276111,Casey,Fuel usage,2890,,litres
+Jan-98,-54.61988889,158.861,Macquarie Island,Fuel usage,865,,litres
+Feb-98,-67.60269444,62.87380556,Mawson,Fuel usage,2000,,litres
+Feb-98,-68.57661111,77.96738889,Davis,Fuel usage,1000,,litres
+Feb-98,-66.28180556,110.5276111,Casey,Fuel usage,1500,,litres
+Feb-98,-54.61988889,158.861,Macquarie Island,Fuel usage,1435,,litres
+Mar-98,-67.60269444,62.87380556,Mawson,Fuel usage,700,,litres
+Mar-98,-68.57661111,77.96738889,Davis,Fuel usage,450,,litres
+Mar-98,-66.28180556,110.5276111,Casey,Fuel usage,1500,,litres
+Mar-98,-54.61988889,158.861,Macquarie Island,Fuel usage,,,litres
+Apr-98,-67.60269444,62.87380556,Mawson,Fuel usage,500,,litres
+Apr-98,-68.57661111,77.96738889,Davis,Fuel usage,475,,litres
+Apr-98,-66.28180556,110.5276111,Casey,Fuel usage,2700,,litres
+Apr-98,-54.61988889,158.861,Macquarie Island,Fuel usage,1062,,litres
+May-98,-67.60269444,62.87380556,Mawson,Fuel usage,660,,litres
+May-98,-68.57661111,77.96738889,Davis,Fuel usage,1000,,litres
+May-98,-66.28180556,110.5276111,Casey,Fuel usage,1400,,litres
+May-98,-54.61988889,158.861,Macquarie Island,Fuel usage,,,litres
+Jun-98,-67.60269444,62.87380556,Mawson,Fuel usage,300,,litres
+Jun-98,-68.57661111,77.96738889,Davis,Fuel usage,1100,,litres
+Jun-98,-66.28180556,110.5276111,Casey,Fuel usage,1700,,litres
+Jun-98,-54.61988889,158.861,Macquarie Island,Fuel usage,1110,,litres
+Jul-98,-67.60269444,62.87380556,Mawson,Fuel usage,1670,,litres
+Jul-98,-68.57661111,77.96738889,Davis,Fuel usage,300,,litres
+Jul-98,-66.28180556,110.5276111,Casey,Fuel usage,1000,,litres
+Jul-98,-54.61988889,158.861,Macquarie Island,Fuel usage,,,litres
+Aug-98,-67.60269444,62.87380556,Mawson,Fuel usage,800,,litres
+Aug-98,-68.57661111,77.96738889,Davis,Fuel usage,500,,litres
+Aug-98,-66.28180556,110.5276111,Casey,Fuel usage,0,,litres
+Aug-98,-54.61988889,158.861,Macquarie Island,Fuel usage,927,,litres
+Sep-98,-67.60269444,62.87380556,Mawson,Fuel usage,400,,litres
+Sep-98,-68.57661111,77.96738889,Davis,Fuel usage,1150,,litres
+Sep-98,-66.28180556,110.5276111,Casey,Fuel usage,1200,,litres
+Sep-98,-54.61988889,158.861,Macquarie Island,Fuel usage,1013,,litres
+Oct-98,-67.60269444,62.87380556,Mawson,Fuel usage,330,,litres
+Oct-98,-68.57661111,77.96738889,Davis,Fuel usage,600,,litres
+Oct-98,-66.28180556,110.5276111,Casey,Fuel usage,800,,litres
+Oct-98,-54.61988889,158.861,Macquarie Island,Fuel usage,608,,litres
+Nov-98,-67.60269444,62.87380556,Mawson,Fuel usage,770,,litres
+Nov-98,-68.57661111,77.96738889,Davis,Fuel usage,700,,litres
+Nov-98,-66.28180556,110.5276111,Casey,Fuel usage,1179,,litres
+Nov-98,-54.61988889,158.861,Macquarie Island,Fuel usage,800,,litres
+Dec-98,-67.60269444,62.87380556,Mawson,Fuel usage,3600,,litres
+Dec-98,-68.57661111,77.96738889,Davis,Fuel usage,1000,,litres
+Dec-98,-66.28180556,110.5276111,Casey,Fuel usage,1250,,litres
+Dec-98,-54.61988889,158.861,Macquarie Island,Fuel usage,1324,,litres
+Jan-99,-67.60269444,62.87380556,Mawson,Fuel usage,800,,litres
+Jan-99,-68.57661111,77.96738889,Davis,Fuel usage,700,,litres
+Jan-99,-66.28180556,110.5276111,Casey,Fuel usage,2250,,litres
+Jan-99,-54.61988889,158.861,Macquarie Island,Fuel usage,,,litres
+Feb-99,-67.60269444,62.87380556,Mawson,Fuel usage,450,,litres
+Feb-99,-68.57661111,77.96738889,Davis,Fuel usage,1300,,litres
+Feb-99,-66.28180556,110.5276111,Casey,Fuel usage,700,,litres
+Feb-99,-54.61988889,158.861,Macquarie Island,Fuel usage,920,,litres
+Mar-99,-67.60269444,62.87380556,Mawson,Fuel usage,400,,litres
+Mar-99,-68.57661111,77.96738889,Davis,Fuel usage,2400,,litres
+Mar-99,-66.28180556,110.5276111,Casey,Fuel usage,2000,,litres
+Mar-99,-54.61988889,158.861,Macquarie Island,Fuel usage,1016,,litres
+Apr-99,-67.60269444,62.87380556,Mawson,Fuel usage,600,,litres
+Apr-99,-68.57661111,77.96738889,Davis,Fuel usage,1900,,litres
+Apr-99,-66.28180556,110.5276111,Casey,Fuel usage,0,,litres
+Apr-99,-54.61988889,158.861,Macquarie Island,Fuel usage,1005,,litres
+May-99,-67.60269444,62.87380556,Mawson,Fuel usage,500,,litres
+May-99,-68.57661111,77.96738889,Davis,Fuel usage,1200,,litres
+May-99,-66.28180556,110.5276111,Casey,Fuel usage,700,,litres
+May-99,-54.61988889,158.861,Macquarie Island,Fuel usage,,,litres
+Jun-99,-67.60269444,62.87380556,Mawson,Fuel usage,600,,litres
+Jun-99,-68.57661111,77.96738889,Davis,Fuel usage,500,,litres
+Jun-99,-66.28180556,110.5276111,Casey,Fuel usage,600,,litres
+Jun-99,-54.61988889,158.861,Macquarie Island,Fuel usage,,,litres
+Jul-99,-67.60269444,62.87380556,Mawson,Fuel usage,500,,litres
+Jul-99,-68.57661111,77.96738889,Davis,Fuel usage,1850,,litres
+Jul-99,-66.28180556,110.5276111,Casey,Fuel usage,500,,litres
+Jul-99,-54.61988889,158.861,Macquarie Island,Fuel usage,972,,litres
+Aug-99,-67.60269444,62.87380556,Mawson,Fuel usage,600,,litres
+Aug-99,-68.57661111,77.96738889,Davis,Fuel usage,1100,,litres
+Aug-99,-66.28180556,110.5276111,Casey,Fuel usage,800,,litres
+Aug-99,-54.61988889,158.861,Macquarie Island,Fuel usage,0,,litres
+Sep-99,-67.60269444,62.87380556,Mawson,Fuel usage,300,,litres
+Sep-99,-68.57661111,77.96738889,Davis,Fuel usage,750,,litres
+Sep-99,-66.28180556,110.5276111,Casey,Fuel usage,550,,litres
+Sep-99,-54.61988889,158.861,Macquarie Island,Fuel usage,985,,litres
+Oct-99,-67.60269444,62.87380556,Mawson,Fuel usage,650,,litres
+Oct-99,-68.57661111,77.96738889,Davis,Fuel usage,1650,,litres
+Oct-99,-66.28180556,110.5276111,Casey,Fuel usage,500,,litres
+Oct-99,-54.61988889,158.861,Macquarie Island,Fuel usage,0,,litres
+Nov-99,-67.60269444,62.87380556,Mawson,Fuel usage,850,,litres
+Nov-99,-68.57661111,77.96738889,Davis,Fuel usage,2900,,litres
+Nov-99,-66.28180556,110.5276111,Casey,Fuel usage,750,,litres
+Nov-99,-54.61988889,158.861,Macquarie Island,Fuel usage,1440,,litres
+Dec-99,-67.60269444,62.87380556,Mawson,Fuel usage,1200,,litres
+Dec-99,-68.57661111,77.96738889,Davis,Fuel usage,2000,,litres
+Dec-99,-66.28180556,110.5276111,Casey,Fuel usage,700,,litres
+Dec-99,-54.61988889,158.861,Macquarie Island,Fuel usage,848,,litres
+Jan-00,-67.60269444,62.87380556,Mawson,Fuel usage,800,,litres
+Jan-00,-68.57661111,77.96738889,Davis,Fuel usage,4000,,litres
+Jan-00,-66.28180556,110.5276111,Casey,Fuel usage,900,,litres
+Jan-00,-54.61988889,158.861,Macquarie Island,Fuel usage,755,,litres
+Feb-00,-67.60269444,62.87380556,Mawson,Fuel usage,600,,litres
+Feb-00,-68.57661111,77.96738889,Davis,Fuel usage,2000,,litres
+Feb-00,-66.28180556,110.5276111,Casey,Fuel usage,1450,,litres
+Feb-00,-54.61988889,158.861,Macquarie Island,Fuel usage,,,litres
+Mar-00,-67.60269444,62.87380556,Mawson,Fuel usage,600,,litres
+Mar-00,-68.57661111,77.96738889,Davis,Fuel usage,2200,,litres
+Mar-00,-66.28180556,110.5276111,Casey,Fuel usage,600,,litres
+Mar-00,-54.61988889,158.861,Macquarie Island,Fuel usage,805,,litres
+Apr-00,-67.60269444,62.87380556,Mawson,Fuel usage,1300,,litres
+Apr-00,-68.57661111,77.96738889,Davis,Fuel usage,1000,,litres
+Apr-00,-66.28180556,110.5276111,Casey,Fuel usage,430,,litres
+Apr-00,-54.61988889,158.861,Macquarie Island,Fuel usage,,,litres
+May-00,-67.60269444,62.87380556,Mawson,Fuel usage,400,,litres
+May-00,-68.57661111,77.96738889,Davis,Fuel usage,850,,litres
+May-00,-66.28180556,110.5276111,Casey,Fuel usage,224,,litres
+May-00,-54.61988889,158.861,Macquarie Island,Fuel usage,908,,litres
+Jun-00,-67.60269444,62.87380556,Mawson,Fuel usage,700,,litres
+Jun-00,-68.57661111,77.96738889,Davis,Fuel usage,1000,,litres
+Jun-00,-66.28180556,110.5276111,Casey,Fuel usage,550,,litres
+Jun-00,-54.61988889,158.861,Macquarie Island,Fuel usage,1018,,litres
+Jul-00,-67.60269444,62.87380556,Mawson,Fuel usage,900,,litres
+Jul-00,-68.57661111,77.96738889,Davis,Fuel usage,850,,litres
+Jul-00,-66.28180556,110.5276111,Casey,Fuel usage,300,,litres
+Jul-00,-54.61988889,158.861,Macquarie Island,Fuel usage,,,litres
+Aug-00,-67.60269444,62.87380556,Mawson,Fuel usage,700,,litres
+Aug-00,-68.57661111,77.96738889,Davis,Fuel usage,950,,litres
+Aug-00,-66.28180556,110.5276111,Casey,Fuel usage,700,,litres
+Aug-00,-54.61988889,158.861,Macquarie Island,Fuel usage,862,,litres
+Sep-00,-67.60269444,62.87380556,Mawson,Fuel usage,800,,litres
+Sep-00,-68.57661111,77.96738889,Davis,Fuel usage,1100,,litres
+Sep-00,-66.28180556,110.5276111,Casey,Fuel usage,300,,litres
+Sep-00,-54.61988889,158.861,Macquarie Island,Fuel usage,1068,,litres
+Oct-00,-67.60269444,62.87380556,Mawson,Fuel usage,100,,litres
+Oct-00,-68.57661111,77.96738889,Davis,Fuel usage,1950,,litres
+Oct-00,-66.28180556,110.5276111,Casey,Fuel usage,500,,litres
+Oct-00,-54.61988889,158.861,Macquarie Island,Fuel usage,,,litres
+Nov-00,-67.60269444,62.87380556,Mawson,Fuel usage,500,,litres
+Nov-00,-68.57661111,77.96738889,Davis,Fuel usage,2500,,litres
+Nov-00,-66.28180556,110.5276111,Casey,Fuel usage,800,,litres
+Nov-00,-54.61988889,158.861,Macquarie Island,Fuel usage,1817,,litres
+Dec-00,-67.60269444,62.87380556,Mawson,Fuel usage,2000,,litres
+Dec-00,-68.57661111,77.96738889,Davis,Fuel usage,2350,,litres
+Dec-00,-66.28180556,110.5276111,Casey,Fuel usage,1100,,litres
+Dec-00,-54.61988889,158.861,Macquarie Island,Fuel usage,810,,litres
+Jan-01,-67.60269444,62.87380556,Mawson,Fuel usage,700,,litres
+Jan-01,-68.57661111,77.96738889,Davis,Fuel usage,1500,,litres
+Jan-01,-66.28180556,110.5276111,Casey,Fuel usage,1227,,litres
+Jan-01,-54.61988889,158.861,Macquarie Island,Fuel usage,1460,,litres
+Feb-01,-67.60269444,62.87380556,Mawson,Fuel usage,700,,litres
+Feb-01,-68.57661111,77.96738889,Davis,Fuel usage,2310,,litres
+Feb-01,-66.28180556,110.5276111,Casey,Fuel usage,2200,,litres
+Feb-01,-54.61988889,158.861,Macquarie Island,Fuel usage,1390,,litres
+Mar-01,-67.60269444,62.87380556,Mawson,Fuel usage,800,,litres
+Mar-01,-68.57661111,77.96738889,Davis,Fuel usage,1500,,litres
+Mar-01,-66.28180556,110.5276111,Casey,Fuel usage,1000,,litres
+Mar-01,-54.61988889,158.861,Macquarie Island,Fuel usage,240,,litres
+Apr-01,-67.60269444,62.87380556,Mawson,Fuel usage,800,,litres
+Apr-01,-68.57661111,77.96738889,Davis,Fuel usage,700,,litres
+Apr-01,-66.28180556,110.5276111,Casey,Fuel usage,480,,litres
+Apr-01,-54.61988889,158.861,Macquarie Island,Fuel usage,1540,,litres
+May-01,-67.60269444,62.87380556,Mawson,Fuel usage,750,,litres
+May-01,-68.57661111,77.96738889,Davis,Fuel usage,700,,litres
+May-01,-66.28180556,110.5276111,Casey,Fuel usage,300,,litres
+May-01,-54.61988889,158.861,Macquarie Island,Fuel usage,720,,litres
+Jun-01,-67.60269444,62.87380556,Mawson,Fuel usage,850,,litres
+Jun-01,-68.57661111,77.96738889,Davis,Fuel usage,1100,,litres
+Jun-01,-66.28180556,110.5276111,Casey,Fuel usage,210,,litres
+Jun-01,-54.61988889,158.861,Macquarie Island,Fuel usage,400,,litres
+Jul-01,-67.60269444,62.87380556,Mawson,Fuel usage,600,,litres
+Jul-01,-68.57661111,77.96738889,Davis,Fuel usage,800,,litres
+Jul-01,-66.28180556,110.5276111,Casey,Fuel usage,1400,,litres
+Jul-01,-54.61988889,158.861,Macquarie Island,Fuel usage,780,,litres
+Aug-01,-67.60269444,62.87380556,Mawson,Fuel usage,800,,litres
+Aug-01,-68.57661111,77.96738889,Davis,Fuel usage,950,,litres
+Aug-01,-66.28180556,110.5276111,Casey,Fuel usage,600,,litres
+Aug-01,-54.61988889,158.861,Macquarie Island,Fuel usage,670,,litres
+Sep-01,-67.60269444,62.87380556,Mawson,Fuel usage,700,,litres
+Sep-01,-68.57661111,77.96738889,Davis,Fuel usage,1240,,litres
+Sep-01,-66.28180556,110.5276111,Casey,Fuel usage,900,,litres
+Sep-01,-54.61988889,158.861,Macquarie Island,Fuel usage,570,,litres
+Oct-01,-67.60269444,62.87380556,Mawson,Fuel usage,1000,,litres
+Oct-01,-68.57661111,77.96738889,Davis,Fuel usage,870,,litres
+Oct-01,-66.28180556,110.5276111,Casey,Fuel usage,1000,,litres
+Oct-01,-54.61988889,158.861,Macquarie Island,Fuel usage,960,,litres
+Nov-01,-67.60269444,62.87380556,Mawson,Fuel usage,425,,litres
+Nov-01,-68.57661111,77.96738889,Davis,Fuel usage,1250,,litres
+Nov-01,-66.28180556,110.5276111,Casey,Fuel usage,1100,,litres
+Nov-01,-54.61988889,158.861,Macquarie Island,Fuel usage,0,,litres
+Dec-01,-67.60269444,62.87380556,Mawson,Fuel usage,900,,litres
+Dec-01,-68.57661111,77.96738889,Davis,Fuel usage,1650,,litres
+Dec-01,-66.28180556,110.5276111,Casey,Fuel usage,1000,,litres
+Dec-01,-54.61988889,158.861,Macquarie Island,Fuel usage,,,litres
+Jan-02,-67.60269444,62.87380556,Mawson,Fuel usage,1550,,litres
+Jan-02,-68.57661111,77.96738889,Davis,Fuel usage,4500,,litres
+Jan-02,-66.28180556,110.5276111,Casey,Fuel usage,1250,,litres
+Jan-02,-54.61988889,158.861,Macquarie Island,Fuel usage,0,,litres
+Feb-02,-67.60269444,62.87380556,Mawson,Fuel usage,1250,,litres
+Feb-02,-68.57661111,77.96738889,Davis,Fuel usage,4260,,litres
+Feb-02,-66.28180556,110.5276111,Casey,Fuel usage,3450,,litres
+Feb-02,-54.61988889,158.861,Macquarie Island,Fuel usage,1690,,litres
+Mar-02,-67.60269444,62.87380556,Mawson,Fuel usage,1450,,litres
+Mar-02,-68.57661111,77.96738889,Davis,Fuel usage,2900,,litres
+Mar-02,-66.28180556,110.5276111,Casey,Fuel usage,350,,litres
+Mar-02,-54.61988889,158.861,Macquarie Island,Fuel usage,1200,,litres
+Apr-02,-67.60269444,62.87380556,Mawson,Fuel usage,400,,litres
+Apr-02,-68.57661111,77.96738889,Davis,Fuel usage,800,,litres
+Apr-02,-66.28180556,110.5276111,Casey,Fuel usage,700,,litres
+Apr-02,-54.61988889,158.861,Macquarie Island,Fuel usage,1440,,litres
+May-02,-67.60269444,62.87380556,Mawson,Fuel usage,800,,litres
+May-02,-68.57661111,77.96738889,Davis,Fuel usage,1185,,litres
+May-02,-66.28180556,110.5276111,Casey,Fuel usage,500,,litres
+May-02,-54.61988889,158.861,Macquarie Island,Fuel usage,658,,litres
+Jun-02,-67.60269444,62.87380556,Mawson,Fuel usage,1000,,litres
+Jun-02,-68.57661111,77.96738889,Davis,Fuel usage,1850,,litres
+Jun-02,-66.28180556,110.5276111,Casey,Fuel usage,525,,litres
+Jun-02,-54.61988889,158.861,Macquarie Island,Fuel usage,480,,litres
+Jul-02,-67.60269444,62.87380556,Mawson,Fuel usage,1200,,litres
+Jul-02,-68.57661111,77.96738889,Davis,Fuel usage,1100,,litres
+Jul-02,-66.28180556,110.5276111,Casey,Fuel usage,1475,,litres
+Jul-02,-54.61988889,158.861,Macquarie Island,Fuel usage,530,,litres
+Aug-02,-67.60269444,62.87380556,Mawson,Fuel usage,900,,litres
+Aug-02,-68.57661111,77.96738889,Davis,Fuel usage,1500,,litres
+Aug-02,-66.28180556,110.5276111,Casey,Fuel usage,700,,litres
+Aug-02,-54.61988889,158.861,Macquarie Island,Fuel usage,720,,litres
+Sep-02,-67.60269444,62.87380556,Mawson,Fuel usage,500,,litres
+Sep-02,-68.57661111,77.96738889,Davis,Fuel usage,3100,,litres
+Sep-02,-66.28180556,110.5276111,Casey,Fuel usage,800,,litres
+Sep-02,-54.61988889,158.861,Macquarie Island,Fuel usage,370,,litres
+Oct-02,-67.60269444,62.87380556,Mawson,Fuel usage,1500,,litres
+Oct-02,-68.57661111,77.96738889,Davis,Fuel usage,1200,,litres
+Oct-02,-66.28180556,110.5276111,Casey,Fuel usage,1000,,litres
+Oct-02,-54.61988889,158.861,Macquarie Island,Fuel usage,762,,litres
+Nov-02,-67.60269444,62.87380556,Mawson,Fuel usage,6000,,litres
+Nov-02,-68.57661111,77.96738889,Davis,Fuel usage,1850,,litres
+Nov-02,-66.28180556,110.5276111,Casey,Fuel usage,1200,,litres
+Nov-02,-54.61988889,158.861,Macquarie Island,Fuel usage,720,,litres
+Dec-02,-67.60269444,62.87380556,Mawson,Fuel usage,1300,,litres
+Dec-02,-68.57661111,77.96738889,Davis,Fuel usage,3750,,litres
+Dec-02,-66.28180556,110.5276111,Casey,Fuel usage,2400,,litres
+Dec-02,-54.61988889,158.861,Macquarie Island,Fuel usage,797,,litres
+Jan-03,-67.60269444,62.87380556,Mawson,Fuel usage,1600,,litres
+Jan-03,-68.57661111,77.96738889,Davis,Fuel usage,2000,,litres
+Jan-03,-66.28180556,110.5276111,Casey,Fuel usage,2300,,litres
+Jan-03,-54.61988889,158.861,Macquarie Island,Fuel usage,1430,,litres
+Feb-03,-67.60269444,62.87380556,Mawson,Fuel usage,1700,,litres
+Feb-03,-68.57661111,77.96738889,Davis,Fuel usage,2300,,litres
+Feb-03,-66.28180556,110.5276111,Casey,Fuel usage,2000,,litres
+Feb-03,-54.61988889,158.861,Macquarie Island,Fuel usage,560,,litres
+Mar-03,-67.60269444,62.87380556,Mawson,Fuel usage,900,,litres
+Mar-03,-68.57661111,77.96738889,Davis,Fuel usage,1600,,litres
+Mar-03,-66.28180556,110.5276111,Casey,Fuel usage,700,,litres
+Mar-03,-54.61988889,158.861,Macquarie Island,Fuel usage,1284,,litres
+Apr-03,-67.60269444,62.87380556,Mawson,Fuel usage,300,,litres
+Apr-03,-68.57661111,77.96738889,Davis,Fuel usage,800,,litres
+Apr-03,-66.28180556,110.5276111,Casey,Fuel usage,1600,,litres
+Apr-03,-54.61988889,158.861,Macquarie Island,Fuel usage,1779,,litres
+May-03,-67.60269444,62.87380556,Mawson,Fuel usage,900,,litres
+May-03,-68.57661111,77.96738889,Davis,Fuel usage,900,,litres
+May-03,-66.28180556,110.5276111,Casey,Fuel usage,1300,,litres
+May-03,-54.61988889,158.861,Macquarie Island,Fuel usage,0,,litres
+Jun-03,-67.60269444,62.87380556,Mawson,Fuel usage,300,,litres
+Jun-03,-68.57661111,77.96738889,Davis,Fuel usage,1000,,litres
+Jun-03,-66.28180556,110.5276111,Casey,Fuel usage,500,,litres
+Jun-03,-54.61988889,158.861,Macquarie Island,Fuel usage,700,,litres
+Jul-03,-67.60269444,62.87380556,Mawson,Fuel usage,1100,,litres
+Jul-03,-68.57661111,77.96738889,Davis,Fuel usage,1000,,litres
+Jul-03,-66.28180556,110.5276111,Casey,Fuel usage,100,,litres
+Jul-03,-54.61988889,158.861,Macquarie Island,Fuel usage,770,,litres
+Aug-03,-67.60269444,62.87380556,Mawson,Fuel usage,300,,litres
+Aug-03,-68.57661111,77.96738889,Davis,Fuel usage,1100,,litres
+Aug-03,-66.28180556,110.5276111,Casey,Fuel usage,500,,litres
+Aug-03,-54.61988889,158.861,Macquarie Island,Fuel usage,0,,litres
+Sep-03,-67.60269444,62.87380556,Mawson,Fuel usage,400,,litres
+Sep-03,-68.57661111,77.96738889,Davis,Fuel usage,1400,,litres
+Sep-03,-66.28180556,110.5276111,Casey,Fuel usage,300,,litres
+Sep-03,-54.61988889,158.861,Macquarie Island,Fuel usage,640,,litres
+Oct-03,-67.60269444,62.87380556,Mawson,Fuel usage,2150,,litres
+Oct-03,-68.57661111,77.96738889,Davis,Fuel usage,1200,,litres
+Oct-03,-66.28180556,110.5276111,Casey,Fuel usage,1100,,litres
+Oct-03,-54.61988889,158.861,Macquarie Island,Fuel usage,0,,litres
+Nov-03,-67.60269444,62.87380556,Mawson,Fuel usage,950,,litres
+Nov-03,-68.57661111,77.96738889,Davis,Fuel usage,1650,,litres
+Nov-03,-66.28180556,110.5276111,Casey,Fuel usage,700,,litres
+Nov-03,-54.61988889,158.861,Macquarie Island,Fuel usage,1044,,litres
+Dec-03,-67.60269444,62.87380556,Mawson,Fuel usage,1220,,litres
+Dec-03,-68.57661111,77.96738889,Davis,Fuel usage,2750,,litres
+Dec-03,-66.28180556,110.5276111,Casey,Fuel usage,400,,litres
+Dec-03,-54.61988889,158.861,Macquarie Island,Fuel usage,774,,litres
+Jan-04,-67.60269444,62.87380556,Mawson,Fuel usage,800,,litres
+Jan-04,-68.57661111,77.96738889,Davis,Fuel usage,2800,,litres
+Jan-04,-66.28180556,110.5276111,Casey,Fuel usage,1400,,litres
+Jan-04,-54.61988889,158.861,Macquarie Island,Fuel usage,1857,,litres
+Feb-04,-67.60269444,62.87380556,Mawson,Fuel usage,350,,litres
+Feb-04,-68.57661111,77.96738889,Davis,Fuel usage,1900,,litres
+Feb-04,-66.28180556,110.5276111,Casey,Fuel usage,1150,,litres
+Feb-04,-54.61988889,158.861,Macquarie Island,Fuel usage,980,,litres
+Mar-04,-67.60269444,62.87380556,Mawson,Fuel usage,650,,litres
+Mar-04,-68.57661111,77.96738889,Davis,Fuel usage,1100,,litres
+Mar-04,-66.28180556,110.5276111,Casey,Fuel usage,1250,,litres
+Mar-04,-54.61988889,158.861,Macquarie Island,Fuel usage,1405,,litres
+Apr-04,-67.60269444,62.87380556,Mawson,Fuel usage,400,,litres
+Apr-04,-68.57661111,77.96738889,Davis,Fuel usage,800,,litres
+Apr-04,-66.28180556,110.5276111,Casey,Fuel usage,400,,litres
+Apr-04,-54.61988889,158.861,Macquarie Island,Fuel usage,250,,litres
+May-04,-67.60269444,62.87380556,Mawson,Fuel usage,550,,litres
+May-04,-68.57661111,77.96738889,Davis,Fuel usage,2100,,litres
+May-04,-66.28180556,110.5276111,Casey,Fuel usage,600,,litres
+May-04,-54.61988889,158.861,Macquarie Island,Fuel usage,900,,litres
+Jun-04,-67.60269444,62.87380556,Mawson,Fuel usage,600,,litres
+Jun-04,-68.57661111,77.96738889,Davis,Fuel usage,400,,litres
+Jun-04,-66.28180556,110.5276111,Casey,Fuel usage,900,,litres
+Jun-04,-54.61988889,158.861,Macquarie Island,Fuel usage,930,,litres
+Jul-04,-67.60269444,62.87380556,Mawson,Fuel usage,400,,litres
+Jul-04,-68.57661111,77.96738889,Davis,Fuel usage,650,,litres
+Jul-04,-66.28180556,110.5276111,Casey,Fuel usage,300,,litres
+Jul-04,-54.61988889,158.861,Macquarie Island,Fuel usage,600,,litres
+Aug-04,-67.60269444,62.87380556,Mawson,Fuel usage,700,,litres
+Aug-04,-68.57661111,77.96738889,Davis,Fuel usage,750,,litres
+Aug-04,-66.28180556,110.5276111,Casey,Fuel usage,750,,litres
+Sep-04,-67.60269444,62.87380556,Mawson,Fuel usage,400,,litres
+Sep-04,-68.57661111,77.96738889,Davis,Fuel usage,600,,litres
+Sep-04,-66.28180556,110.5276111,Casey,Fuel usage,450,,litres
+Oct-04,-67.60269444,62.87380556,Mawson,Fuel usage,400,,litres
+Oct-04,-68.57661111,77.96738889,Davis,Fuel usage,1250,,litres
+Oct-04,-66.28180556,110.5276111,Casey,Fuel usage,500,,litres
+Oct-04,-54.61988889,158.861,Macquarie Island,Fuel usage,200,,litres
+Nov-04,-67.60269444,62.87380556,Mawson,Fuel usage,600,,litres
+Nov-04,-68.57661111,77.96738889,Davis,Fuel usage,1400,,litres
+Nov-04,-66.28180556,110.5276111,Casey,Fuel usage,800,,litres
+Nov-04,-54.61988889,158.861,Macquarie Island,Fuel usage,120,,litres
+Dec-04,-67.60269444,62.87380556,Mawson,Fuel usage,1100,,litres
+Dec-04,-68.57661111,77.96738889,Davis,Fuel usage,2500,,litres
+Dec-04,-66.28180556,110.5276111,Casey,Fuel usage,700,,litres
+Dec-04,-54.61988889,158.861,Macquarie Island,Fuel usage,500,,litres
+Jan-05,-67.60269444,62.87380556,Mawson,Fuel usage,1100,,litres
+Jan-05,-68.57661111,77.96738889,Davis,Fuel usage,900,,litres
+Jan-05,-66.28180556,110.5276111,Casey,Fuel usage,1300,,litres
+Jan-05,-54.61988889,158.861,Macquarie Island,Fuel usage,1000,,litres
+Feb-05,-67.60269444,62.87380556,Mawson,Fuel usage,800,,litres
+Feb-05,-68.57661111,77.96738889,Davis,Fuel usage,400,,litres
+Feb-05,-66.28180556,110.5276111,Casey,Fuel usage,1300,,litres
+Feb-05,-54.61988889,158.861,Macquarie Island,Fuel usage,700,,litres
+Mar-05,-67.60269444,62.87380556,Mawson,Fuel usage,800,,litres
+Mar-05,-68.57661111,77.96738889,Davis,Fuel usage,400,,litres
+Mar-05,-66.28180556,110.5276111,Casey,Fuel usage,600,,litres
+Mar-05,-54.61988889,158.861,Macquarie Island,Fuel usage,475,,litres
+Apr-05,-67.60269444,62.87380556,Mawson,Fuel usage,450,,litres
+Apr-05,-68.57661111,77.96738889,Davis,Fuel usage,500,,litres
+Apr-05,-66.28180556,110.5276111,Casey,Fuel usage,1100,,litres
+Apr-05,-54.61988889,158.861,Macquarie Island,Fuel usage,1491,,litres
+May-05,-67.60269444,62.87380556,Mawson,Fuel usage,1000,,litres
+May-05,-68.57661111,77.96738889,Davis,Fuel usage,600,,litres
+May-05,-66.28180556,110.5276111,Casey,Fuel usage,1300,,litres
+May-05,-54.61988889,158.861,Macquarie Island,Fuel usage,657,,litres
+Jun-05,-67.60269444,62.87380556,Mawson,Fuel usage,250,,litres
+Jun-05,-68.57661111,77.96738889,Davis,Fuel usage,150,,litres
+Jun-05,-66.28180556,110.5276111,Casey,Fuel usage,1000,,litres
+Jun-05,-54.61988889,158.861,Macquarie Island,Fuel usage,0,,litres
+Jul-05,-67.60269444,62.87380556,Mawson,Fuel usage,600,,litres
+Jul-05,-68.57661111,77.96738889,Davis,Fuel usage,350,,litres
+Jul-05,-66.28180556,110.5276111,Casey,Fuel usage,1000,,litres
+Jul-05,-54.61988889,158.861,Macquarie Island,Fuel usage,1202,,litres
+Aug-05,-67.60269444,62.87380556,Mawson,Fuel usage,400,,litres
+Aug-05,-68.57661111,77.96738889,Davis,Fuel usage,200,,litres
+Aug-05,-66.28180556,110.5276111,Casey,Fuel usage,900,,litres
+Aug-05,-54.61988889,158.861,Macquarie Island,Fuel usage,527,,litres
+Sep-05,-67.60269444,62.87380556,Mawson,Fuel usage,270,,litres
+Sep-05,-68.57661111,77.96738889,Davis,Fuel usage,450,,litres
+Sep-05,-66.28180556,110.5276111,Casey,Fuel usage,1000,,litres
+Sep-05,-54.61988889,158.861,Macquarie Island,Fuel usage,890,,litres
+Oct-05,-67.60269444,62.87380556,Mawson,Fuel usage,580,,litres
+Oct-05,-68.57661111,77.96738889,Davis,Fuel usage,850,,litres
+Oct-05,-66.28180556,110.5276111,Casey,Fuel usage,1400,,litres
+Oct-05,-54.61988889,158.861,Macquarie Island,Fuel usage,518,,litres
+Nov-05,-67.60269444,62.87380556,Mawson,Fuel usage,500,,litres
+Nov-05,-68.57661111,77.96738889,Davis,Fuel usage,1300,,litres
+Nov-05,-66.28180556,110.5276111,Casey,Fuel usage,900,,litres
+Nov-05,-54.61988889,158.861,Macquarie Island,Fuel usage,535,,litres
+Dec-05,-67.60269444,62.87380556,Mawson,Fuel usage,0,,litres
+Dec-05,-68.57661111,77.96738889,Davis,Fuel usage,1000,,litres
+Dec-05,-66.28180556,110.5276111,Casey,Fuel usage,2450,,litres
+Dec-05,-54.61988889,158.861,Macquarie Island,Fuel usage,906,,litres
+Jan-06,-67.60269444,62.87380556,Mawson,Fuel usage,2500,,litres
+Jan-06,-68.57661111,77.96738889,Davis,Fuel usage,900,,litres
+Jan-06,-66.28180556,110.5276111,Casey,Fuel usage,720,,litres
+Jan-06,-54.61988889,158.861,Macquarie Island,Fuel usage,785,,litres
+Feb-06,-67.60269444,62.87380556,Mawson,Fuel usage,350,,litres
+Feb-06,-68.57661111,77.96738889,Davis,Fuel usage,900,,litres
+Feb-06,-66.28180556,110.5276111,Casey,Fuel usage,1100,,litres
+Feb-06,-54.61988889,158.861,Macquarie Island,Fuel usage,880,,litres
+Mar-06,-67.60269444,62.87380556,Mawson,Fuel usage,350,,litres
+Mar-06,-68.57661111,77.96738889,Davis,Fuel usage,900,,litres
+Mar-06,-66.28180556,110.5276111,Casey,Fuel usage,1300,,litres
+Mar-06,-54.61988889,158.861,Macquarie Island,Fuel usage,1330,,litres
+Apr-06,-67.60269444,62.87380556,Mawson,Fuel usage,300,,litres
+Apr-06,-68.57661111,77.96738889,Davis,Fuel usage,450,,litres
+Apr-06,-66.28180556,110.5276111,Casey,Fuel usage,700,,litres
+Apr-06,-54.61988889,158.861,Macquarie Island,Fuel usage,1350,,litres
+May-06,-67.60269444,62.87380556,Mawson,Fuel usage,250,,litres
+May-06,-68.57661111,77.96738889,Davis,Fuel usage,450,,litres
+May-06,-66.28180556,110.5276111,Casey,Fuel usage,800,,litres
+May-06,-54.61988889,158.861,Macquarie Island,Fuel usage,500,,litres
+Jun-06,-67.60269444,62.87380556,Mawson,Fuel usage,250,,litres
+Jun-06,-68.57661111,77.96738889,Davis,Fuel usage,400,,litres
+Jun-06,-66.28180556,110.5276111,Casey,Fuel usage,700,,litres
+Jun-06,-54.61988889,158.861,Macquarie Island,Fuel usage,500,,litres
+Jul-06,-67.60269444,62.87380556,Mawson,Fuel usage,500,,litres
+Jul-06,-68.57661111,77.96738889,Davis,Fuel usage,350,,litres
+Jul-06,-66.28180556,110.5276111,Casey,Fuel usage,300,,litres
+Jul-06,-54.61988889,158.861,Macquarie Island,Fuel usage,470,,litres
+Aug-06,-67.60269444,62.87380556,Mawson,Fuel usage,100,,litres
+Aug-06,-68.57661111,77.96738889,Davis,Fuel usage,500,,litres
+Aug-06,-66.28180556,110.5276111,Casey,Fuel usage,800,,litres
+Aug-06,-54.61988889,158.861,Macquarie Island,Fuel usage,170,,litres
+Sep-06,-67.60269444,62.87380556,Mawson,Fuel usage,400,,litres
+Sep-06,-68.57661111,77.96738889,Davis,Fuel usage,250,,litres
+Sep-06,-66.28180556,110.5276111,Casey,Fuel usage,700,,litres
+Sep-06,-54.61988889,158.861,Macquarie Island,Fuel usage,100,,litres
+Oct-06,-67.60269444,62.87380556,Mawson,Fuel usage,350,,litres
+Oct-06,-68.57661111,77.96738889,Davis,Fuel usage,500,,litres
+Oct-06,-66.28180556,110.5276111,Casey,Fuel usage,500,,litres
+Oct-06,-54.61988889,158.861,Macquarie Island,Fuel usage,440,,litres
+Nov-06,-67.60269444,62.87380556,Mawson,Fuel usage,350,,litres
+Nov-06,-68.57661111,77.96738889,Davis,Fuel usage,950,,litres
+Nov-06,-66.28180556,110.5276111,Casey,Fuel usage,800,,litres
+Nov-06,-54.61988889,158.861,Macquarie Island,Fuel usage,1050,,litres
+Dec-06,-67.60269444,62.87380556,Mawson,Fuel usage,350,,litres
+Dec-06,-68.57661111,77.96738889,Davis,Fuel usage,750,,litres
+Dec-06,-66.28180556,110.5276111,Casey,Fuel usage,700,,litres
+Dec-06,-54.61988889,158.861,Macquarie Island,Fuel usage,1800,,litres
+Jan-07,-67.60269444,62.87380556,Mawson,Fuel usage,1200,,litres
+Jan-07,-68.57661111,77.96738889,Davis,Fuel usage,800,,litres
+Jan-07,-66.28180556,110.5276111,Casey,Fuel usage,100,,litres
+Jan-07,-54.61988889,158.861,Macquarie Island,Fuel usage,800,,litres
+Feb-07,-67.60269444,62.87380556,Mawson,Fuel usage,800,,litres
+Feb-07,-68.57661111,77.96738889,Davis,Fuel usage,700,,litres
+Feb-07,-66.28180556,110.5276111,Casey,Fuel usage,1300,,litres
+Feb-07,-54.61988889,158.861,Macquarie Island,Fuel usage,800,,litres
+Mar-07,-67.60269444,62.87380556,Mawson,Fuel usage,1750,,litres
+Mar-07,-68.57661111,77.96738889,Davis,Fuel usage,700,,litres
+Mar-07,-66.28180556,110.5276111,Casey,Fuel usage,1700,,litres
+Mar-07,-54.61988889,158.861,Macquarie Island,Fuel usage,1350,,litres
+Apr-07,-67.60269444,62.87380556,Mawson,Fuel usage,600,,litres
+Apr-07,-68.57661111,77.96738889,Davis,Fuel usage,500,,litres
+Apr-07,-66.28180556,110.5276111,Casey,Fuel usage,300,,litres
+Apr-07,-54.61988889,158.861,Macquarie Island,Fuel usage,575,,litres
+May-07,-67.60269444,62.87380556,Mawson,Fuel usage,600,,litres
+May-07,-68.57661111,77.96738889,Davis,Fuel usage,400,,litres
+May-07,-66.28180556,110.5276111,Casey,Fuel usage,500,,litres
+May-07,-54.61988889,158.861,Macquarie Island,Fuel usage,1281,,litres
+Jun-07,-67.60269444,62.87380556,Mawson,Fuel usage,800,,litres
+Jun-07,-68.57661111,77.96738889,Davis,Fuel usage,350,,litres
+Jun-07,-66.28180556,110.5276111,Casey,Fuel usage,500,,litres
+Jun-07,-54.61988889,158.861,Macquarie Island,Fuel usage,150,,litres
+Jul-07,-67.60269444,62.87380556,Mawson,Fuel usage,80,,litres
+Jul-07,-68.57661111,77.96738889,Davis,Fuel usage,350,,litres
+Jul-07,-66.28180556,110.5276111,Casey,Fuel usage,500,,litres
+Jul-07,-54.61988889,158.861,Macquarie Island,Fuel usage,572,,litres
+Aug-07,-67.60269444,62.87380556,Mawson,Fuel usage,800,,litres
+Aug-07,-68.57661111,77.96738889,Davis,Fuel usage,400,,litres
+Aug-07,-66.28180556,110.5276111,Casey,Fuel usage,200,,litres
+Aug-07,-54.61988889,158.861,Macquarie Island,Fuel usage,495,,litres
+Sep-07,-67.60269444,62.87380556,Mawson,Fuel usage,800,,litres
+Sep-07,-68.57661111,77.96738889,Davis,Fuel usage,350,,litres
+Sep-07,-66.28180556,110.5276111,Casey,Fuel usage,400,,litres
+Sep-07,-54.61988889,158.861,Macquarie Island,Fuel usage,481,,litres
+Oct-07,-67.60269444,62.87380556,Mawson,Fuel usage,600,,litres
+Oct-07,-68.57661111,77.96738889,Davis,Fuel usage,150,,litres
+Oct-07,-66.28180556,110.5276111,Casey,Fuel usage,400,,litres
+Oct-07,-54.61988889,158.861,Macquarie Island,Fuel usage,125,,litres
+Nov-07,-68.57661111,77.96738889,Davis,Fuel usage,650,,litres
+Nov-07,-66.28180556,110.5276111,Casey,Fuel usage,430,,litres
+Nov-07,-54.61988889,158.861,Macquarie Island,Fuel usage,407,,litres
+Dec-07,-67.60269444,62.87380556,Mawson,Fuel usage,600,,litres
+Dec-07,-68.57661111,77.96738889,Davis,Fuel usage,800,,litres
+Dec-07,-66.28180556,110.5276111,Casey,Fuel usage,420,,litres
+Dec-07,-54.61988889,158.861,Macquarie Island,Fuel usage,757,,litres
+Jan-08,-67.60269444,62.87380556,Mawson,Fuel usage,500,,litres
+Jan-08,-68.57661111,77.96738889,Davis,Fuel usage,900,,litres
+Jan-08,-66.28180556,110.5276111,Casey,Fuel usage,475,,litres
+Jan-08,-54.61988889,158.861,Macquarie Island,Fuel usage,708,,litres
+Feb-08,-67.60269444,62.87380556,Mawson,Fuel usage,500,,litres
+Feb-08,-68.57661111,77.96738889,Davis,Fuel usage,800,,litres
+Feb-08,-66.28180556,110.5276111,Casey,Fuel usage,450,,litres
+Feb-08,-54.61988889,158.861,Macquarie Island,Fuel usage,518,,litres
+Mar-08,-67.60269444,62.87380556,Mawson,Fuel usage,500,,litres
+Mar-08,-68.57661111,77.96738889,Davis,Fuel usage,550,,litres
+Mar-08,-66.28180556,110.5276111,Casey,Fuel usage,150,,litres
+Mar-08,-54.61988889,158.861,Macquarie Island,Fuel usage,565,,litres
+Apr-08,-67.60269444,62.87380556,Mawson,Fuel usage,300,,litres
+Apr-08,-68.57661111,77.96738889,Davis,Fuel usage,400,,litres
+Apr-08,-66.28180556,110.5276111,Casey,Fuel usage,170,,litres
+Apr-08,-54.61988889,158.861,Macquarie Island,Fuel usage,490,,litres
+May-08,-67.60269444,62.87380556,Mawson,Fuel usage,450,,litres
+May-08,-68.57661111,77.96738889,Davis,Fuel usage,400,,litres
+May-08,-66.28180556,110.5276111,Casey,Fuel usage,180,,litres
+May-08,-54.61988889,158.861,Macquarie Island,Fuel usage,230,,litres
+Jun-08,-67.60269444,62.87380556,Mawson,Fuel usage,350,,litres
+Jun-08,-68.57661111,77.96738889,Davis,Fuel usage,800,,litres
+Jun-08,-66.28180556,110.5276111,Casey,Fuel usage,190,,litres
+Jun-08,-54.61988889,158.861,Macquarie Island,Fuel usage,225,,litres
+Jul-08,-67.60269444,62.87380556,Mawson,Fuel usage,500,,litres
+Jul-08,-68.57661111,77.96738889,Davis,Fuel usage,700,,litres
+Jul-08,-66.28180556,110.5276111,Casey,Fuel usage,450,,litres
+Jul-08,-54.61988889,158.861,Macquarie Island,Fuel usage,0,,litres
+Aug-08,-67.60269444,62.87380556,Mawson,Fuel usage,400,,litres
+Aug-08,-68.57661111,77.96738889,Davis,Fuel usage,400,,litres
+Aug-08,-66.28180556,110.5276111,Casey,Fuel usage,450,,litres
+Aug-08,-54.61988889,158.861,Macquarie Island,Fuel usage,0,,litres
+Sep-08,-67.60269444,62.87380556,Mawson,Fuel usage,350,,litres
+Sep-08,-68.57661111,77.96738889,Davis,Fuel usage,800,,litres
+Sep-08,-66.28180556,110.5276111,Casey,Fuel usage,450,,litres
+Sep-08,-54.61988889,158.861,Macquarie Island,Fuel usage,1020,,litres
+Oct-08,-67.60269444,62.87380556,Mawson,Fuel usage,300,,litres
+Oct-08,-68.57661111,77.96738889,Davis,Fuel usage,600,,litres
+Oct-08,-66.28180556,110.5276111,Casey,Fuel usage,450,,litres
+Oct-08,-54.61988889,158.861,Macquarie Island,Fuel usage,0,,litres
+Nov-08,-67.60269444,62.87380556,Mawson,Fuel usage,250,,litres
+Nov-08,-68.57661111,77.96738889,Davis,Fuel usage,1000,,litres
+Nov-08,-66.28180556,110.5276111,Casey,Fuel usage,470,,litres
+Nov-08,-54.61988889,158.861,Macquarie Island,Fuel usage,900,,litres
+Dec-08,-67.60269444,62.87380556,Mawson,Fuel usage,450,,litres
+Dec-08,-68.57661111,77.96738889,Davis,Fuel usage,1350,,litres
+Dec-08,-66.28180556,110.5276111,Casey,Fuel usage,450,,litres
+Dec-08,-54.61988889,158.861,Macquarie Island,Fuel usage,0,,litres
+Jan-09,-67.60269444,62.87380556,Mawson,Fuel usage,400,,litres
+Jan-09,-68.57661111,77.96738889,Davis,Fuel usage,850,,litres
+Jan-09,-66.28180556,110.5276111,Casey,Fuel usage,1700,,litres
+Jan-09,-54.61988889,158.861,Macquarie Island,Fuel usage,710,,litres
+Feb-09,-67.60269444,62.87380556,Mawson,Fuel usage,0,,litres
+Feb-09,-68.57661111,77.96738889,Davis,Fuel usage,900,,litres
+Feb-09,-66.28180556,110.5276111,Casey,Fuel usage,1500,,litres
+Feb-09,-54.61988889,158.861,Macquarie Island,Fuel usage,0,,litres
+Mar-09,-67.60269444,62.87380556,Mawson,Fuel usage,950,,litres
+Mar-09,-68.57661111,77.96738889,Davis,Fuel usage,600,,litres
+Mar-09,-66.28180556,110.5276111,Casey,Fuel usage,500,,litres
+Mar-09,-54.61988889,158.861,Macquarie Island,Fuel usage,1150,,litres
+Apr-09,-67.60269444,62.87380556,Mawson,Fuel usage,530,,litres
+Apr-09,-68.57661111,77.96738889,Davis,Fuel usage,40,,litres
+Apr-09,-66.28180556,110.5276111,Casey,Fuel usage,200,,litres
+Apr-09,-54.61988889,158.861,Macquarie Island,Fuel usage,535,,litres
+May-09,-67.60269444,62.87380556,Mawson,Fuel usage,420,,litres
+May-09,-68.57661111,77.96738889,Davis,Fuel usage,100,,litres
+May-09,-66.28180556,110.5276111,Casey,Fuel usage,300,,litres
+May-09,-54.61988889,158.861,Macquarie Island,Fuel usage,390,,litres
+Jun-09,-67.60269444,62.87380556,Mawson,Fuel usage,470,,litres
+Jun-09,-68.57661111,77.96738889,Davis,Fuel usage,800,,litres
+Jun-09,-66.28180556,110.5276111,Casey,Fuel usage,300,,litres
+Jun-09,-54.61988889,158.861,Macquarie Island,Fuel usage,300,,litres
+Jul-09,-67.60269444,62.87380556,Mawson,Fuel usage,780,,litres
+Jul-09,-68.57661111,77.96738889,Davis,Fuel usage,350,,litres
+Jul-09,-66.28180556,110.5276111,Casey,Fuel usage,300,,litres
+Jul-09,-54.61988889,158.861,Macquarie Island,Fuel usage,406,,litres
+Aug-09,-67.60269444,62.87380556,Mawson,Fuel usage,500,,litres
+Aug-09,-68.57661111,77.96738889,Davis,Fuel usage,650,,litres
+Aug-09,-66.28180556,110.5276111,Casey,Fuel usage,400,,litres
+Aug-09,-54.61988889,158.861,Macquarie Island,Fuel usage,300,,litres
+Sep-09,-67.60269444,62.87380556,Mawson,Fuel usage,450,,litres
+Sep-09,-68.57661111,77.96738889,Davis,Fuel usage,500,,litres
+Sep-09,-66.28180556,110.5276111,Casey,Fuel usage,200,,litres
+Sep-09,-54.61988889,158.861,Macquarie Island,Fuel usage,226,,litres
+Oct-09,-67.60269444,62.87380556,Mawson,Fuel usage,800,,litres
+Oct-09,-68.57661111,77.96738889,Davis,Fuel usage,800,,litres
+Oct-09,-66.28180556,110.5276111,Casey,Fuel usage,300,,litres
+Oct-09,-54.61988889,158.861,Macquarie Island,Fuel usage,350,,litres
+Nov-09,-67.60269444,62.87380556,Mawson,Fuel usage,256,,litres
+Nov-09,-68.57661111,77.96738889,Davis,Fuel usage,1250,,litres
+Nov-09,-66.28180556,110.5276111,Casey,Fuel usage,700,,litres
+Nov-09,-54.61988889,158.861,Macquarie Island,Fuel usage,200,,litres
+Dec-09,-67.60269444,62.87380556,Mawson,Fuel usage,450,,litres
+Dec-09,-68.57661111,77.96738889,Davis,Fuel usage,2100,,litres
+Dec-09,-66.28180556,110.5276111,Casey,Fuel usage,850,,litres
+Dec-09,-54.61988889,158.861,Macquarie Island,Fuel usage,351,,litres
+Jan-10,-67.60269444,62.87380556,Mawson,Fuel usage,1200,,litres
+Jan-10,-68.57661111,77.96738889,Davis,Fuel usage,2650,,litres
+Jan-10,-66.28180556,110.5276111,Casey,Fuel usage,750,,litres
+Jan-10,-54.61988889,158.861,Macquarie Island,Fuel usage,300,,litres
+Feb-10,-67.60269444,62.87380556,Mawson,Fuel usage,950,,litres
+Feb-10,-68.57661111,77.96738889,Davis,Fuel usage,1400,,litres
+Feb-10,-66.28180556,110.5276111,Casey,Fuel usage,820,,litres
+Feb-10,-54.61988889,158.861,Macquarie Island,Fuel usage,300,,litres
+Mar-10,-67.60269444,62.87380556,Mawson,Fuel usage,1300,,litres
+Mar-10,-68.57661111,77.96738889,Davis,Fuel usage,1500,,litres
+Mar-10,-66.28180556,110.5276111,Casey,Fuel usage,650,,litres
+Mar-10,-54.61988889,158.861,Macquarie Island,Fuel usage,700,,litres
+Apr-10,-67.60269444,62.87380556,Mawson,Fuel usage,1750,,litres
+Apr-10,-68.57661111,77.96738889,Davis,Fuel usage,700,,litres
+Apr-10,-66.28180556,110.5276111,Casey,Fuel usage,550,,litres
+Apr-10,-54.61988889,158.861,Macquarie Island,Fuel usage,1200,,litres
+May-10,-67.60269444,62.87380556,Mawson,Fuel usage,750,,litres
+May-10,-68.57661111,77.96738889,Davis,Fuel usage,500,,litres
+May-10,-66.28180556,110.5276111,Casey,Fuel usage,450,,litres
+May-10,-54.61988889,158.861,Macquarie Island,Fuel usage,500,,litres
+Jun-10,-67.60269444,62.87380556,Mawson,Fuel usage,401,,litres
+Jun-10,-68.57661111,77.96738889,Davis,Fuel usage,1000,,litres
+Jun-10,-66.28180556,110.5276111,Casey,Fuel usage,430,,litres
+Jun-10,-54.61988889,158.861,Macquarie Island,Fuel usage,50,,litres
+Jul-10,-67.60269444,62.87380556,Mawson,Fuel usage,750,,litres
+Jul-10,-68.57661111,77.96738889,Davis,Fuel usage,400,,litres
+Jul-10,-66.28180556,110.5276111,Casey,Fuel usage,300,,litres
+Jul-10,-54.61988889,158.861,Macquarie Island,Fuel usage,550,,litres
+Aug-10,-67.60269444,62.87380556,Mawson,Fuel usage,375,,litres
+Aug-10,-68.57661111,77.96738889,Davis,Fuel usage,600,,litres
+Aug-10,-66.28180556,110.5276111,Casey,Fuel usage,300,,litres
+Aug-10,-54.61988889,158.861,Macquarie Island,Fuel usage,800,,litres
+Sep-10,-67.60269444,62.87380556,Mawson,Fuel usage,800,,litres
+Sep-10,-68.57661111,77.96738889,Davis,Fuel usage,600,,litres
+Sep-10,-66.28180556,110.5276111,Casey,Fuel usage,200,,litres
+Sep-10,-54.61988889,158.861,Macquarie Island,Fuel usage,300,,litres
+Oct-10,-67.60269444,62.87380556,Mawson,Fuel usage,750,,litres
+Oct-10,-68.57661111,77.96738889,Davis,Fuel usage,1000,,litres
+Oct-10,-66.28180556,110.5276111,Casey,Fuel usage,550,,litres
+Oct-10,-54.61988889,158.861,Macquarie Island,Fuel usage,480,,litres
+Nov-10,-67.60269444,62.87380556,Mawson,Fuel usage,650,,litres
+Nov-10,-68.57661111,77.96738889,Davis,Fuel usage,1200,,litres
+Nov-10,-66.28180556,110.5276111,Casey,Fuel usage,1300,,litres
+Nov-10,-54.61988889,158.861,Macquarie Island,Fuel usage,300,,litres
+Dec-10,-67.60269444,62.87380556,Mawson,Fuel usage,400,,litres
+Dec-10,-68.57661111,77.96738889,Davis,Fuel usage,1650,,litres
+Dec-10,-66.28180556,110.5276111,Casey,Fuel usage,1700,,litres
+Dec-10,-54.61988889,158.861,Macquarie Island,Fuel usage,530,,litres
+Jan-11,-67.60269444,62.87380556,Mawson,Fuel usage,590,,litres
+Jan-11,-68.57661111,77.96738889,Davis,Fuel usage,1950,,litres
+Jan-11,-66.28180556,110.5276111,Casey,Fuel usage,1200,,litres
+Jan-11,-54.61988889,158.861,Macquarie Island,Fuel usage,600,,litres
+Feb-11,-67.60269444,62.87380556,Mawson,Fuel usage,1250,,litres
+Feb-11,-68.57661111,77.96738889,Davis,Fuel usage,1300,,litres
+Feb-11,-66.28180556,110.5276111,Casey,Fuel usage,1900,,litres
+Feb-11,-54.61988889,158.861,Macquarie Island,Fuel usage,300,,litres
+Mar-11,-67.60269444,62.87380556,Mawson,Fuel usage,1450,,litres
+Mar-11,-68.57661111,77.96738889,Davis,Fuel usage,1200,,litres
+Mar-11,-66.28180556,110.5276111,Casey,Fuel usage,900,,litres
+Mar-11,-54.61988889,158.861,Macquarie Island,Fuel usage,480,,litres
+Apr-11,-67.60269444,62.87380556,Mawson,Fuel usage,400,,litres
+Apr-11,-68.57661111,77.96738889,Davis,Fuel usage,1050,50,litres
+Apr-11,-66.28180556,110.5276111,Casey,Fuel usage,500,,litres
+Apr-11,-54.61988889,158.861,Macquarie Island,Fuel usage,750,,litres
+May-11,-67.60269444,62.87380556,Mawson,Fuel usage,550,,litres
+May-11,-68.57661111,77.96738889,Davis,Fuel usage,950,,litres
+May-11,-66.28180556,110.5276111,Casey,Fuel usage,300,,litres
+May-11,-54.61988889,158.861,Macquarie Island,Fuel usage,670,,litres
+Jun-11,-67.60269444,62.87380556,Mawson,Fuel usage,600,,litres
+Jun-11,-68.57661111,77.96738889,Davis,Fuel usage,600,,litres
+Jun-11,-66.28180556,110.5276111,Casey,Fuel usage,550,,litres
+Jun-11,-54.61988889,158.861,Macquarie Island,Fuel usage,250,,litres
+Jul-11,-67.60269444,62.87380556,Mawson,Fuel usage,500,,litres
+Jul-11,-68.57661111,77.96738889,Davis,Fuel usage,1050,,litres
+Jul-11,-66.28180556,110.5276111,Casey,Fuel usage,850,,litres
+Jul-11,-54.61988889,158.861,Macquarie Island,Fuel usage,503,,litres
+Aug-11,-67.60269444,62.87380556,Mawson,Fuel usage,390,,litres
+Aug-11,-68.57661111,77.96738889,Davis,Fuel usage,800,,litres
+Aug-11,-66.28180556,110.5276111,Casey,Fuel usage,200,,litres
+Aug-11,-54.61988889,158.861,Macquarie Island,Fuel usage,400,,litres
+Sep-11,-67.60269444,62.87380556,Mawson,Fuel usage,360,,litres
+Sep-11,-68.57661111,77.96738889,Davis,Fuel usage,850,,litres
+Sep-11,-66.28180556,110.5276111,Casey,Fuel usage,450,,litres
+Sep-11,-54.61988889,158.861,Macquarie Island,Fuel usage,500,,litres
+Oct-11,-67.60269444,62.87380556,Mawson,Fuel usage,200,,litres
+Oct-11,-68.57661111,77.96738889,Davis,Fuel usage,900,,litres
+Oct-11,-66.28180556,110.5276111,Casey,Fuel usage,800,,litres
+Oct-11,-54.61988889,158.861,Macquarie Island,Fuel usage,312,,litres
+Nov-11,-67.60269444,62.87380556,Mawson,Fuel usage,475,,litres
+Nov-11,-68.57661111,77.96738889,Davis,Fuel usage,1900,,litres
+Nov-11,-66.28180556,110.5276111,Casey,Fuel usage,650,,litres
+Nov-11,-54.61988889,158.861,Macquarie Island,Fuel usage,400,,litres
+Dec-11,-67.60269444,62.87380556,Mawson,Fuel usage,375,,litres
+Dec-11,-68.57661111,77.96738889,Davis,Fuel usage,1900,,litres
+Dec-11,-66.28180556,110.5276111,Casey,Fuel usage,500,,litres
+Dec-11,-54.61988889,158.861,Macquarie Island,Fuel usage,300,,litres
+Jan-12,-67.60269444,62.87380556,Mawson,Fuel usage,300,,litres
+Jan-12,-68.57661111,77.96738889,Davis,Fuel usage,400,,litres
+Jan-12,-66.28180556,110.5276111,Casey,Fuel usage,1900,,litres
+Jan-12,-54.61988889,158.861,Macquarie Island,Fuel usage,520,,litres
+Feb-12,-67.60269444,62.87380556,Mawson,Fuel usage,950,,litres
+Feb-12,-68.57661111,77.96738889,Davis,Fuel usage,1200,,litres
+Feb-12,-66.28180556,110.5276111,Casey,Fuel usage,1000,,litres
+Feb-12,-54.61988889,158.861,Macquarie Island,Fuel usage,400,,litres
+Mar-12,-67.60269444,62.87380556,Mawson,Fuel usage,900,,litres
+Mar-12,-68.57661111,77.96738889,Davis,Fuel usage,4500,,litres
+Mar-12,-66.28180556,110.5276111,Casey,Fuel usage,800,,litres
+Mar-12,-54.61988889,158.861,Macquarie Island,Fuel usage,451,,litres
+Apr-12,-67.60269444,62.87380556,Mawson,Fuel usage,800,,litres
+Apr-12,-68.57661111,77.96738889,Davis,Fuel usage,700,,litres
+Apr-12,-66.28180556,110.5276111,Casey,Fuel usage,1600,,litres
+Apr-12,-54.61988889,158.861,Macquarie Island,Fuel usage,201,,litres
+May-12,-67.60269444,62.87380556,Mawson,Fuel usage,490,,litres
+May-12,-68.57661111,77.96738889,Davis,Fuel usage,900,,litres
+May-12,-66.28180556,110.5276111,Casey,Fuel usage,460,,litres
+May-12,-54.61988889,158.861,Macquarie Island,Fuel usage,310,,litres
+Jun-12,-67.60269444,62.87380556,Mawson,Fuel usage,120,,litres
+Jun-12,-68.57661111,77.96738889,Davis,Fuel usage,200,,litres
+Jun-12,-66.28180556,110.5276111,Casey,Fuel usage,900,,litres
+Jun-12,-54.61988889,158.861,Macquarie Island,Fuel usage,600,,litres
+Jul-12,-67.60269444,62.87380556,Mawson,Fuel usage,280,,litres
+Jul-12,-68.57661111,77.96738889,Davis,Fuel usage,200,,litres
+Jul-12,-66.28180556,110.5276111,Casey,Fuel usage,700,,litres
+Jul-12,-54.61988889,158.861,Macquarie Island,Fuel usage,500,,litres
+Aug-12,-67.60269444,62.87380556,Mawson,Fuel usage,350,,litres
+Aug-12,-68.57661111,77.96738889,Davis,Fuel usage,1000,,litres
+Aug-12,-66.28180556,110.5276111,Casey,Fuel usage,1200,,litres
+Aug-12,-54.61988889,158.861,Macquarie Island,Fuel usage,200,,litres
+Sep-12,-67.60269444,62.87380556,Mawson,Fuel usage,150,,litres
+Sep-12,-68.57661111,77.96738889,Davis,Fuel usage,200,,litres
+Sep-12,-66.28180556,110.5276111,Casey,Fuel usage,650,,litres
+Sep-12,-54.61988889,158.861,Macquarie Island,Fuel usage,600,,litres
+Oct-12,-67.60269444,62.87380556,Mawson,Fuel usage,50,,litres
+Oct-12,-68.57661111,77.96738889,Davis,Fuel usage,1200,,litres
+Oct-12,-66.28180556,110.5276111,Casey,Fuel usage,600,,litres
+Oct-12,-54.61988889,158.861,Macquarie Island,Fuel usage,550,,litres
+Nov-12,-67.60269444,62.87380556,Mawson,Fuel usage,50,,litres
+Nov-12,-68.57661111,77.96738889,Davis,Fuel usage,1000,,litres
+Nov-12,-66.28180556,110.5276111,Casey,Fuel usage,600,,litres
+Nov-12,-54.61988889,158.861,Macquarie Island,Fuel usage,700,,litres
+Dec-12,-67.60269444,62.87380556,Mawson,Fuel usage,200,,litres
+Dec-12,-66.28180556,110.5276111,Casey,Fuel usage,600,,litres
+Dec-12,-54.61988889,158.861,Macquarie Island,Fuel usage,650,,litres
+Jan-13,-67.60269444,62.87380556,Mawson,Fuel usage,300,,litres
+Jan-13,-68.57661111,77.96738889,Davis,Fuel usage,1300,,litres
+Jan-13,-66.28180556,110.5276111,Casey,Fuel usage,900,,litres
+Jan-13,-54.61988889,158.861,Macquarie Island,Fuel usage,1450,,litres
+Feb-13,-67.60269444,62.87380556,Mawson,Fuel usage,1200,,litres
+Feb-13,-68.57661111,77.96738889,Davis,Fuel usage,2800,,litres
+Feb-13,-66.28180556,110.5276111,Casey,Fuel usage,1000,,litres
+Feb-13,-54.61988889,158.861,Macquarie Island,Fuel usage,775,,litres
+Mar-13,-67.60269444,62.87380556,Mawson,Fuel usage,1050,,litres
+Mar-13,-68.57661111,77.96738889,Davis,Fuel usage,2800,,litres
+Mar-13,-66.28180556,110.5276111,Casey,Fuel usage,500,,litres
+Mar-13,-54.61988889,158.861,Macquarie Island,Fuel usage,2192,,litres
+Apr-13,-67.60269444,62.87380556,Mawson,Fuel usage,700,,litres
+Apr-13,-68.57661111,77.96738889,Davis,Fuel usage,1000,,litres
+Apr-13,-66.28180556,110.5276111,Casey,Fuel usage,400,,litres
+Apr-13,-54.61988889,158.861,Macquarie Island,Fuel usage,1300,,litres
+May-13,-67.60269444,62.87380556,Mawson,Fuel usage,1100,,litres
+May-13,-68.57661111,77.96738889,Davis,Fuel usage,1200,,litres
+May-13,-66.28180556,110.5276111,Casey,Fuel usage,500,,litres
+May-13,-54.61988889,158.861,Macquarie Island,Fuel usage,650,,litres
+Jun-13,-67.60269444,62.87380556,Mawson,Fuel usage,700,,litres
+Jun-13,-68.57661111,77.96738889,Davis,Fuel usage,1050,,litres
+Jun-13,-66.28180556,110.5276111,Casey,Fuel usage,100,,litres
+Jun-13,-54.61988889,158.861,Macquarie Island,Fuel usage,600,,litres
+Jul-13,-67.60269444,62.87380556,Mawson,Fuel usage,500,,litres
+Jul-13,-68.57661111,77.96738889,Davis,Fuel usage,2200,,litres
+Jul-13,-66.28180556,110.5276111,Casey,Fuel usage,400,,litres
+Jul-13,-54.61988889,158.861,Macquarie Island,Fuel usage,501,,litres
+Aug-13,-67.60269444,62.87380556,Mawson,Fuel usage,1200,,litres
+Aug-13,-68.57661111,77.96738889,Davis,Fuel usage,550,,litres
+Aug-13,-66.28180556,110.5276111,Casey,Fuel usage,500,,litres
+Aug-13,-54.61988889,158.861,Macquarie Island,Fuel usage,451,,litres
+Sep-13,-67.60269444,62.87380556,Mawson,Fuel usage,400,,litres
+Sep-13,-68.57661111,77.96738889,Davis,Fuel usage,450,,litres
+Sep-13,-66.28180556,110.5276111,Casey,Fuel usage,100,,litres
+Sep-13,-54.61988889,158.861,Macquarie Island,Fuel usage,400,,litres
+Oct-13,-67.60269444,62.87380556,Mawson,Fuel usage,900,,litres
+Oct-13,-68.57661111,77.96738889,Davis,Fuel usage,900,,litres
+Oct-13,-66.28180556,110.5276111,Casey,Fuel usage,150,,litres
+Oct-13,-54.61988889,158.861,Macquarie Island,Fuel usage,500,,litres
+Nov-13,-67.60269444,62.87380556,Mawson,Fuel usage,1000,,litres
+Nov-13,-68.57661111,77.96738889,Davis,Fuel usage,1000,,litres
+Nov-13,-66.28180556,110.5276111,Casey,Fuel usage,150,,litres
+Nov-13,-54.61988889,158.861,Macquarie Island,Fuel usage,350,,litres
+Dec-13,-67.60269444,62.87380556,Mawson,Fuel usage,850,,litres
+Dec-13,-68.57661111,77.96738889,Davis,Fuel usage,1000,,litres
+Dec-13,-66.28180556,110.5276111,Casey,Fuel usage,1100,,litres
+Dec-13,-54.61988889,158.861,Macquarie Island,Fuel usage,401,,litres
+Jan-14,-67.60269444,62.87380556,Mawson,Fuel usage,1400,,litres
+Jan-14,-68.57661111,77.96738889,Davis,Fuel usage,1100,,litres
+Jan-14,-66.28180556,110.5276111,Casey,Fuel usage,1000,,litres
+Jan-14,-54.61988889,158.861,Macquarie Island,Fuel usage,740,,litres
+Feb-14,-67.60269444,62.87380556,Mawson,Fuel usage,1500,,litres
+Feb-14,-68.57661111,77.96738889,Davis,Fuel usage,550,,litres
+Feb-14,-66.28180556,110.5276111,Casey,Fuel usage,1000,,litres
+Feb-14,-54.61988889,158.861,Macquarie Island,Fuel usage,400,,litres
+Mar-14,-67.60269444,62.87380556,Mawson,Fuel usage,350,,litres
+Mar-14,-68.57661111,77.96738889,Davis,Fuel usage,550,,litres
+Mar-14,-66.28180556,110.5276111,Casey,Fuel usage,200,,litres
+Mar-14,-54.61988889,158.861,Macquarie Island,Fuel usage,1800,,litres
+Apr-14,-67.60269444,62.87380556,Mawson,Fuel usage,400,,litres
+Apr-14,-68.57661111,77.96738889,Davis,Fuel usage,500,,litres
+Apr-14,-66.28180556,110.5276111,Casey,Fuel usage,300,,litres
+Apr-14,-54.61988889,158.861,Macquarie Island,Fuel usage,1460,,litres
+May-14,-67.60269444,62.87380556,Mawson,Fuel usage,750,,litres
+May-14,-68.57661111,77.96738889,Davis,Fuel usage,500,,litres
+May-14,-66.28180556,110.5276111,Casey,Fuel usage,700,,litres
+May-14,-54.61988889,158.861,Macquarie Island,Fuel usage,900,,litres
+Jun-14,-67.60269444,62.87380556,Mawson,Fuel usage,800,,litres
+Jun-14,-68.57661111,77.96738889,Davis,Fuel usage,400,,litres
+Jun-14,-66.28180556,110.5276111,Casey,Fuel usage,300,,litres
+Jun-14,-54.61988889,158.861,Macquarie Island,Fuel usage,500,,litres
+Jul-14,-67.60269444,62.87380556,Mawson,Fuel usage,750,,litres
+Jul-14,-68.57661111,77.96738889,Davis,Fuel usage,300,,litres
+Jul-14,-66.28180556,110.5276111,Casey,Fuel usage,300,,litres
+Jul-14,-54.61988889,158.861,Macquarie Island,Fuel usage,720,,litres
+Aug-14,-67.60269444,62.87380556,Mawson,Fuel usage,600,,litres
+Aug-14,-68.57661111,77.96738889,Davis,Fuel usage,400,,litres
+Aug-14,-66.28180556,110.5276111,Casey,Fuel usage,600,,litres
+Aug-14,-54.61988889,158.861,Macquarie Island,Fuel usage,600,,litres
+Sep-14,-67.60269444,62.87380556,Mawson,Fuel usage,400,,litres
+Sep-14,-68.57661111,77.96738889,Davis,Fuel usage,500,,litres
+Sep-14,-66.28180556,110.5276111,Casey,Fuel usage,150,,litres
+Sep-14,-54.61988889,158.861,Macquarie Island,Fuel usage,750,,litres
+Oct-14,-67.60269444,62.87380556,Mawson,Fuel usage,750,,litres
+Oct-14,-68.57661111,77.96738889,Davis,Fuel usage,400,,litres
+Oct-14,-66.28180556,110.5276111,Casey,Fuel usage,200,,litres
+Oct-14,-54.61988889,158.861,Macquarie Island,Fuel usage,550,,litres
+Nov-14,-67.60269444,62.87380556,Mawson,Fuel usage,950,,litres
+Nov-14,-68.57661111,77.96738889,Davis,Fuel usage,650,,litres
+Nov-14,-66.28180556,110.5276111,Casey,Fuel usage,550,,litres
+Nov-14,-54.61988889,158.861,Macquarie Island,Fuel usage,800,,litres
+Dec-14,-67.60269444,62.87380556,Mawson,Fuel usage,1050,,litres
+Dec-14,-68.57661111,77.96738889,Davis,Fuel usage,650,,litres
+Dec-14,-66.28180556,110.5276111,Casey,Fuel usage,1000,,litres
+Dec-14,-54.61988889,158.861,Macquarie Island,Fuel usage,525,,litres
+Jan-15,-67.60269444,62.87380556,Mawson,Fuel usage,300,,litres
+Jan-15,-68.57661111,77.96738889,Davis,Fuel usage,550,,litres
+Jan-15,-66.28180556,110.5276111,Casey,Fuel usage,500,,litres
+Jan-15,-54.61988889,158.861,Macquarie Island,Fuel usage,1051,,litres
+Feb-15,-67.60269444,62.87380556,Mawson,Fuel usage,800,,litres
+Feb-15,-68.57661111,77.96738889,Davis,Fuel usage,550,,litres
+Feb-15,-66.28180556,110.5276111,Casey,Fuel usage,1500,,litres
+Feb-15,-54.61988889,158.861,Macquarie Island,Fuel usage,1050,,litres
+Mar-15,-68.57661111,77.96738889,Davis,Fuel usage,550,,litres
+Mar-15,-66.28180556,110.5276111,Casey,Fuel usage,200,,litres
+Apr-15,-67.60269444,62.87380556,Mawson,Fuel usage,1450,,litres
+Apr-15,-68.57661111,77.96738889,Davis,Fuel usage,550,,litres
+Apr-15,-66.28180556,110.5276111,Casey,Fuel usage,300,,litres
+Apr-15,-54.61988889,158.861,Macquarie Island,Fuel usage,1470,,litres
+May-15,-67.60269444,62.87380556,Mawson,Fuel usage,450,,litres
+May-15,-68.57661111,77.96738889,Davis,Fuel usage,550,,litres
+May-15,-66.28180556,110.5276111,Casey,Fuel usage,800,,litres
+May-15,-54.61988889,158.861,Macquarie Island,Fuel usage,1200,,litres
+Jun-15,-67.60269444,62.87380556,Mawson,Fuel usage,1100,,litres
+Jun-15,-68.57661111,77.96738889,Davis,Fuel usage,550,,litres
+Jun-15,-66.28180556,110.5276111,Casey,Fuel usage,400,,litres
+Jun-15,-54.61988889,158.861,Macquarie Island,Fuel usage,901,,litres
+Jul-15,-67.60269444,62.87380556,Mawson,Fuel usage,700,,litres
+Jul-15,-68.57661111,77.96738889,Davis,Fuel usage,550,,litres
+Jul-15,-66.28180556,110.5276111,Casey,Fuel usage,500,,litres
+Jul-15,-54.61988889,158.861,Macquarie Island,Fuel usage,600,,litres
+Aug-15,-67.60269444,62.87380556,Mawson,Fuel usage,700,,litres
+Aug-15,-68.57661111,77.96738889,Davis,Fuel usage,550,,litres
+Aug-15,-66.28180556,110.5276111,Casey,Fuel usage,600,,litres
+Aug-15,-54.61988889,158.861,Macquarie Island,Fuel usage,880,,litres
+Sep-15,-67.60269444,62.87380556,Mawson,Fuel usage,700,,litres
+Sep-15,-68.57661111,77.96738889,Davis,Fuel usage,550,,litres
+Sep-15,-66.28180556,110.5276111,Casey,Fuel usage,500,,litres
+Sep-15,-54.61988889,158.861,Macquarie Island,Fuel usage,878,,litres
+Oct-15,-67.60269444,62.87380556,Mawson,Fuel usage,600,,litres
+Oct-15,-68.57661111,77.96738889,Davis,Fuel usage,550,,litres
+Oct-15,-66.28180556,110.5276111,Casey,Fuel usage,900,,litres
+Oct-15,-54.61988889,158.861,Macquarie Island,Fuel usage,970,,litres
+Nov-15,-67.60269444,62.87380556,Mawson,Fuel usage,800,,litres
+Nov-15,-68.57661111,77.96738889,Davis,Fuel usage,1600,,litres
+Nov-15,-66.28180556,110.5276111,Casey,Fuel usage,100,,litres
+Nov-15,-54.61988889,158.861,Macquarie Island,Fuel usage,841,,litres
+Dec-15,-67.60269444,62.87380556,Mawson,Fuel usage,600,,litres
+Dec-15,-68.57661111,77.96738889,Davis,Fuel usage,2000,,litres
+Dec-15,-66.28180556,110.5276111,Casey,Fuel usage,,,litres
+Dec-15,-54.61988889,158.861,Macquarie Island,Fuel usage,1000,,litres
+Jan-16,-67.60269444,62.87380556,Mawson,Fuel usage,1300,,litres
+Jan-16,-68.57661111,77.96738889,Davis,Fuel usage,2000,,litres
+Jan-16,-66.28180556,110.5276111,Casey,Fuel usage,1100,,litres
+Feb-16,-67.60269444,62.87380556,Mawson,Fuel usage,1450,,litres
+Feb-16,-68.57661111,77.96738889,Davis,Fuel usage,3000,,litres
+Feb-16,-66.28180556,110.5276111,Casey,Fuel usage,900,,litres
