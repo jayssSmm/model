@@ -1,17 +1,25 @@
 """
-train_wind_power_model.py
+train_wind_power_model.py  (v2 -- fixes underfitting)
 
 Trains a PyTorch neural network (on CUDA if available) to predict FUTURE
-pow_out (wind power output) from weather features:
+pow_out (wind power output) from:
+    - wind_speed, temp, prs, hum% (raw weather)
+    - pow_out_lag   -- pow_out AT TIME t (autoregressive input; this is
+                        known info, not leakage -- the target is t+HORIZON)
+    - wind_speed_sq, wind_speed_cub -- engineered v^2 / v^3 terms, since
+                        real turbine power curves are roughly ~v^3
 
-    - wind_speed
-    - temp
-    - prs   (pressure)
-    - hum%  (relative humidity  -- also accepts a plain "hum" column name)
-
-"Future" power means the model is given readings at time t and predicts
-pow_out `HORIZON` steps ahead (t + HORIZON). Change --horizon to control
-how far ahead you forecast (in units of rows in your data).
+WHY THIS CHANGED FROM v1:
+    v1 predicted future power from weather alone and plateaued fast
+    (train/val loss barely moved after ~10 epochs, R^2 ~0.75). That's a
+    classic underfitting signature caused by omitting the single most
+    predictive input: current power output is strongly autocorrelated
+    with near-future power output, especially at small horizons. Adding
+    it back in, plus explicit v^2/v^3 terms so the model doesn't have to
+    rediscover the cubic power curve from scratch, should raise R^2
+    substantially. Weight decay + BatchNorm were also added since val
+    loss was ticking up slightly while train loss kept falling (mild
+    overfitting on top of the underfitting).
 
 Works with EITHER:
   (a) a single combined CSV, e.g. combined_df.csv
@@ -19,35 +27,14 @@ Works with EITHER:
   (b) a folder of .xlsx files (each sheet = one time series)
         python train_wind_power_model.py --data "dataset/energy generation/wind energy generation dataset/slightly polluted/"
 
-If --data points at a .csv it's loaded as one series. If it's a
-directory, every .xlsx file's every sheet is loaded as its own series
-(so predictions never leak across file/sheet boundaries when building
-the future-shifted target). Sheets/files missing the required columns
-(e.g. the weather-only file with no pow_out) are skipped automatically.
-
-DATA CLEANING (this dataset is labeled "slightly polluted"):
+DATA CLEANING (unchanged from v1, this dataset is labeled "slightly polluted"):
     1. Generic sanity ranges for wind_speed / temp / prs / hum%.
     2. Per-file rated-capacity bound for pow_out, parsed from filenames
-       like "wind_3_mx66.xlsx" -> capacity 66. Falls back to a wide
-       default bound if no "mxNN" pattern is found (e.g. for a CSV).
+       like "wind_3_mx66.xlsx" -> capacity 66.
     3. Cut-in-speed physics check: near-zero wind_speed should mean
-       near-zero pow_out. Rows violating this (e.g. wind_speed=0 with
-       pow_out=15) are dropped as sensor/logging faults.
+       near-zero pow_out.
     4. Stuck-sensor detection: long runs of exactly-repeated feature
-       rows (frozen instrument) are dropped -- they carry no usable
-       signal and only bias the model. Controlled by
-       --stuck_run_threshold / --no_drop_stuck.
-
-The script will:
-    1. Load the data (CSV or xlsx folder).
-    2. Clean column names (whitespace/case-insensitive matching, "hum"
-       treated as an alias of "hum%").
-    3. Apply the cleaning steps above.
-    4. Build (features_t -> pow_out_{t+HORIZON}) pairs.
-    5. Time-ordered train/val split (not random) to avoid leakage.
-    6. Scale features and target (scalers fit on train only).
-    7. Train an MLP regressor on GPU (CUDA) if available.
-    8. Save the trained model + scalers.
+       rows (frozen instrument) are dropped.
 """
 
 import argparse
@@ -64,41 +51,37 @@ from torch.utils.data import Dataset, DataLoader
 # --------------------------------------------------------------------------
 # Config
 # --------------------------------------------------------------------------
-FEATURE_COLS = ["wind_speed", "temp", "prs", "hum%"]
+BASE_FEATURE_COLS = ["wind_speed", "temp", "prs", "hum%"]  # raw weather, used for cleaning/validation
 TARGET_COL = "pow_out"
 
-# Alternate spellings -> canonical name
+# Final input feature order fed to the network. Saved into the checkpoint
+# so the plotting/inference script always builds features the same way.
+AUGMENTED_FEATURE_NAMES = BASE_FEATURE_COLS + ["pow_out_lag", "wind_speed_sq", "wind_speed_cub"]
+
 ALIASES = {
     "hum": "hum%",
 }
 
-# Generic sanity ranges (checked on every row regardless of file).
-# pow_out's upper bound is handled separately (per-file capacity, see below).
 VALID_RANGES = {
-    "wind_speed": (0, 60),      # m/s; hurricane-force and above is not real turbine data
-    "temp": (-60, 55),          # deg C, generous global range
-    "prs": (800, 1100),         # hPa
+    "wind_speed": (0, 60),
+    "temp": (-60, 55),
+    "prs": (800, 1100),
     "hum%": (0, 100),
-    "pow_out": (-2, None),      # small negative allowed (parasitic/idle load noise);
-                                 # upper bound filled in per-file from rated capacity
+    "pow_out": (-2, None),
 }
 
-# Physically implausible: turbines don't produce meaningful power below
-# their cut-in wind speed.
-CUT_IN_WIND_SPEED = 0.5          # m/s, below this wind is "calm"
-CUT_IN_POWER_SLACK = 2.0         # pow_out above this (in calm wind) is flagged
+CUT_IN_WIND_SPEED = 0.5
+CUT_IN_POWER_SLACK = 2.0
+DEFAULT_MAX_POWER = 1e6
+CAPACITY_TOLERANCE = 1.05
 
-# Default upper bound for pow_out when no per-file capacity can be parsed
-# from the filename (e.g. a plain CSV).
-DEFAULT_MAX_POWER = 1e6          # effectively "no upper bound" fallback
-CAPACITY_TOLERANCE = 1.05        # allow 5% over nameplate capacity (sensor noise)
+DEFAULT_STUCK_RUN_THRESHOLD = 200
 
-DEFAULT_STUCK_RUN_THRESHOLD = 200  # consecutive identical feature rows -> "stuck sensor"
-
-HORIZON = 1          # how many rows ahead to predict (future step)
+HORIZON = 1
 BATCH_SIZE = 256
-EPOCHS = 50
+EPOCHS = 60
 LR = 1e-3
+WEIGHT_DECAY = 1e-4
 VAL_SPLIT = 0.15
 SEED = 42
 
@@ -110,7 +93,7 @@ def _norm(s: str) -> str:
     return " ".join(str(s).split()).lower()
 
 
-_CANONICAL_LOOKUP = {_norm(c): c for c in FEATURE_COLS + [TARGET_COL]}
+_CANONICAL_LOOKUP = {_norm(c): c for c in BASE_FEATURE_COLS + [TARGET_COL]}
 for alias, canon in ALIASES.items():
     _CANONICAL_LOOKUP[_norm(alias)] = canon
 
@@ -124,11 +107,9 @@ def clean_columns(df: pd.DataFrame) -> pd.DataFrame:
 
 
 # --------------------------------------------------------------------------
-# Cleaning helpers
+# Cleaning helpers (unchanged from v1)
 # --------------------------------------------------------------------------
 def parse_capacity(source_name: str):
-    """Parse a rated-capacity hint like 'mx66' out of a filename. Returns
-    None if no such pattern is found (e.g. for a CSV)."""
     m = re.search(r"mx(\d+(?:\.\d+)?)", source_name, flags=re.IGNORECASE)
     if m:
         return float(m.group(1))
@@ -146,7 +127,6 @@ def drop_out_of_range_rows(df: pd.DataFrame, source_name: str, capacity) -> pd.D
         if hi is not None:
             mask &= df[col] <= hi
 
-    # Per-file capacity bound on pow_out.
     max_power = (capacity * CAPACITY_TOLERANCE) if capacity is not None else DEFAULT_MAX_POWER
     mask &= df[TARGET_COL] <= max_power
 
@@ -161,9 +141,6 @@ def drop_out_of_range_rows(df: pd.DataFrame, source_name: str, capacity) -> pd.D
 
 
 def drop_cut_in_violations(df: pd.DataFrame, source_name: str) -> pd.DataFrame:
-    """Drop rows where wind_speed is ~0 but pow_out is well above zero --
-    physically impossible (turbines need wind above cut-in speed to
-    generate meaningful power)."""
     before = len(df)
     violation = (df["wind_speed"] < CUT_IN_WIND_SPEED) & (df[TARGET_COL] > CUT_IN_POWER_SLACK)
     df = df[~violation].reset_index(drop=True)
@@ -177,19 +154,14 @@ def drop_cut_in_violations(df: pd.DataFrame, source_name: str) -> pd.DataFrame:
 
 
 def drop_stuck_sensor_runs(df: pd.DataFrame, source_name: str, threshold: int) -> pd.DataFrame:
-    """Detect and drop long runs where ALL feature columns are exactly
-    repeated for `threshold`+ consecutive rows -- a frozen/stuck sensor
-    contributes zero information and only biases training."""
     if threshold <= 0 or len(df) == 0:
         return df
 
-    feat = df[FEATURE_COLS]
+    feat = df[BASE_FEATURE_COLS]
     same_as_prev = (feat == feat.shift(1)).all(axis=1)
-    # Assign a run id that increments every time the row differs from the previous one.
     run_id = (~same_as_prev).cumsum()
     run_sizes = run_id.map(run_id.value_counts())
     stuck_mask = same_as_prev & (run_sizes >= threshold)
-    # Also mark the first row of a long stuck run (same_as_prev is False for it).
     stuck_mask |= (~same_as_prev) & (run_sizes >= threshold)
 
     before = len(df)
@@ -204,11 +176,11 @@ def drop_stuck_sensor_runs(df: pd.DataFrame, source_name: str, threshold: int) -
 
 def _finalize(df: pd.DataFrame, source_name: str, stuck_run_threshold: int, drop_stuck: bool):
     df = clean_columns(df)
-    missing = [c for c in FEATURE_COLS + [TARGET_COL] if c not in df.columns]
+    missing = [c for c in BASE_FEATURE_COLS + [TARGET_COL] if c not in df.columns]
     if missing:
         print(f"[skip] {source_name} -- missing columns {missing}")
         return None
-    df = df[FEATURE_COLS + [TARGET_COL]].copy()
+    df = df[BASE_FEATURE_COLS + [TARGET_COL]].copy()
     for c in df.columns:
         df[c] = pd.to_numeric(df[c], errors="coerce")
     df = df.dropna().reset_index(drop=True)
@@ -231,7 +203,6 @@ def _finalize(df: pd.DataFrame, source_name: str, stuck_run_threshold: int, drop
 
 
 def load_all_series(data_path: str, stuck_run_threshold: int, drop_stuck: bool) -> list:
-    """Returns a list of DataFrames, one per independent time series."""
     frames = []
 
     if os.path.isfile(data_path) and data_path.lower().endswith(".csv"):
@@ -259,15 +230,32 @@ def load_all_series(data_path: str, stuck_run_threshold: int, drop_stuck: bool) 
     return frames
 
 
+# --------------------------------------------------------------------------
+# Feature engineering (NEW)
+# --------------------------------------------------------------------------
+def build_augmented_features(df: pd.DataFrame) -> np.ndarray:
+    """Given a cleaned df with BASE_FEATURE_COLS + TARGET_COL (one row per
+    timestep, in time order), return an (n, len(AUGMENTED_FEATURE_NAMES))
+    array: raw weather + current pow_out (lag-0, autoregressive input) +
+    wind_speed^2 / wind_speed^3 physics terms."""
+    base = df[BASE_FEATURE_COLS].values.astype(np.float32)
+    pow_lag = df[TARGET_COL].values.astype(np.float32).reshape(-1, 1)
+    ws = base[:, 0:1]
+    ws_sq = ws ** 2
+    ws_cub = ws ** 3
+    return np.concatenate([base, pow_lag, ws_sq, ws_cub], axis=1)
+
+
 def time_ordered_split(frames, horizon: int, val_split: float):
     """Take the last val_split fraction of EACH series (in time order) as
-    validation, instead of randomly shuffling rows -- keeps val honest
-    and avoids leaking near-duplicate adjacent timesteps into train."""
+    validation. Features at time t (including pow_out_t) predict the
+    target pow_out_{t+horizon}."""
     Xtr_list, ytr_list, Xva_list, yva_list = [], [], [], []
     for df in frames:
         if len(df) <= horizon:
             continue
-        X = df[FEATURE_COLS].values[: -horizon]
+        X_full = build_augmented_features(df)
+        X = X_full[:-horizon]
         y = df[TARGET_COL].values[horizon:]
         n = len(X)
         cut = int(n * (1 - val_split))
@@ -302,16 +290,23 @@ class PowerDataset(Dataset):
 
 
 class PowerMLP(nn.Module):
+    """v2: BatchNorm after each Linear (helps optimization + regularizes a
+    bit on its own), dropout trimmed down since weight decay now shares
+    the regularization load."""
+
     def __init__(self, in_dim, hidden=128):
         super().__init__()
         self.net = nn.Sequential(
             nn.Linear(in_dim, hidden),
+            nn.BatchNorm1d(hidden),
             nn.ReLU(),
-            nn.Dropout(0.1),
+            nn.Dropout(0.05),
             nn.Linear(hidden, hidden),
+            nn.BatchNorm1d(hidden),
             nn.ReLU(),
-            nn.Dropout(0.1),
+            nn.Dropout(0.05),
             nn.Linear(hidden, hidden // 2),
+            nn.BatchNorm1d(hidden // 2),
             nn.ReLU(),
             nn.Linear(hidden // 2, 1),
         )
@@ -321,8 +316,6 @@ class PowerMLP(nn.Module):
 
 
 class StandardScalerTorch:
-    """Tiny numpy-based standard scaler (avoids sklearn dependency)."""
-
     def fit(self, X):
         self.mean_ = X.mean(axis=0, keepdims=True)
         self.std_ = X.std(axis=0, keepdims=True)
@@ -339,11 +332,11 @@ class StandardScalerTorch:
 # --------------------------------------------------------------------------
 # Train / eval loops
 # --------------------------------------------------------------------------
-def train(model, train_loader, val_loader, device, epochs, lr):
+def train(model, train_loader, val_loader, device, epochs, lr, weight_decay):
     criterion = nn.SmoothL1Loss()
-    optimizer = torch.optim.Adam(model.parameters(), lr=lr)
+    optimizer = torch.optim.Adam(model.parameters(), lr=lr, weight_decay=weight_decay)
     scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(
-        optimizer, mode="min", factor=0.5, patience=5
+        optimizer, mode="min", factor=0.5, patience=8
     )
 
     best_val = float("inf")
@@ -390,17 +383,14 @@ def train(model, train_loader, val_loader, device, epochs, lr):
 # --------------------------------------------------------------------------
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--data", type=str, required=True,
-                         help="Path to combined_df.csv OR a folder of .xlsx wind files")
-    parser.add_argument("--horizon", type=int, default=HORIZON,
-                         help="Rows ahead to forecast pow_out")
+    parser.add_argument("--data", type=str, required=True)
+    parser.add_argument("--horizon", type=int, default=HORIZON)
     parser.add_argument("--epochs", type=int, default=EPOCHS)
     parser.add_argument("--batch_size", type=int, default=BATCH_SIZE)
     parser.add_argument("--lr", type=float, default=LR)
-    parser.add_argument("--stuck_run_threshold", type=int, default=DEFAULT_STUCK_RUN_THRESHOLD,
-                         help="Consecutive identical feature rows to treat as a stuck sensor")
-    parser.add_argument("--no_drop_stuck", action="store_true",
-                         help="Disable stuck-sensor-run dropping")
+    parser.add_argument("--weight_decay", type=float, default=WEIGHT_DECAY)
+    parser.add_argument("--stuck_run_threshold", type=int, default=DEFAULT_STUCK_RUN_THRESHOLD)
+    parser.add_argument("--no_drop_stuck", action="store_true")
     parser.add_argument("--out", type=str, default="wind_power_model.pt")
     args = parser.parse_args()
 
@@ -412,13 +402,12 @@ def main():
     if device.type == "cuda":
         print(f"  GPU: {torch.cuda.get_device_name(0)}")
 
-    # ---- Load & build data ----
     frames = load_all_series(args.data, args.stuck_run_threshold, not args.no_drop_stuck)
 
     Xtr, ytr, Xva, yva = time_ordered_split(frames, args.horizon, VAL_SPLIT)
-    print(f"Train pairs: {len(Xtr)} | Val pairs: {len(Xva)}")
+    print(f"Train pairs: {len(Xtr)} | Val pairs: {len(Xva)} | Input dims: {Xtr.shape[1]}")
 
-    x_scaler = StandardScalerTorch().fit(Xtr)   # fit scalers on TRAIN only
+    x_scaler = StandardScalerTorch().fit(Xtr)
     y_scaler = StandardScalerTorch().fit(ytr)
 
     Xtr_s = x_scaler.transform(Xtr).astype(np.float32)
@@ -434,17 +423,16 @@ def main():
     val_loader = DataLoader(val_ds, batch_size=args.batch_size, shuffle=False,
                              num_workers=2, pin_memory=(device.type == "cuda"))
 
-    # ---- Train ----
-    model = PowerMLP(in_dim=len(FEATURE_COLS)).to(device)
-    model, best_val = train(model, train_loader, val_loader, device, args.epochs, args.lr)
+    model = PowerMLP(in_dim=len(AUGMENTED_FEATURE_NAMES)).to(device)
+    model, best_val = train(model, train_loader, val_loader, device, args.epochs, args.lr, args.weight_decay)
     print(f"Best val loss (scaled space): {best_val:.5f}")
 
-    # ---- Save model + scalers ----
     torch.save({
         "model_state_dict": model.state_dict(),
         "x_mean": x_scaler.mean_, "x_std": x_scaler.std_,
         "y_mean": y_scaler.mean_, "y_std": y_scaler.std_,
-        "feature_cols": FEATURE_COLS,
+        "feature_cols": AUGMENTED_FEATURE_NAMES,   # what the model actually consumes
+        "base_feature_cols": BASE_FEATURE_COLS,    # raw weather columns needed from data
         "target_col": TARGET_COL,
         "horizon": args.horizon,
     }, args.out)

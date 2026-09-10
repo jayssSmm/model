@@ -1,19 +1,17 @@
-
-
 import argparse
 import glob
 import os
+import re
 
 import numpy as np
 import pandas as pd
 import torch
 import torch.nn as nn
-import matplotlib.pyplot as plt
 
 
 # --------------------------------------------------------------------------
-# Sanity ranges — must match train_solar_power_model.py so cleaning behaves
-# identically at plot time and at train time.
+# Sanity ranges -- must match train_solar_power_model.py so cleaning behaves
+# identically at eval time and at train time.
 # --------------------------------------------------------------------------
 VALID_RANGES = {
     "Total solar irradiance (W/m2)": (0, 1500),
@@ -24,6 +22,16 @@ VALID_RANGES = {
     "Relative humidity (%)": (0, 100),
     "Power (MW)": (-1, 1000),
 }
+
+# Pulls plant capacity out of filenames like 'solar_6_mx35.xlsx' -> 35.0 MW.
+# VERIFY this against your actual known plant capacities -- it's inferred
+# from the naming pattern in your files, not from any ground-truth table.
+CAPACITY_RE = re.compile(r"mx(\d+(?:\.\d+)?)", re.IGNORECASE)
+
+
+def extract_capacity_mw(filename: str):
+    m = CAPACITY_RE.search(os.path.basename(filename))
+    return float(m.group(1)) if m else None
 
 
 # --------------------------------------------------------------------------
@@ -49,11 +57,8 @@ class PowerMLP(nn.Module):
 
 
 def build_model_from_checkpoint(ckpt, device):
-    """Infer in_dim/hidden directly from the saved weight shapes instead of
-    hardcoding them, so this script stays correct even if training-time
-    hyperparameters change."""
     state_dict = ckpt["model_state_dict"]
-    first_w = state_dict["net.0.weight"]  # shape: [hidden, in_dim]
+    first_w = state_dict["net.0.weight"]  # [hidden, in_dim]
     hidden, in_dim = first_w.shape
     model = PowerMLP(in_dim=in_dim, hidden=hidden).to(device)
     model.load_state_dict(state_dict)
@@ -80,9 +85,6 @@ def clean_columns(df: pd.DataFrame, canonical_names) -> pd.DataFrame:
 
 
 def drop_corrupted_rows(df: pd.DataFrame, source_label: str) -> pd.DataFrame:
-    """Drop physically-impossible rows, identical logic to the training
-    script (e.g. the -3270 degC air-temperature rows in the polluted
-    dataset)."""
     before = len(df)
     mask = pd.Series(True, index=df.index)
     for col, (lo, hi) in VALID_RANGES.items():
@@ -98,7 +100,6 @@ def drop_corrupted_rows(df: pd.DataFrame, source_label: str) -> pd.DataFrame:
 
 
 def add_lag_features(df: pd.DataFrame, target_col: str, lag_steps) -> pd.DataFrame:
-    """Add lagged Power columns, identical logic to the training script."""
     df = df.copy()
     for lag in lag_steps:
         df[f"power_lag_{lag}"] = df[target_col].shift(lag)
@@ -106,9 +107,7 @@ def add_lag_features(df: pd.DataFrame, target_col: str, lag_steps) -> pd.DataFra
 
 
 def load_series(data_dir, base_feature_cols, target_col):
-    """Returns a list of dicts: {name, df} — one per usable file/sheet.
-    df contains only the RAW weather/irradiance columns + target; lag
-    features are added later, per series, after corrupted-row cleaning."""
+    """Returns a list of dicts: {name, df, capacity_mw}."""
     paths = sorted(glob.glob(os.path.join(data_dir, "*.xlsx")))
     if not paths:
         raise FileNotFoundError(f"No .xlsx files found in {data_dir}")
@@ -116,6 +115,7 @@ def load_series(data_dir, base_feature_cols, target_col):
     canonical = list(base_feature_cols) + [target_col]
     series = []
     for p in paths:
+        capacity = extract_capacity_mw(p)
         xl = pd.ExcelFile(p)
         for sheet in xl.sheet_names:
             df = xl.parse(sheet)
@@ -138,8 +138,9 @@ def load_series(data_dir, base_feature_cols, target_col):
                 print(f"[skip] {name} -- 0 usable rows after cleaning")
                 continue
 
-            series.append({"name": name, "df": df})
-            print(f"[ok]   {name} -> {len(df)} clean rows")
+            series.append({"name": name, "df": df, "capacity_mw": capacity})
+            cap_str = f"{capacity} MW" if capacity is not None else "capacity UNKNOWN"
+            print(f"[ok]   {name} -> {len(df)} clean rows ({cap_str})")
 
     if not series:
         raise RuntimeError("No usable sheets found across all files.")
@@ -147,31 +148,78 @@ def load_series(data_dir, base_feature_cols, target_col):
 
 
 # --------------------------------------------------------------------------
+# Metrics
+# --------------------------------------------------------------------------
+def compute_metrics(actual, predicted, capacity_mw):
+    """All metrics computed on whatever rows are passed in -- caller decides
+    whether that's all-hours, daytime-only, etc.
+
+    NMAE / NRMSE are normalized by plant capacity (a constant, never-zero
+    denominator), not by the actual value -- so they don't blow up at
+    night/low-irradiance the way plain MAPE does. This is the standard way
+    solar forecast error is reported for exactly that reason.
+    """
+    err = predicted - actual
+    mae = float(np.mean(np.abs(err)))
+    rmse = float(np.sqrt(np.mean(err ** 2)))
+    mbe = float(np.mean(err))  # signed: + = over-predicting, - = under-predicting
+
+    out = {"n": len(actual), "mae_mw": mae, "rmse_mw": rmse, "mbe_mw": mbe}
+
+    if capacity_mw:
+        out["nmae_pct"] = 100.0 * mae / capacity_mw
+        out["nrmse_pct"] = 100.0 * rmse / capacity_mw
+        out["nmbe_pct"] = 100.0 * mbe / capacity_mw
+
+        # Secondary, informational only: classic MAPE restricted to rows
+        # where actual power is a meaningful fraction of capacity, so a
+        # handful of near-zero rows can't dominate it. Still less robust
+        # than NMAE above -- report it, don't optimize against it.
+        sig_mask = actual > 0.05 * capacity_mw
+        if sig_mask.sum() > 0:
+            out["mape_daytime_pct"] = float(
+                np.mean(np.abs(err[sig_mask]) / actual[sig_mask]) * 100
+            )
+            out["n_daytime"] = int(sig_mask.sum())
+
+    return out
+
+
+def print_metrics(name, m):
+    print(f"{name}")
+    print(f"  n rows scored     : {m['n']}")
+    print(f"  MAE               : {m['mae_mw']:.3f} MW")
+    print(f"  RMSE              : {m['rmse_mw']:.3f} MW")
+    direction = "over" if m["mbe_mw"] > 0 else "under"
+    print(f"  Bias (MBE)        : {m['mbe_mw']:+.3f} MW  ({direction}-predicting)")
+    if "nmae_pct" in m:
+        print(f"  NMAE (of capacity): {m['nmae_pct']:.2f}%   <-- primary accuracy number")
+        print(f"  NRMSE(of capacity): {m['nrmse_pct']:.2f}%")
+        print(f"  NMBE (of capacity): {m['nmbe_pct']:+.2f}%")
+    else:
+        print("  (capacity unknown -- fix CAPACITY_RE / filename to get normalized %)")
+    if "mape_daytime_pct" in m:
+        print(f"  MAPE (daytime only, informational): {m['mape_daytime_pct']:.2f}%  (n={m['n_daytime']})")
+    print("-" * 50)
+
+
+# --------------------------------------------------------------------------
 # Main
 # --------------------------------------------------------------------------
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--data_dir", type=str, required=True,
-                         help="Folder containing the .xlsx solar files")
-    parser.add_argument("--model", type=str, default="solar_power_model.pt",
-                         help="Path to the trained checkpoint")
-    parser.add_argument("--out_dir", type=str, default="plots",
-                         help="Where to save PNG plots")
-    parser.add_argument("--show", action="store_true",
-                         help="Also open interactive matplotlib windows")
+    parser.add_argument("--data_dir", type=str, required=True)
+    parser.add_argument("--model", type=str, default="solar_power_model.pt")
     args = parser.parse_args()
-
-    os.makedirs(args.out_dir, exist_ok=True)
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print(f"Using device: {device}")
 
-    # ---- Load checkpoint ----
     ckpt = torch.load(args.model, weights_only=False, map_location=device)
-    feature_cols = ckpt["feature_cols"]        # full list, incl. power_lag_* cols
+    feature_cols = ckpt["feature_cols"]
     target_col = ckpt["target_col"]
     horizon = ckpt["horizon"]
-    lags = ckpt.get("lags", [])                 # backward-compatible default
+    lags = ckpt.get("lags", [])
     x_mean, x_std = ckpt["x_mean"], ckpt["x_std"]
     y_mean, y_std = ckpt["y_mean"], ckpt["y_std"]
 
@@ -182,22 +230,17 @@ def main():
     print(f"Loaded model: features={feature_cols}, target={target_col}, "
           f"horizon={horizon}, lags={lags}")
 
-    # ---- Load data ----
     series = load_series(args.data_dir, base_feature_cols, target_col)
 
-    # ---- Predict per series ----
-    concat_actual = []
-    concat_predicted = []  # NaN-padded to line up index-for-index with actual
-    boundaries = []  # index into concat_actual where each series starts
-    cursor = 0
+    all_actual, all_pred = [], []
 
     for s in series:
         df = s["df"]
+        capacity = s["capacity_mw"]
         M = len(df)
 
         y_true = df[target_col].values.astype(np.float32)
 
-        # Build lag features
         df_lagged = add_lag_features(df, target_col, lags)
         df_lagged = df_lagged.iloc[lag_offset:].reset_index(drop=True)
 
@@ -206,43 +249,39 @@ def main():
         if len(df_lagged) > 0:
             X = df_lagged[feature_cols].values.astype(np.float32)
             X_scaled = (X - x_mean) / x_std
-
             with torch.no_grad():
                 xb = torch.from_numpy(X_scaled).to(device)
                 y_pred_scaled = model(xb).cpu().numpy()
-
             y_pred = (y_pred_scaled * y_std + y_mean).reshape(-1)
 
             valid_count = M - lag_offset - horizon
-
             if valid_count > 0:
                 start = lag_offset + horizon
                 y_pred_aligned[start:start + valid_count] = y_pred[:valid_count]
 
-        # ---- Calculate accuracy ----
-
         mask = ~np.isnan(y_pred_aligned)
-
         actual = y_true[mask]
         predicted = y_pred_aligned[mask]
 
-        # Avoid division by zero
-        nonzero = actual != 0
+        if len(actual) == 0:
+            print(f"{s['name']} -- no scoreable rows, skipping")
+            continue
 
-        actual = actual[nonzero]
-        predicted = predicted[nonzero]
+        m = compute_metrics(actual, predicted, capacity)
+        print_metrics(s["name"], m)
 
-        # MAPE
-        mape = np.mean(
-            np.abs((actual - predicted) / actual)
-        ) * 100
+        all_actual.append(actual)
+        all_pred.append(predicted)
 
-        accuracy = 100 - mape
-
-        print(f"{s['name']}")
-        print(f"MAPE: {mape:.2f}%")
-        print(f"Accuracy: {accuracy:.2f}%")
-        print("-" * 40)
+    if all_actual:
+        actual_all = np.concatenate(all_actual)
+        pred_all = np.concatenate(all_pred)
+        print("=" * 50)
+        print("OVERALL (all series pooled, raw MW -- naturally dominated by")
+        print("the largest-capacity plant; treat as a rough sanity check,")
+        print("not the headline number)")
+        m_all = compute_metrics(actual_all, pred_all, capacity_mw=None)
+        print_metrics("pooled", m_all)
 
 
 if __name__ == "__main__":
